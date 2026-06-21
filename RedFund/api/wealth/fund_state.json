@@ -3069,63 +3069,6 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.9355",
-        "establishedDate" : "2022-01-11",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "郑希",
-        "fundScale" : "37.05亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "012920",
-        "gsz" : "4.9387",
-        "gszzl" : "0.06",
-        "gztime" : "2026-06-19 04:00",
-        "jzrq" : "2026-06-17",
-        "lastUpdated" : "2026-06-21T10:33:04Z",
-        "latestHistoryNetValue" : 4.9355,
-        "latestHistoryNetValueDate" : "2026-06-16T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2022-01-11",
-        "name" : "易方达全球成长精选混合(QDII)人民币A",
-        "refreshStatus" : {
-          "none" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于等于29天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于等于364天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于等于729天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 4.159713938967894,
-        "tags" : [
-          "🌍全球",
-          "🚫未持",
-          "未持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
         "dwjz" : "3.8942",
         "establishedDate" : "2025-05-13",
         "fundCompany" : "华夏基金",
@@ -4080,7 +4023,7 @@
       "threshold" : 1.5
     }
   },
-  "generatedAt" : "2026-06-21T10:35:41Z",
+  "generatedAt" : "2026-06-21T10:37:15Z",
   "module" : "wealth",
   "version" : 1
 }
