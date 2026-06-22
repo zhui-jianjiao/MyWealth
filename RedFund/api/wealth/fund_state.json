@@ -298,6 +298,9 @@
         "🥘大盘基金",
         "🌍全球"
       ],
+      "021277" : [
+        "未持有"
+      ],
       "021528" : [
         "🔥热门",
         "🚫未持",
@@ -2555,6 +2558,53 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
+        "dwjz" : "7.0029",
+        "establishedDate" : "2024-04-18",
+        "fundCompany" : "广发基金",
+        "fundManager" : "李耀柱",
+        "fundScale" : "33.07亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "021277",
+        "gsz" : "7.0084",
+        "gszzl" : "0.08",
+        "gztime" : "2026-06-19 04:00",
+        "jzrq" : "2026-06-17",
+        "lastUpdated" : "2026-06-22T05:37:35Z",
+        "latestHistoryNetValue" : 7.0029,
+        "latestHistoryNetValueDate" : "2026-06-16T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-04-18",
+        "name" : "广发全球精选股票(QDII)人民币C",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.458256132729121,
+        "tags" : [
+          "未持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
         "dwjz" : "1.4816",
         "establishedDate" : "2023-09-22",
         "fundCompany" : "摩根基金(中国)",
@@ -4072,7 +4122,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-22T05:35:01Z",
+  "generatedAt" : "2026-06-22T05:37:36Z",
   "module" : "wealth",
   "version" : 1
 }
