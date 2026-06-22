@@ -258,6 +258,9 @@
         "🌍全球",
         "📥持有"
       ],
+      "017811" : [
+        "未持有"
+      ],
       "018123" : [
         "🚌等车",
         "🚫未持"
@@ -3523,6 +3526,54 @@
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "3.2494",
+        "establishedDate" : "2023-02-22",
+        "fundCompany" : "东方基金",
+        "fundManager" : "严凯",
+        "fundScale" : "97.60亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "017811",
+        "gsz" : "3.2236",
+        "gszzl" : "-0.79",
+        "gztime" : "2026-06-22 13:37",
+        "jzrq" : "2026-06-18",
+        "lastUpdated" : "2026-06-22T05:40:31Z",
+        "latestHistoryNetValue" : 3.2494,
+        "latestHistoryNetValueDate" : "2026-06-17T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-02-22",
+        "name" : "东方人工智能主题混合C",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.7910623215275026,
+        "tags" : [
+          "未持有"
+        ]
+      },
+      {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
         "dwjz" : "1.4011",
@@ -4232,7 +4283,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-22T05:39:50Z",
+  "generatedAt" : "2026-06-22T05:42:42Z",
   "module" : "wealth",
   "version" : 1
 }
