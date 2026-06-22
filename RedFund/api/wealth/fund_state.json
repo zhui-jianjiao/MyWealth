@@ -96,6 +96,9 @@
         "💉医药医疗",
         "📥持有"
       ],
+      "004320" : [
+        "未持有"
+      ],
       "004753" : [
         "📽️文化传媒",
         "📥持有",
@@ -3464,6 +3467,62 @@
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "7.7499",
+        "establishedDate" : "2017-05-12",
+        "fundCompany" : "前海开源基金",
+        "fundManager" : "魏淳,梁策",
+        "fundScale" : "10.57亿",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "004320",
+        "gsz" : "7.6892",
+        "gszzl" : "-0.78",
+        "gztime" : "2026-06-22 13:37",
+        "jzrq" : "2026-06-18",
+        "lastUpdated" : "2026-06-22T05:39:48Z",
+        "latestHistoryNetValue" : 7.7499,
+        "latestHistoryNetValueDate" : "2026-06-17T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-12-20",
+        "name" : "前海开源沪港深乐享生活",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "通信|通信设备",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于366天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于366天，小于731天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于731天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 3.600112349643976,
+        "tags" : [
+          "未持有"
+        ]
+      },
+      {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
         "dwjz" : "1.4011",
@@ -4173,7 +4232,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-22T05:38:48Z",
+  "generatedAt" : "2026-06-22T05:39:50Z",
   "module" : "wealth",
   "version" : 1
 }
