@@ -362,6 +362,9 @@
       "025209" : [
         "📀半导体"
       ],
+      "025500" : [
+        "未持有"
+      ],
       "025833" : [
         "📥持有",
         "⚡️电网"
@@ -499,6 +502,54 @@
         "tags" : [
           "🪙稀有金属",
           "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "2.2432",
+        "establishedDate" : "2025-09-12",
+        "fundCompany" : "东方阿尔法基金",
+        "fundManager" : "梁少文",
+        "fundScale" : "14.98亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "025500",
+        "gsz" : "2.3158",
+        "gszzl" : "3.24",
+        "gztime" : "2026-06-22 13:34",
+        "jzrq" : "2026-06-18",
+        "lastUpdated" : "2026-06-22T05:38:47Z",
+        "latestHistoryNetValue" : 2.2432,
+        "latestHistoryNetValueDate" : "2026-06-17T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-12-04",
+        "name" : "东方阿尔法科技智选混合发起C",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "存储芯片|半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.3185627160994122,
+        "tags" : [
+          "未持有"
         ]
       },
       {
@@ -4122,7 +4173,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-22T05:37:36Z",
+  "generatedAt" : "2026-06-22T05:38:48Z",
   "module" : "wealth",
   "version" : 1
 }
