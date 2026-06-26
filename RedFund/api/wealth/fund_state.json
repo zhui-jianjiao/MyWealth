@@ -209,6 +209,9 @@
         "🔥热门",
         "📥持有"
       ],
+      "014320" : [
+        "🚫未持"
+      ],
       "014344" : [
         "🥘大盘基金",
         "🛒中证500",
@@ -2198,6 +2201,54 @@
           "🥘大盘基金",
           "📥持有",
           "🧺沪深300"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "3.5256",
+        "establishedDate" : "2021-12-28",
+        "fundCompany" : "德邦基金",
+        "fundManager" : "江杨磊,袁之渿",
+        "fundScale" : "33.99亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "014320",
+        "gsz" : "3.5065",
+        "gszzl" : "-2.20",
+        "gztime" : "2026-06-26 15:00",
+        "jzrq" : "2026-06-26",
+        "lastUpdated" : "2026-06-26T15:32:28Z",
+        "latestHistoryNetValue" : 3.5256,
+        "latestHistoryNetValueDate" : "2026-06-25T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-05-29",
+        "name" : "德邦半导体产业混合发起式C",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "半导体|电子",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.9346402945678425,
+        "tags" : [
+          "🚫未持"
         ]
       },
       {
@@ -4432,7 +4483,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-26T15:31:02Z",
+  "generatedAt" : "2026-06-26T15:32:30Z",
   "module" : "wealth",
   "version" : 1
 }
