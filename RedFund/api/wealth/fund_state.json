@@ -199,6 +199,9 @@
         "📥持有",
         "⏰定投"
       ],
+      "014143" : [
+        "🚫未持"
+      ],
       "014162" : [
         "🚫未持"
       ],
@@ -2389,6 +2392,54 @@
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "14.6055",
+        "establishedDate" : "2021-11-22",
+        "fundCompany" : "银河基金",
+        "fundManager" : "郑巍山",
+        "fundScale" : "30.06亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "014143",
+        "gsz" : "14.6077",
+        "gszzl" : "-1.94",
+        "gztime" : "2026-06-26 15:00",
+        "jzrq" : "2026-06-26",
+        "lastUpdated" : "2026-06-26T15:31:01Z",
+        "latestHistoryNetValue" : 14.6055,
+        "latestHistoryNetValueDate" : "2026-06-25T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2021-11-22",
+        "name" : "银河创新成长混合C",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "半导体|电子",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.2045449857593473,
+        "tags" : [
+          "🚫未持"
+        ]
+      },
+      {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
         "dwjz" : "2.1840",
@@ -4381,7 +4432,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-06-26T15:29:22Z",
+  "generatedAt" : "2026-06-26T15:31:02Z",
   "module" : "wealth",
   "version" : 1
 }
