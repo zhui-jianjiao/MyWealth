@@ -178,6 +178,9 @@
       "010416" : [
         "📥持有"
       ],
+      "010736" : [
+        "🚫未持"
+      ],
       "011036" : [
         "🪨矿产",
         "📥持有"
@@ -746,6 +749,56 @@
         ]
       },
       {
+        "custodyFee" : "0.05%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.6268",
+        "establishedDate" : "2021-03-01",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "林伟斌,成曦",
+        "fundScale" : "112.86亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011609",
+        "gsz" : "1.5147",
+        "gszzl" : "-6.89",
+        "gztime" : "2026-07-02 14:19",
+        "jzrq" : "2026-07-01",
+        "lastUpdated" : "2026-07-02T06:22:52Z",
+        "latestHistoryNetValue" : 1.6268,
+        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
+        "managementFee" : "0.15%",
+        "managerStartDate" : "2021-03-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达上证科创50联接C",
+        "purchasePrice" : 1.4158497099550538,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 7952.8214900418,
+        "sharpeRatio" : 2.3927684013745534,
+        "tags" : [
+          "🥘大盘基金",
+          "🔬科创50",
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
         "dwjz" : "4.2176",
@@ -795,6 +848,57 @@
         "sharpeRatio" : 3.358134998862021,
         "tags" : [
           "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.5218",
+        "establishedDate" : "2021-07-16",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "张戈",
+        "fundScale" : "25.36亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012895",
+        "gsz" : "1.4218",
+        "gszzl" : "-6.57",
+        "gztime" : "2026-07-02 14:19",
+        "jzrq" : "2026-07-01",
+        "lastUpdated" : "2026-07-02T06:22:55Z",
+        "latestHistoryNetValue" : 1.5218,
+        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-10-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证科创创业50ETF联接C",
+        "purchasePrice" : 1.445008615049157,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 8546.661847811802,
+        "sharpeRatio" : 2.9077158889985903,
+        "tags" : [
+          "🔬科创50",
+          "💻科技",
+          "📥持有",
+          "🥘大盘基金"
         ]
       },
       {
@@ -899,56 +1003,6 @@
         "sharpeRatio" : 2.4444767545612214,
         "tags" : [
           "🚫未持"
-        ]
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.6268",
-        "establishedDate" : "2021-03-01",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "林伟斌,成曦",
-        "fundScale" : "112.86亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011609",
-        "gsz" : "1.5255",
-        "gszzl" : "-6.23",
-        "gztime" : "2026-07-02 14:09",
-        "jzrq" : "2026-07-01",
-        "lastUpdated" : "2026-07-02T06:12:42Z",
-        "latestHistoryNetValue" : 1.6268,
-        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
-        "managementFee" : "0.15%",
-        "managerStartDate" : "2021-03-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达上证科创50联接C",
-        "purchasePrice" : 1.4158497099550538,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 7952.8214900418,
-        "sharpeRatio" : 2.3927684013745534,
-        "tags" : [
-          "🥘大盘基金",
-          "🔬科创50",
-          "📥持有"
         ]
       },
       {
@@ -1159,57 +1213,6 @@
         "tags" : [
           "📧通信",
           "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.5218",
-        "establishedDate" : "2021-07-16",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "张戈",
-        "fundScale" : "25.36亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012895",
-        "gsz" : "1.4311",
-        "gszzl" : "-5.96",
-        "gztime" : "2026-07-02 14:09",
-        "jzrq" : "2026-07-01",
-        "lastUpdated" : "2026-07-02T06:12:42Z",
-        "latestHistoryNetValue" : 1.5218,
-        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-10-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证科创创业50ETF联接C",
-        "purchasePrice" : 1.445008615049157,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 8546.661847811802,
-        "sharpeRatio" : 2.9077158889985903,
-        "tags" : [
-          "🔬科创50",
-          "💻科技",
-          "📥持有",
-          "🥘大盘基金"
         ]
       },
       {
@@ -2719,6 +2722,64 @@
           }
         ],
         "sharpeRatio" : 2.3991391360050827,
+        "tags" : [
+          "🚫未持"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.4323",
+        "establishedDate" : "2020-12-30",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "张胜记",
+        "fundScale" : "20.74亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "010736",
+        "gsz" : "1.3949",
+        "gszzl" : "-2.61",
+        "gztime" : "2026-07-02 14:26",
+        "jzrq" : "2026-07-01",
+        "lastUpdated" : "2026-07-02T06:29:28Z",
+        "latestHistoryNetValue" : 1.4323,
+        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2020-12-30",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达沪深300指数增强A",
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于等于29天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于等于364天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天，小于等于729天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于730天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 2.529093375101672,
         "tags" : [
           "🚫未持"
         ]
@@ -4832,7 +4893,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-07-02T06:16:39Z",
+  "generatedAt" : "2026-07-02T06:29:30Z",
   "module" : "wealth",
   "version" : 1
 }
