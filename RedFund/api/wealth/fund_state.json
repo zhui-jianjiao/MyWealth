@@ -88,6 +88,9 @@
       "000217" : [
         "📥持有"
       ],
+      "000962" : [
+        "🚫未持"
+      ],
       "001052" : [
         "🥘大盘基金",
         "🛒中证500",
@@ -2621,6 +2624,54 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
+        "dwjz" : "1.7706",
+        "eastmoneyTime" : "2026-07-02 14:17",
+        "eastmoneyValuation" : "83.99",
+        "establishedDate" : "2015-01-20",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "陈瑶",
+        "fundScale" : "11.79亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "000962",
+        "gsz" : "1.7228",
+        "gszzl" : "-2.70",
+        "gztime" : "2026-07-02 14:13",
+        "jzrq" : "2026-07-01",
+        "lastUpdated" : "2026-07-02T06:16:38Z",
+        "latestHistoryNetValue" : 1.7706,
+        "latestHistoryNetValueDate" : "2026-06-30T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2021-08-14",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证500ETF联接A",
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "none" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.10%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.05%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.05%"
+          }
+        ],
+        "sharpeRatio" : 2.1753689651921033,
+        "tags" : [
+          "🚫未持"
+        ]
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
         "dwjz" : "2.0213",
         "establishedDate" : "2015-06-30",
         "fundCompany" : "天弘基金",
@@ -4781,7 +4832,7 @@
       "threshold" : 2
     }
   },
-  "generatedAt" : "2026-07-02T06:16:32Z",
+  "generatedAt" : "2026-07-02T06:16:39Z",
   "module" : "wealth",
   "version" : 1
 }
