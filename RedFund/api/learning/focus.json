@@ -1,7 +1,15 @@
 {
   "api" : "focus_study",
   "data" : {
+    "plots" : [
+
+    ],
     "sessions" : [
+      {
+        "endDate" : "2026-07-03T18:41:56Z",
+        "id" : "9D264AE1-4139-4135-B8FE-E74C5A463D66",
+        "startDate" : "2026-07-03T11:28:58Z"
+      },
       {
         "endDate" : "2026-07-04T13:28:39Z",
         "id" : "C80B4AD2-FDFD-407D-AA9D-13E2B60D4CF1",
@@ -13,13 +21,13 @@
         "startDate" : "2026-07-04T11:28:58Z"
       },
       {
-        "endDate" : "2026-07-03T18:41:56Z",
-        "id" : "9D264AE1-4139-4135-B8FE-E74C5A463D66",
-        "startDate" : "2026-07-03T11:28:58Z"
+        "endDate" : "2026-07-04T16:43:58Z",
+        "id" : "CA17E2E1-B86C-45FF-8BCE-C7DE7EC75553",
+        "startDate" : "2026-07-04T16:42:25Z"
       }
     ]
   },
-  "generatedAt" : "2026-07-04T11:29:56Z",
+  "generatedAt" : "2026-07-04T16:43:58Z",
   "module" : "learning",
   "version" : 1
 }
