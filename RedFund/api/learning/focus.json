@@ -103,11 +103,6 @@
         "plant" : "fern"
       },
       {
-        "dateKey" : "2026-07-03",
-        "index" : 20,
-        "plant" : "fern"
-      },
-      {
         "dateKey" : "2026-07-04",
         "index" : 0,
         "plant" : "fern"
@@ -125,7 +120,7 @@
       {
         "dateKey" : "2026-07-04",
         "index" : 3,
-        "plant" : "flowerBush"
+        "plant" : "shrub"
       },
       {
         "dateKey" : "2026-07-04",
@@ -176,7 +171,5 @@
       }
     ]
   },
-  "generatedAt" : "2026-07-05T11:08:26.101+08:00",
-  "module" : "learning",
-  "version" : 1
+  "module" : "learning"
 }
