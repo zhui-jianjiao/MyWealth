@@ -2,7 +2,11 @@
   "api" : "focus_study",
   "data" : {
     "plots" : [
-
+      {
+        "dateKey" : "2026-07-04",
+        "index" : 0,
+        "plant" : "fern"
+      }
     ],
     "sessions" : [
       {
@@ -37,7 +41,7 @@
       }
     ]
   },
-  "generatedAt" : "2026-07-05T10:23:31.058+08:00",
+  "generatedAt" : "2026-07-05T10:25:00.833+08:00",
   "module" : "learning",
   "version" : 1
 }
