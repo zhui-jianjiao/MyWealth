@@ -420,7 +420,9 @@
       ],
       "025209" : [
         "📀半导体",
-        "📥持有"
+        "📥持有",
+        "🚩重点",
+        "🚌等车"
       ],
       "025500" : [
         "📀半导体",
@@ -1821,7 +1823,9 @@
         "sharpeRatio" : 3.129471889622563,
         "tags" : [
           "📀半导体",
-          "📥持有"
+          "📥持有",
+          "🚩重点",
+          "🚌等车"
         ]
       },
       {
@@ -2446,6 +2450,57 @@
         ]
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.4081",
+        "establishedDate" : "2021-07-16",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "张戈",
+        "fundScale" : "25.36亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012895",
+        "gsz" : "1.3963",
+        "gszzl" : "-0.84",
+        "gztime" : "2026-07-08 14:47",
+        "jzrq" : "2026-07-07",
+        "lastUpdated" : "2026-07-08T06:51:29Z",
+        "latestHistoryNetValue" : 1.4081,
+        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-10-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证科创创业50ETF联接C",
+        "purchasePrice" : 1.4323676512967292,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 15254.46346140189,
+        "sharpeRatio" : 2.6096636595918117,
+        "tags" : [
+          "🔬科创50",
+          "💻科技",
+          "📥持有",
+          "🥘大盘基金"
+        ]
+      },
+      {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
         "dwjz" : "1.0890",
@@ -2665,28 +2720,28 @@
         ]
       },
       {
-        "custodyFee" : "0.10%",
+        "custodyFee" : "0.18%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.4081",
-        "establishedDate" : "2021-07-16",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "张戈",
-        "fundScale" : "25.36亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012895",
-        "gsz" : "1.4001",
+        "dwjz" : "5.7237",
+        "establishedDate" : "2024-10-30",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "任桀",
+        "fundScale" : "108.52亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "022365",
+        "gsz" : "5.6908",
         "gszzl" : "-0.57",
-        "gztime" : "2026-07-08 14:43",
+        "gztime" : "2026-07-08 14:47",
         "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-08T06:45:45Z",
-        "latestHistoryNetValue" : 1.4081,
+        "lastUpdated" : "2026-07-08T06:51:21Z",
+        "latestHistoryNetValue" : 5.7237,
         "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-10-11",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-10-30",
         "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证科创创业50ETF联接C",
-        "purchasePrice" : 1.4323676512967292,
-        "purchaseStatus" : "开放申购",
+        "name" : "永赢科技智选混合发起C",
+        "purchasePrice" : 6.026910615378578,
+        "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
 
@@ -2694,7 +2749,7 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "制造业",
+        "sectorName" : "元件|光模块",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -2702,17 +2757,19 @@
             "rate" : "1.50%"
           },
           {
-            "holdingPeriod" : "大于等于7天",
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
             "rate" : "0.00%"
           }
         ],
-        "shares" : 15254.46346140189,
-        "sharpeRatio" : 2.6096636595918117,
+        "shares" : 3116.4805982144417,
+        "sharpeRatio" : 3.2822799160508596,
         "tags" : [
-          "🔬科创50",
           "💻科技",
-          "📥持有",
-          "🥘大盘基金"
+          "📥持有"
         ]
       },
       {
@@ -2935,59 +2992,6 @@
         "shares" : 5391.591144216843,
         "sharpeRatio" : 3.0216668824751705,
         "tags" : [
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.18%",
-        "dataSource" : "天天基金",
-        "dwjz" : "5.7237",
-        "establishedDate" : "2024-10-30",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "任桀",
-        "fundScale" : "108.52亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "022365",
-        "gsz" : "5.7089",
-        "gszzl" : "-0.26",
-        "gztime" : "2026-07-08 14:40",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-08T06:45:44Z",
-        "latestHistoryNetValue" : 5.7237,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-10-30",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢科技智选混合发起C",
-        "purchasePrice" : 6.026910615378578,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "元件|光模块",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 3116.4805982144417,
-        "sharpeRatio" : 3.2822799160508596,
-        "tags" : [
-          "💻科技",
           "📥持有"
         ]
       },
