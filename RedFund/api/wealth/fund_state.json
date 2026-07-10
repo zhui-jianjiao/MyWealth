@@ -4,6 +4,7 @@
     "bottomFundCodes" : [
       "024821",
       "023754",
+      "005827",
       "012414",
       "011103",
       "003095",
@@ -14,43 +15,42 @@
       "002207",
       "501302",
       "007466",
-      "540008",
       "026434",
       "110011",
       "015916",
-      "005827",
       "006503",
       "026132",
       "021633",
+      "540008",
       "000217"
     ],
     "bottomFundSectionTitle" : "沉底基金，观察行情，等待机会",
     "collapsedTags" : [
-      "📀半导体",
-      "📽️文化传媒",
-      "⏰定投",
-      "🚀高端制造",
       "🤖机器人",
-      "🌐互联网",
-      "🪙稀有金属",
       "制造",
-      "大消费",
-      "化工",
-      "🪨锂矿",
+      "🇭🇰港股",
+      "⚡️电网",
+      "🌐互联网",
       "💉医药医疗",
+      "💵美股",
       "🔋新能源",
       "🏮红利",
-      "⚡️电网",
-      "🪙金银贵金属",
-      "💻科技",
+      "📀半导体",
+      "🪨锂矿",
       "🪨矿产",
-      "🇭🇰港股",
-      "📧通信",
-      "🚩重点",
-      "💵美股",
-      "👀盈利就卖",
       "人工智能",
-      "🗑️基金"
+      "📽️文化传媒",
+      "🚀高端制造",
+      "🗑️基金",
+      "💻科技",
+      "🪙稀有金属",
+      "大消费",
+      "化工",
+      "⏰定投",
+      "👀盈利就卖",
+      "📧通信",
+      "🪙金银贵金属",
+      "🚩重点"
     ],
     "customTagOrder" : [
       "📥持有",
@@ -495,7 +495,7 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.6365",
+        "dwjz" : "1.6747",
         "establishedDate" : "2022-01-11",
         "fundCompany" : "鹏华基金",
         "fundManager" : "苏俊杰",
@@ -505,15 +505,15 @@
         "gsz" : "1.6877",
         "gszzl" : "3.13",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.6365,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.6747,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.80%",
         "managerStartDate" : "2022-01-11",
         "minimumPurchaseAmount" : "10",
         "name" : "鹏华中证500指数增强A",
-        "purchasePrice" : 1.6057,
+        "purchasePrice" : 1.6057300835899815,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -538,8 +538,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 34389.34,
-        "sharpeRatio" : 1.8921365473334817,
+        "shares" : 34389.34137457455,
+        "sharpeRatio" : 2.0262269747793313,
         "tags" : [
           "🥘大盘基金",
           "🛒中证500",
@@ -549,7 +549,7 @@
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.2473",
+        "dwjz" : "1.2621",
         "establishedDate" : "2025-11-25",
         "fundCompany" : "天弘基金",
         "fundManager" : "刘笑明,张戈",
@@ -559,15 +559,15 @@
         "gsz" : "1.2618",
         "gszzl" : "1.16",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.2473,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:56Z",
+        "latestHistoryNetValue" : 1.2621,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.15%",
         "managerStartDate" : "2025-12-12",
         "minimumPurchaseAmount" : "10",
         "name" : "天弘电网设备特高压指数C",
-        "purchasePrice" : 1.3642,
+        "purchasePrice" : 1.3641916787601593,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -588,8 +588,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 38595.02,
-        "sharpeRatio" : 1.2969204568696278,
+        "shares" : 38595.01624276998,
+        "sharpeRatio" : 1.35431149291824,
         "tags" : [
           "📥持有",
           "⚡️电网"
@@ -598,7 +598,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.6665",
+        "dwjz" : "1.6622",
         "establishedDate" : "2023-05-30",
         "fundCompany" : "天弘基金",
         "fundManager" : "贺雨轩",
@@ -608,15 +608,15 @@
         "gsz" : "1.6618",
         "gszzl" : "-0.28",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.6665,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.6622,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2023-05-30",
         "minimumPurchaseAmount" : "10",
         "name" : "天弘中证工业有色金属主题ETF发起联接C",
-        "purchasePrice" : 1.802,
+        "purchasePrice" : 1.7972274598698812,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -637,8 +637,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 25733.05,
-        "sharpeRatio" : 1.5220673391242854,
+        "shares" : 26635.471062447363,
+        "sharpeRatio" : 1.5052073141194708,
         "tags" : [
           "🪙稀有金属",
           "📥持有"
@@ -647,7 +647,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.3495",
+        "dwjz" : "1.4179",
         "establishedDate" : "2022-07-15",
         "fundCompany" : "永赢基金",
         "fundManager" : "张璐",
@@ -657,10 +657,10 @@
         "gsz" : "1.4114",
         "gszzl" : "4.59",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.3495,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.4179,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2022-07-15",
         "minimumPurchaseAmount" : "10",
@@ -691,7 +691,7 @@
           }
         ],
         "shares" : 27119.103371619123,
-        "sharpeRatio" : 1.53204621748871,
+        "sharpeRatio" : 1.6459506234283532,
         "tags" : [
           "📥持有",
           "⚖️科技",
@@ -701,7 +701,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.2823",
+        "dwjz" : "1.2623",
         "establishedDate" : "2021-08-03",
         "fundCompany" : "嘉实基金",
         "fundManager" : "田光远",
@@ -711,15 +711,15 @@
         "gsz" : "1.2608",
         "gszzl" : "-1.68",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.2823,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.2623,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2021-08-03",
         "minimumPurchaseAmount" : "10",
         "name" : "嘉实中证稀土产业ETF联接C",
-        "purchasePrice" : 1.3838405711883506,
+        "purchasePrice" : 1.3394357405904749,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -740,8 +740,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 24672.502534508305,
-        "sharpeRatio" : 1.4090324757680341,
+        "shares" : 26653.014338905174,
+        "sharpeRatio" : 1.3952185719866828,
         "tags" : [
           "🪨矿产",
           "📥持有"
@@ -750,7 +750,7 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.1538",
+        "dwjz" : "2.2023",
         "eastmoneyTime" : "2026-07-09 15:00",
         "eastmoneyValuation" : "11.71",
         "establishedDate" : "2016-07-22",
@@ -762,15 +762,15 @@
         "gsz" : "2.2085",
         "gszzl" : "2.54",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 2.1538,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 2.2023,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2022-01-14",
         "minimumPurchaseAmount" : "10",
         "name" : "中金沪深300指数增强A",
-        "purchasePrice" : 2.214109862824229,
+        "purchasePrice" : 2.1661264329431935,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -795,8 +795,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 13434.121088309035,
-        "sharpeRatio" : 1.4605281242440493,
+        "shares" : 13434.118875720837,
+        "sharpeRatio" : 1.608471108288177,
         "tags" : [
           "🥘大盘基金",
           "📥持有",
@@ -806,25 +806,25 @@
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.7326",
+        "dwjz" : "0.7311",
         "establishedDate" : "2025-10-29",
         "fundCompany" : "国海富兰克林基金",
         "fundManager" : "张志强",
         "fundScale" : "1.59亿",
         "fundType" : "指数型-股票",
         "fundcode" : "024821",
-        "gsz" : "0.7336",
-        "gszzl" : "0.14",
+        "gsz" : "0.7309",
+        "gszzl" : "-0.24",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.7326,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:55Z",
+        "latestHistoryNetValue" : 0.7311,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.40%",
         "managerStartDate" : "2025-10-29",
         "minimumPurchaseAmount" : "10",
         "name" : "国富国证港股通科技指数C",
-        "purchasePrice" : 0.6819000838344603,
+        "purchasePrice" : 0.7986330415302851,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -844,8 +844,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 38002.429702429705,
-        "sharpeRatio" : -1.8193298751471318,
+        "shares" : 38002.43468745726,
+        "sharpeRatio" : -1.826360978067267,
         "tags" : [
           "🌐互联网",
           "🇭🇰港股",
@@ -855,58 +855,9 @@
         ]
       },
       {
-        "custodyFee" : "0.10%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.8408",
-        "establishedDate" : "2025-03-24",
-        "fundCompany" : "国泰基金",
-        "fundManager" : "朱碧莹",
-        "fundScale" : "27.79亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "023639",
-        "gsz" : "1.8704",
-        "gszzl" : "1.61",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.8408,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-03-24",
-        "minimumPurchaseAmount" : "10",
-        "name" : "国泰A股电网设备ETF联接C",
-        "purchasePrice" : 2.025136257721222,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "电力设备|电网设备",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 13880.557366362453,
-        "sharpeRatio" : 2.1648874103898645,
-        "tags" : [
-          "⚡️电网",
-          "📥持有"
-        ]
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.6782",
+        "dwjz" : "0.7077",
         "establishedDate" : "2025-03-26",
         "fundCompany" : "永赢基金",
         "fundManager" : "王文龙",
@@ -916,15 +867,15 @@
         "gsz" : "0.6978",
         "gszzl" : "2.89",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 0.6782,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:56Z",
+        "latestHistoryNetValue" : 0.7077,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2025-03-26",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢信息产业智选混合发起C",
-        "purchasePrice" : 0.7454998058157724,
+        "purchasePrice" : 0.9109601510731167,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -949,8 +900,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 37487.923916248896,
-        "sharpeRatio" : -0.7117583119049422,
+        "shares" : 37487.91860958033,
+        "sharpeRatio" : -0.6003631371506379,
         "tags" : [
           "🌐互联网",
           "📥持有",
@@ -961,7 +912,7 @@
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.3241",
+        "dwjz" : "2.4636",
         "establishedDate" : "2022-03-01",
         "fundCompany" : "易方达基金",
         "fundManager" : "张湛",
@@ -971,15 +922,15 @@
         "gsz" : "2.4712",
         "gszzl" : "6.33",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 2.3241,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 2.4636,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.15%",
         "managerStartDate" : "2022-03-01",
         "minimumPurchaseAmount" : "10",
         "name" : "易方达中证人工智能主题ETF联接C",
-        "purchasePrice" : 2.427338052414941,
+        "purchasePrice" : 2.1874652586355476,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1000,8 +951,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 10668.7405877544,
-        "sharpeRatio" : 2.1895065876684754,
+        "shares" : 10668.740867023867,
+        "sharpeRatio" : 2.324627858830255,
         "tags" : [
           "📥持有"
         ]
@@ -1009,7 +960,56 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.3943",
+        "dwjz" : "1.8693",
+        "establishedDate" : "2025-03-24",
+        "fundCompany" : "国泰基金",
+        "fundManager" : "朱碧莹",
+        "fundScale" : "27.79亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "023639",
+        "gsz" : "1.8697",
+        "gszzl" : "1.57",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:55Z",
+        "latestHistoryNetValue" : 1.8693,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-03-24",
+        "minimumPurchaseAmount" : "10",
+        "name" : "国泰A股电网设备ETF联接C",
+        "purchasePrice" : 2.0071236944023823,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "电力设备|电网设备",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 13880.559567752634,
+        "sharpeRatio" : 2.19967617493829,
+        "tags" : [
+          "⚡️电网",
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.4813",
         "establishedDate" : "2021-07-16",
         "fundCompany" : "天弘基金",
         "fundManager" : "张戈",
@@ -1019,15 +1019,15 @@
         "gsz" : "1.4855",
         "gszzl" : "6.54",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 1.3943,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:56Z",
+        "latestHistoryNetValue" : 1.4813,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-10-11",
         "minimumPurchaseAmount" : "10",
         "name" : "天弘中证科创创业50ETF联接C",
-        "purchasePrice" : 1.4668620790524245,
+        "purchasePrice" : 1.4283642914223666,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1048,8 +1048,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 17047.47184967367,
-        "sharpeRatio" : 2.528559123689474,
+        "shares" : 17047.471815297373,
+        "sharpeRatio" : 2.679222564241684,
         "tags" : [
           "🔬科创50",
           "💻科技",
@@ -1058,27 +1058,76 @@
         ]
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "0.8641",
+        "establishedDate" : "2022-06-17",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "祁世超",
+        "fundScale" : "23.79亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "015897",
+        "gsz" : "0.8637",
+        "gszzl" : "-0.61",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 0.8641,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-10-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证细分化工产业主题ETF联接C",
+        "purchasePrice" : 0.865281962396927,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "基础化工|材料",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 26904.40921189677,
+        "sharpeRatio" : 1.38610419767071,
+        "tags" : [
+          "化工",
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.1430",
+        "dwjz" : "2.1438",
         "establishedDate" : "2023-05-04",
         "fundCompany" : "永赢基金",
         "fundManager" : "张璐",
         "fundScale" : "126.20亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "018125",
-        "gsz" : "2.1412",
-        "gszzl" : "-0.09",
+        "gsz" : "2.1413",
+        "gszzl" : "-0.08",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 2.143,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 2.1438,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-05-04",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢先进制造智选混合发起C",
-        "purchasePrice" : 2.2617671954511422,
+        "purchasePrice" : 2.2630689670953275,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1103,8 +1152,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 10702.28184787681,
-        "sharpeRatio" : 0.5707683628776317,
+        "shares" : 10702.2809963616,
+        "sharpeRatio" : 0.5911392555163208,
         "tags" : [
           "📥持有",
           "🤖机器人",
@@ -1112,76 +1161,27 @@
         ]
       },
       {
-        "custodyFee" : "0.10%",
-        "dataSource" : "天天基金",
-        "dwjz" : "0.8690",
-        "establishedDate" : "2022-06-17",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "祁世超",
-        "fundScale" : "23.79亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "015897",
-        "gsz" : "0.8637",
-        "gszzl" : "-0.61",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:17Z",
-        "latestHistoryNetValue" : 0.869,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-10-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证细分化工产业主题ETF联接C",
-        "purchasePrice" : 0.9371102710220341,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "基础化工|材料",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 23432.589182968928,
-        "sharpeRatio" : 1.4026577491291057,
-        "tags" : [
-          "化工",
-          "📥持有"
-        ]
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.1675",
+        "dwjz" : "4.3849",
         "establishedDate" : "2023-09-12",
         "fundCompany" : "中欧基金",
         "fundManager" : "冯炉丹",
         "fundScale" : "38.86亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "018994",
-        "gsz" : "4.3888",
+        "gsz" : "4.3890",
         "gszzl" : "5.31",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 4.1675,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 4.3849,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-09-12",
         "minimumPurchaseAmount" : "10",
         "name" : "中欧数字经济混合发起C",
-        "purchasePrice" : 4.621600327288671,
+        "purchasePrice" : 4.2894918034637275,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1206,8 +1206,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 4849.060587882423,
-        "sharpeRatio" : 2.5595629879709163,
+        "shares" : 4849.0592715911425,
+        "sharpeRatio" : 2.6581739255634136,
         "tags" : [
           "人工智能",
           "📥持有",
@@ -1218,7 +1218,7 @@
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.5292",
+        "dwjz" : "1.6507",
         "establishedDate" : "2021-03-01",
         "fundCompany" : "易方达基金",
         "fundManager" : "林伟斌,成曦",
@@ -1228,15 +1228,15 @@
         "gsz" : "1.6578",
         "gszzl" : "8.41",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:07:15Z",
-        "latestHistoryNetValue" : 1.5292,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:56Z",
+        "latestHistoryNetValue" : 1.6507,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.15%",
         "managerStartDate" : "2021-03-01",
         "minimumPurchaseAmount" : "10",
         "name" : "易方达上证科创50联接C",
-        "purchasePrice" : 1.582523134678161,
+        "purchasePrice" : 1.4480134020077755,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1257,8 +1257,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 12472.260005231496,
-        "sharpeRatio" : 2.090376374107602,
+        "shares" : 12472.260253225902,
+        "sharpeRatio" : 2.2807256202365425,
         "tags" : [
           "🥘大盘基金",
           "🔬科创50",
@@ -1269,7 +1269,7 @@
       {
         "custodyFee" : "0.18%",
         "dataSource" : "天天基金",
-        "dwjz" : "5.6813",
+        "dwjz" : "5.9395",
         "establishedDate" : "2024-10-30",
         "fundCompany" : "永赢基金",
         "fundManager" : "任桀",
@@ -1279,15 +1279,15 @@
         "gsz" : "5.9747",
         "gszzl" : "5.16",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 5.6813,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:56Z",
+        "latestHistoryNetValue" : 5.9395,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-10-30",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢科技智选混合发起C",
-        "purchasePrice" : 5.978433267723428,
+        "purchasePrice" : 5.588196550250589,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1296,7 +1296,7 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "光通信|算力",
+        "sectorName" : "元件|光模块",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1312,8 +1312,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 3116.4803830109304,
-        "sharpeRatio" : 3.2316404946540227,
+        "shares" : 3116.479501641553,
+        "sharpeRatio" : 3.2890393754138385,
         "tags" : [
           "💻科技",
           "📥持有"
@@ -1322,7 +1322,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "5.0423",
+        "dwjz" : "5.3783",
         "establishedDate" : "2023-08-10",
         "fundCompany" : "中航基金",
         "fundManager" : "韩浩,王森",
@@ -1332,15 +1332,15 @@
         "gsz" : "5.3305",
         "gszzl" : "5.72",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 5.0423,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 5.3783,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-04-20",
         "minimumPurchaseAmount" : "10",
         "name" : "中航机遇领航混合发起C",
-        "purchasePrice" : 5.5357019908599,
+        "purchasePrice" : 5.363154566878858,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1365,8 +1365,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 3165.3094817841065,
-        "sharpeRatio" : 2.600389544575088,
+        "shares" : 3165.3106000037187,
+        "sharpeRatio" : 2.676402393858777,
         "tags" : [
           "📧通信",
           "📥持有"
@@ -1375,7 +1375,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.9060",
+        "dwjz" : "0.9201",
         "establishedDate" : "2018-04-23",
         "fundCompany" : "中航基金",
         "fundManager" : "韩浩",
@@ -1385,15 +1385,15 @@
         "gsz" : "0.9228",
         "gszzl" : "1.86",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.906,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 0.9201,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.70%",
         "managerStartDate" : "2021-03-23",
         "minimumPurchaseAmount" : "10",
         "name" : "中航新起航灵活配置混合C",
-        "purchasePrice" : 1.0385221790919283,
+        "purchasePrice" : 0.980771291579821,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1418,8 +1418,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 15752.759381898455,
-        "sharpeRatio" : 1.0359972917740756,
+        "shares" : 15752.75513531138,
+        "sharpeRatio" : 1.074514829791627,
         "tags" : [
           "🔋新能源",
           "制造",
@@ -1427,9 +1427,61 @@
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "2.5074",
+        "establishedDate" : "2021-03-31",
+        "fundCompany" : "华泰柏瑞基金",
+        "fundManager" : "陈文凯",
+        "fundScale" : "13.20亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "010416",
+        "gsz" : "2.4798",
+        "gszzl" : "5.31",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 2.5074,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-02-19",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华泰柏瑞质量精选混合C",
+        "purchasePrice" : 2.568816032700958,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "通信设备|通信",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 5391.588896865279,
+        "sharpeRatio" : 3.035137623641628,
+        "tags" : [
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.0109",
+        "dwjz" : "1.0407",
         "establishedDate" : "2015-05-05",
         "fundCompany" : "华夏基金",
         "fundManager" : "荣膺",
@@ -1439,15 +1491,15 @@
         "gsz" : "1.0425",
         "gszzl" : "3.13",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.0109,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 1.0407,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.15%",
         "managerStartDate" : "2025-06-30",
         "minimumPurchaseAmount" : "10",
         "name" : "华夏中证500ETF联接A",
-        "purchasePrice" : 1.0550842597005579,
+        "purchasePrice" : 1.0142689768470068,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1472,8 +1524,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 12826.96606983876,
-        "sharpeRatio" : 1.713003180432522,
+        "shares" : 12826.972230229654,
+        "sharpeRatio" : 1.852189211320926,
         "tags" : [
           "🥘大盘基金",
           "🛒中证500",
@@ -1481,27 +1533,27 @@
         ]
       },
       {
-        "custodyFee" : "0.20%",
+        "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.3548",
-        "establishedDate" : "2021-03-31",
-        "fundCompany" : "华泰柏瑞基金",
-        "fundManager" : "陈文凯",
-        "fundScale" : "13.20亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "010416",
-        "gsz" : "2.4797",
-        "gszzl" : "5.30",
-        "gztime" : "2026-07-09 15:00",
+        "dwjz" : "1.0170",
+        "establishedDate" : "2023-09-05",
+        "fundCompany" : "博时基金",
+        "fundManager" : "王祥",
+        "fundScale" : "1.85亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "018853",
+        "gsz" : "1.0188",
+        "gszzl" : "0.18",
+        "gztime" : "2026-07-10 04:00",
         "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.3548,
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 1.017,
         "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-02-19",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2023-09-05",
         "minimumPurchaseAmount" : "10",
-        "name" : "华泰柏瑞质量精选混合C",
-        "purchasePrice" : 2.659524487481215,
+        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
+        "purchasePrice" : 1.0283734219816751,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1510,7 +1562,6 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "通信设备|通信",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1518,42 +1569,39 @@
             "rate" : "1.50%"
           },
           {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
+            "holdingPeriod" : "大于等于7天",
             "rate" : "0.00%"
           }
         ],
-        "shares" : 5391.591642602344,
-        "sharpeRatio" : 2.9610826328422526,
+        "shares" : 12884.424778761062,
+        "sharpeRatio" : 0.7993564534938038,
         "tags" : [
+          "🪨矿产",
           "📥持有"
         ]
       },
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.8668",
+        "dwjz" : "3.0619",
         "establishedDate" : "2022-09-22",
         "fundCompany" : "永赢基金",
         "fundManager" : "张海啸",
         "fundScale" : "37.51亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "015968",
-        "gsz" : "3.0810",
-        "gszzl" : "7.47",
+        "gsz" : "3.0795",
+        "gszzl" : "7.42",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:08:02Z",
-        "latestHistoryNetValue" : 2.8668,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 3.0619,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-06-17",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢半导体产业智选混合发起C",
-        "purchasePrice" : 2.5453524584598894,
+        "purchasePrice" : 2.5453528164068855,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1578,171 +1626,17 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 4236.941710825132,
-        "sharpeRatio" : 2.4783012285025587,
+        "shares" : 4236.941114993958,
+        "sharpeRatio" : 2.685841365810165,
         "tags" : [
           "📀半导体",
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.2947",
-        "establishedDate" : "2021-12-02",
-        "fundCompany" : "汇添富基金",
-        "fundManager" : "马磊",
-        "fundScale" : "5.58亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014194",
-        "gsz" : "2.5005",
-        "gszzl" : "8.97",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:07:10Z",
-        "latestHistoryNetValue" : 2.2947,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-07-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "汇添富中证芯片产业指数增强发起式C",
-        "purchasePrice" : 2.422788159728669,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "电子|半导体",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 5093.288883078398,
-        "sharpeRatio" : 2.606470985462109,
-        "tags" : [
-          "🔥热门",
-          "📥持有",
-          "⚖️科技",
-          "📀半导体",
-          "芯片"
-        ]
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "天天基金",
-        "dwjz" : "0.9889",
-        "establishedDate" : "2023-09-05",
-        "fundCompany" : "博时基金",
-        "fundManager" : "王祥",
-        "fundScale" : "1.85亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "018853",
-        "gsz" : "0.9797",
-        "gszzl" : "-0.93",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.9889,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2023-09-05",
-        "minimumPurchaseAmount" : "10",
-        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
-        "purchasePrice" : 0.9736320120448946,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 11451.41065830721,
-        "sharpeRatio" : 0.6261517807248741,
-        "tags" : [
-          "🪨矿产",
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.2350",
-        "establishedDate" : "2023-03-02",
-        "fundCompany" : "华宝基金",
-        "fundManager" : "周晶,赵启元",
-        "fundScale" : "51.75亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "017437",
-        "gsz" : "2.2016",
-        "gszzl" : "-1.04",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.235,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-11-06",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华宝纳斯达克精选股票发起式(QDII)C",
-        "purchasePrice" : 2.281284413499545,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 4925.207893199084,
-        "sharpeRatio" : 0.7264186841104279,
-        "tags" : [
-          "纳指100",
-          "💵美股",
-          "🥘大盘基金",
           "📥持有"
         ]
       },
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.0920",
+        "dwjz" : "2.1050",
         "establishedDate" : "2016-12-26",
         "fundCompany" : "前海开源基金",
         "fundManager" : "吴国清",
@@ -1752,15 +1646,15 @@
         "gsz" : "2.0987",
         "gszzl" : "0.32",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.092,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 2.105,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.60%",
         "managerStartDate" : "2025-04-29",
         "minimumPurchaseAmount" : "10",
         "name" : "前海开源嘉鑫混合C",
-        "purchasePrice" : 2.2210620997577495,
+        "purchasePrice" : 2.2028747915760545,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1785,35 +1679,35 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 5245.238303454307,
-        "sharpeRatio" : 0.604554597378256,
+        "shares" : 6105.657957244655,
+        "sharpeRatio" : 0.6317263275442644,
         "tags" : [
           "📥持有",
           "🤖机器人"
         ]
       },
       {
-        "custodyFee" : "0.10%",
+        "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.8361",
-        "establishedDate" : "2021-12-28",
+        "dwjz" : "2.4960",
+        "establishedDate" : "2021-12-02",
         "fundCompany" : "汇添富基金",
-        "fundManager" : "乐无穹,何丽竹",
-        "fundScale" : "6.86亿",
+        "fundManager" : "马磊",
+        "fundScale" : "5.58亿",
         "fundType" : "指数型-股票",
-        "fundcode" : "014544",
-        "gsz" : "1.8932",
-        "gszzl" : "3.11",
+        "fundcode" : "014194",
+        "gsz" : "2.5005",
+        "gszzl" : "8.97",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.8361,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-08-18",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 2.496,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-07-11",
         "minimumPurchaseAmount" : "10",
-        "name" : "汇添富中证沪港深云计算产业ETF联接C",
-        "purchasePrice" : 1.8249009679196408,
+        "name" : "汇添富中证芯片产业指数增强发起式C",
+        "purchasePrice" : 2.1400708731716334,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1822,7 +1716,7 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "计算机",
+        "sectorName" : "电子|半导体",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1834,35 +1728,92 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 5912.118076357497,
-        "sharpeRatio" : 1.5494080117736857,
+        "shares" : 5093.289262820513,
+        "sharpeRatio" : 2.781836016473272,
         "tags" : [
-          "🌐互联网",
+          "🔥热门",
+          "📥持有",
+          "⚖️科技",
+          "📀半导体",
+          "芯片"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "2.2350",
+        "establishedDate" : "2023-03-02",
+        "fundCompany" : "华宝基金",
+        "fundManager" : "周晶,赵启元",
+        "fundScale" : "51.75亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "017437",
+        "gsz" : "2.2394",
+        "gszzl" : "0.20",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 2.235,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-11-06",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华宝纳斯达克精选股票发起式(QDII)C",
+        "purchasePrice" : 2.291018235974836,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 5281.494407158837,
+        "sharpeRatio" : 0.7264186841104279,
+        "tags" : [
+          "纳指100",
+          "💵美股",
+          "🥘大盘基金",
           "📥持有"
         ]
       },
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.3271",
+        "dwjz" : "3.5451",
         "establishedDate" : "2021-02-19",
         "fundCompany" : "华泰柏瑞基金",
         "fundManager" : "陈文凯",
         "fundScale" : "76.48亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "011452",
-        "gsz" : "3.5105",
-        "gszzl" : "5.51",
+        "gsz" : "3.5107",
+        "gszzl" : "5.52",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 3.3271,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 3.5451,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-07-11",
         "minimumPurchaseAmount" : "10",
         "name" : "华泰柏瑞质量成长C",
-        "purchasePrice" : 3.746525771250616,
+        "purchasePrice" : 3.703782383239247,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1887,8 +1838,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 3239.9296684800574,
-        "sharpeRatio" : 2.791551853023738,
+        "shares" : 3239.93117260444,
+        "sharpeRatio" : 2.863156749608948,
         "tags" : [
           "🚩重点",
           "🔥热门",
@@ -1896,9 +1847,120 @@
         ]
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.8898",
+        "establishedDate" : "2021-12-28",
+        "fundCompany" : "汇添富基金",
+        "fundManager" : "乐无穹,何丽竹",
+        "fundScale" : "6.86亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "014544",
+        "gsz" : "1.8923",
+        "gszzl" : "3.06",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 1.8898,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-08-18",
+        "minimumPurchaseAmount" : "10",
+        "name" : "汇添富中证沪港深云计算产业ETF联接C",
+        "purchasePrice" : 1.7912363327819905,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "计算机",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 5912.117684411049,
+        "sharpeRatio" : 1.6029364638269927,
+        "tags" : [
+          "🌐互联网",
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.5008",
+        "dwjz" : "1.5326",
+        "establishedDate" : "2018-09-05",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "张坤,杨思亮,何一铖",
+        "fundScale" : "267.93亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "005827",
+        "gsz" : "1.5318",
+        "gszzl" : "1.33",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 1.5326,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-05-23",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达蓝筹精选混合",
+        "purchasePrice" : 1.530338091962723,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于等于29天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于等于364天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天，小于等于729天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于730天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 6706.727130366697,
+        "sharpeRatio" : -0.9340032053607022,
+        "tags" : [
+          "大消费",
+          "📥持有",
+          "🗑️基金"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "0.4935",
         "establishedDate" : "2021-05-18",
         "fundCompany" : "招商基金",
         "fundManager" : "侯昊",
@@ -1908,15 +1970,15 @@
         "gsz" : "0.4932",
         "gszzl" : "-1.51",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.5008,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 0.4935,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.00%",
         "managerStartDate" : "2021-05-18",
         "minimumPurchaseAmount" : "10",
         "name" : "招商中证白酒指数(LOF)C",
-        "purchasePrice" : 0.5126995162922524,
+        "purchasePrice" : 0.6361345381134812,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -1937,17 +1999,75 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 20797.484025559104,
-        "sharpeRatio" : -1.6506963907955847,
+        "shares" : 20797.487335359674,
+        "sharpeRatio" : -1.722377936315405,
         "tags" : [
           "大消费",
           "📥持有"
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "3.0720",
+        "establishedDate" : "2009-03-10",
+        "fundCompany" : "诺安基金",
+        "fundManager" : "刘慧影",
+        "fundScale" : "108.11亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "320007",
+        "gsz" : "3.0503",
+        "gszzl" : "5.76",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 3.072,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-09-29",
+        "minimumPurchaseAmount" : "10",
+        "name" : "诺安成长混合A",
+        "purchasePrice" : 2.3668697080872265,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "存储芯片|半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于2年",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于2年，小于3年",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于3年",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 3316.62109375,
+        "sharpeRatio" : 2.316477948200601,
+        "tags" : [
+          "📥持有",
+          "📀半导体",
+          "🚀高端制造"
+        ]
+      },
+      {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.7616",
+        "dwjz" : "0.7747",
         "establishedDate" : "2021-01-28",
         "fundCompany" : "天弘基金",
         "fundManager" : "祁世超",
@@ -1957,15 +2077,15 @@
         "gsz" : "0.7752",
         "gszzl" : "1.79",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.7616,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 0.7747,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-03-07",
         "minimumPurchaseAmount" : "10",
         "name" : "天弘中证光伏产业指数C",
-        "purchasePrice" : 0.8528861994316026,
+        "purchasePrice" : 0.8673458169219365,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -1986,8 +2106,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 12797.66281512605,
-        "sharpeRatio" : 1.0661958232599467,
+        "shares" : 12797.663611720665,
+        "sharpeRatio" : 1.1529703792762807,
         "tags" : [
           "🔋新能源",
           "📥持有"
@@ -1996,84 +2116,26 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.8840",
-        "establishedDate" : "2009-03-10",
-        "fundCompany" : "诺安基金",
-        "fundManager" : "刘慧影",
-        "fundScale" : "108.11亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "320007",
-        "gsz" : "3.0503",
-        "gszzl" : "5.76",
-        "gztime" : "2026-07-09 15:00",
+        "dwjz" : "5.7741",
+        "establishedDate" : "2024-09-18",
+        "fundCompany" : "富国基金",
+        "fundManager" : "赵年珅",
+        "fundScale" : "8.34亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "022184",
+        "gsz" : "5.7813",
+        "gszzl" : "0.12",
+        "gztime" : "2026-07-10 04:00",
         "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.884,
+        "lastUpdated" : "2026-07-10T01:09:57Z",
+        "latestHistoryNetValue" : 5.7741,
         "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
-        "managerStartDate" : "2023-09-29",
+        "managerStartDate" : "2025-11-13",
         "minimumPurchaseAmount" : "10",
-        "name" : "诺安成长混合A",
-        "purchasePrice" : 2.36687008372831,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "存储芯片",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于2年",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于2年，小于3年",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于3年",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 3316.620567375887,
-        "sharpeRatio" : 2.129520295604207,
-        "tags" : [
-          "📥持有",
-          "📀半导体",
-          "🚀高端制造"
-        ]
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.2373",
-        "establishedDate" : "2025-11-25",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "单宽之",
-        "fundScale" : "112.23亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "025857",
-        "gsz" : "1.2516",
-        "gszzl" : "1.16",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.2373,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-11-25",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华夏中证电网设备主题ETF发起式联接C",
-        "purchasePrice" : 1.3664139304716718,
-        "purchaseStatus" : "开放申购",
+        "name" : "富国全球科技互联网股票(QDII)C",
+        "purchasePrice" : 6.057257780881538,
+        "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
 
@@ -2081,7 +2143,6 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "电力设备|电网设备",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -2089,21 +2150,27 @@
             "rate" : "1.50%"
           },
           {
-            "holdingPeriod" : "大于等于7天",
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
             "rate" : "0.00%"
           }
         ],
-        "shares" : 7689.178048977612,
-        "sharpeRatio" : 1.2511087817686992,
+        "shares" : 1708.693995601046,
+        "sharpeRatio" : 2.575225825360529,
         "tags" : [
-          "⚡️电网",
-          "📥持有"
+          "📥持有",
+          "💻科技",
+          "🌐互联网",
+          "🌍全球"
         ]
       },
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.5092",
+        "dwjz" : "1.5760",
         "establishedDate" : "2025-07-11",
         "fundCompany" : "永赢基金",
         "fundManager" : "刘庭宇",
@@ -2113,15 +2180,15 @@
         "gsz" : "1.5766",
         "gszzl" : "4.47",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.5092,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 1.576,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-07-11",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢国证商用卫星通信产业ETF发起联接C",
-        "purchasePrice" : 1.6232234408732968,
+        "purchasePrice" : 1.5622729358431025,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -2142,8 +2209,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 6208.898754306917,
-        "sharpeRatio" : 1.305109320404859,
+        "shares" : 6208.902284263959,
+        "sharpeRatio" : 1.417010521911347,
         "tags" : [
           "🚀高端制造",
           "📧通信",
@@ -2151,9 +2218,58 @@
         ]
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.2517",
+        "establishedDate" : "2025-11-25",
+        "fundCompany" : "华夏基金",
+        "fundManager" : "单宽之",
+        "fundScale" : "112.23亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "025857",
+        "gsz" : "1.2516",
+        "gszzl" : "1.16",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.2517,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-11-25",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华夏中证电网设备主题ETF发起式联接C",
+        "purchasePrice" : 1.3636039607046564,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "电力设备|电网设备",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 7689.182711512342,
+        "sharpeRatio" : 1.307355820939052,
+        "tags" : [
+          "⚡️电网",
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.8455",
+        "dwjz" : "1.8973",
         "establishedDate" : "2016-09-29",
         "fundCompany" : "中欧基金",
         "fundManager" : "葛兰,赵磊",
@@ -2163,15 +2279,15 @@
         "gsz" : "1.8846",
         "gszzl" : "2.12",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.8455,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 1.8973,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2025-07-04",
         "minimumPurchaseAmount" : "10",
         "name" : "中欧医疗健康混合A",
-        "purchasePrice" : 1.929198624143894,
+        "purchasePrice" : 1.7370882539518075,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -2204,8 +2320,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 4985.147656461664,
-        "sharpeRatio" : 0.39488489859221515,
+        "shares" : 4985.1525852527275,
+        "sharpeRatio" : 0.5481143178689545,
         "tags" : [
           "💉医药医疗",
           "📥持有"
@@ -2214,61 +2330,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "5.6912",
-        "establishedDate" : "2024-09-18",
-        "fundCompany" : "富国基金",
-        "fundManager" : "赵年珅",
-        "fundScale" : "8.34亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "022184",
-        "gsz" : "5.6538",
-        "gszzl" : "-0.66",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 5.6912,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-11-13",
-        "minimumPurchaseAmount" : "10",
-        "name" : "富国全球科技互联网股票(QDII)C",
-        "purchasePrice" : 6.189610095461795,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 1538.0306438009557,
-        "sharpeRatio" : 2.506067589271919,
-        "tags" : [
-          "📥持有",
-          "💻科技",
-          "🌐互联网",
-          "🌍全球"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "9.5720",
+        "dwjz" : "10.1350",
         "establishedDate" : "2023-10-18",
         "fundCompany" : "易方达基金",
         "fundManager" : "郑希",
@@ -2278,10 +2340,10 @@
         "gsz" : "10.0608",
         "gszzl" : "5.11",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 9.572,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 10.135,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-10-18",
         "minimumPurchaseAmount" : "10",
@@ -2312,7 +2374,7 @@
           }
         ],
         "shares" : 875.7595068951109,
-        "sharpeRatio" : 3.249575647572578,
+        "sharpeRatio" : 3.3488628383178374,
         "tags" : [
           "🔥热门",
           "📥持有"
@@ -2321,7 +2383,215 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.8932",
+        "dwjz" : "3.3153",
+        "establishedDate" : "2025-05-13",
+        "fundCompany" : "华夏基金",
+        "fundManager" : "李湘杰",
+        "fundScale" : "13.94亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "024239",
+        "gsz" : "3.3182",
+        "gszzl" : "0.09",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 3.3153,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-05-13",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华夏全球科技先锋混合(QDII)C",
+        "purchasePrice" : 3.674232076564308,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 2599.1825777456033,
+        "sharpeRatio" : 1.719887546621547,
+        "tags" : [
+          "💵美股",
+          "🚩重点",
+          "🌍全球",
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "5.8078",
+        "establishedDate" : "2020-04-29",
+        "fundCompany" : "大成基金",
+        "fundManager" : "郭玮羚",
+        "fundScale" : "29.82亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "008989",
+        "gsz" : "5.7240",
+        "gszzl" : "4.68",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 5.8078,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-07-18",
+        "minimumPurchaseAmount" : "10",
+        "name" : "大成科技创新混合C",
+        "purchasePrice" : 6.293738154722151,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "光模块|元件",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 1461.7703777678294,
+        "sharpeRatio" : 3.004107352308476,
+        "tags" : [
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.3940",
+        "establishedDate" : "2023-09-22",
+        "fundCompany" : "摩根基金(中国)",
+        "fundManager" : "张军",
+        "fundScale" : "4.84亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "019578",
+        "gsz" : "1.3956",
+        "gszzl" : "0.12",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 1.394,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-09-22",
+        "minimumPurchaseAmount" : "10",
+        "name" : "摩根全球天然资源混合(QDII)C",
+        "purchasePrice" : 1.4630683325766374,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 6083.106169296988,
+        "sharpeRatio" : 1.464487790288479,
+        "tags" : [
+          "📥持有",
+          "🥘大盘基金",
+          "🌍全球"
+        ]
+      },
+      {
+        "custodyFee" : "0.05%",
+        "dataSource" : "天天基金",
+        "dwjz" : "5.1852",
+        "establishedDate" : "2020-01-20",
+        "fundCompany" : "东财基金",
+        "fundManager" : "姚楠燕",
+        "fundScale" : "11.67亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "008327",
+        "gsz" : "5.1995",
+        "gszzl" : "6.74",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 5.1852,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2024-07-17",
+        "minimumPurchaseAmount" : "10",
+        "name" : "东财通信C",
+        "purchasePrice" : 5.2951489196448795,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "通信服务|通信设备",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 1609.0199028002778,
+        "sharpeRatio" : 3.1352519470990523,
+        "tags" : [
+          "🔥热门",
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "1.9375",
         "establishedDate" : "2020-06-17",
         "fundCompany" : "建信基金",
         "fundManager" : "陶灿,田元泉",
@@ -2331,15 +2601,15 @@
         "gsz" : "1.9528",
         "gszzl" : "3.15",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.8932,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 1.9375,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-05-19",
         "minimumPurchaseAmount" : "10",
         "name" : "建信新能源行业股票A",
-        "purchasePrice" : 2.069457445507748,
+        "purchasePrice" : 2.0686622898931946,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -2368,30 +2638,83 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 4285.379252060005,
-        "sharpeRatio" : 1.0672405431739387,
+        "shares" : 4285.378064516129,
+        "sharpeRatio" : 1.171030034661164,
         "tags" : [
           "📥持有",
           "🔋新能源"
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "2.1232",
+        "establishedDate" : "2022-11-22",
+        "fundCompany" : "广发基金",
+        "fundManager" : "唐晓斌",
+        "fundScale" : "106.55亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "016874",
+        "gsz" : "2.0868",
+        "gszzl" : "3.89",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 2.1232,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2022-11-22",
+        "minimumPurchaseAmount" : "10",
+        "name" : "广发远见智选混合C",
+        "purchasePrice" : 2.1563565490325045,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 3895.4596834966087,
+        "sharpeRatio" : 2.450530651916692,
+        "tags" : [
+          "🔥热门",
+          "📥持有"
+        ]
+      },
+      {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.7982",
+        "dwjz" : "0.8057",
         "establishedDate" : "2018-01-02",
         "fundCompany" : "广发基金",
         "fundManager" : "罗国庆",
         "fundScale" : "10.01亿",
         "fundType" : "指数型-股票",
         "fundcode" : "004753",
-        "gsz" : "0.8037",
-        "gszzl" : "0.69",
+        "gsz" : "0.8038",
+        "gszzl" : "0.70",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.7982,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 0.8057,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2018-01-02",
         "minimumPurchaseAmount" : "10",
@@ -2422,7 +2745,7 @@
           }
         ],
         "shares" : 10021.335504885992,
-        "sharpeRatio" : -0.1063812588769526,
+        "sharpeRatio" : -0.07306677891932371,
         "tags" : [
           "📽️文化传媒",
           "📥持有",
@@ -2433,268 +2756,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "5.4681",
-        "establishedDate" : "2020-04-29",
-        "fundCompany" : "大成基金",
-        "fundManager" : "郭玮羚",
-        "fundScale" : "29.82亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "008989",
-        "gsz" : "5.7243",
-        "gszzl" : "4.69",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 5.4681,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-07-18",
-        "minimumPurchaseAmount" : "10",
-        "name" : "大成科技创新混合C",
-        "purchasePrice" : 6.274458503083911,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "光模块|元件",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 1461.7691702785246,
-        "sharpeRatio" : 2.916736972727835,
-        "tags" : [
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "天天基金",
-        "dwjz" : "4.8712",
-        "establishedDate" : "2020-01-20",
-        "fundCompany" : "东财基金",
-        "fundManager" : "姚楠燕",
-        "fundScale" : "11.67亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "008327",
-        "gsz" : "5.1995",
-        "gszzl" : "6.74",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 4.8712,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2024-07-17",
-        "minimumPurchaseAmount" : "10",
-        "name" : "东财通信C",
-        "purchasePrice" : 5.2924625364576565,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "通信服务|通信设备",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 1609.0203645918868,
-        "sharpeRatio" : 3.0328603399436997,
-        "tags" : [
-          "🔥热门",
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.0086",
-        "establishedDate" : "2022-11-22",
-        "fundCompany" : "广发基金",
-        "fundManager" : "唐晓斌",
-        "fundScale" : "106.55亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "016874",
-        "gsz" : "2.0868",
-        "gszzl" : "3.89",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.0086,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2022-11-22",
-        "minimumPurchaseAmount" : "10",
-        "name" : "广发远见智选混合C",
-        "purchasePrice" : 2.2654092400459076,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 3895.4595240465997,
-        "sharpeRatio" : 2.3415306470341304,
-        "tags" : [
-          "🔥热门",
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.3923",
-        "establishedDate" : "2023-09-22",
-        "fundCompany" : "摩根基金(中国)",
-        "fundManager" : "张军",
-        "fundScale" : "4.84亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "019578",
-        "gsz" : "1.3838",
-        "gszzl" : "-0.61",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 1.3923,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-09-22",
-        "minimumPurchaseAmount" : "10",
-        "name" : "摩根全球天然资源混合(QDII)C",
-        "purchasePrice" : 1.3842565864715952,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 5510.098398333692,
-        "sharpeRatio" : 1.434120293565605,
-        "tags" : [
-          "📥持有",
-          "🥘大盘基金",
-          "🌍全球"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "3.3233",
-        "establishedDate" : "2025-05-13",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "李湘杰",
-        "fundScale" : "13.94亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "024239",
-        "gsz" : "3.3081",
-        "gszzl" : "-0.46",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 3.3233,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-05-13",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华夏全球科技先锋混合(QDII)C",
-        "purchasePrice" : 3.8178565204689097,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 2296.8254445882103,
-        "sharpeRatio" : 1.7363257923116424,
-        "tags" : [
-          "💵美股",
-          "🚩重点",
-          "🌍全球",
-          "📥持有"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.1326",
+        "dwjz" : "2.1844",
         "establishedDate" : "2015-11-03",
         "fundCompany" : "中欧基金",
         "fundManager" : "周蔚文,罗佳明",
@@ -2704,10 +2766,10 @@
         "gsz" : "2.1792",
         "gszzl" : "2.18",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.1326,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 2.1844,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-01-18",
         "minimumPurchaseAmount" : "10",
@@ -2746,7 +2808,7 @@
           }
         ],
         "shares" : 3129.428866172747,
-        "sharpeRatio" : 2.2596123834652455,
+        "sharpeRatio" : 2.3748112736265874,
         "tags" : [
           "📥持有"
         ]
@@ -2754,7 +2816,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.5632",
+        "dwjz" : "2.7495",
         "establishedDate" : "2023-04-10",
         "fundCompany" : "永赢基金",
         "fundManager" : "王文龙",
@@ -2764,15 +2826,15 @@
         "gsz" : "2.7209",
         "gszzl" : "6.15",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.5632,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 2.7495,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-04-10",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢数字经济智选混合发起C",
-        "purchasePrice" : 2.5849123869923307,
+        "purchasePrice" : 2.584909666288228,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -2797,8 +2859,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 2441.088538146543,
-        "sharpeRatio" : 2.2269420924492707,
+        "shares" : 2441.091107474086,
+        "sharpeRatio" : 2.3733029125481826,
         "tags" : [
           "🚌等车",
           "📥持有"
@@ -2807,25 +2869,79 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.7602",
+        "dwjz" : "2.5889",
+        "establishedDate" : "2025-09-12",
+        "fundCompany" : "东方阿尔法基金",
+        "fundManager" : "梁少文",
+        "fundScale" : "14.98亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "025500",
+        "gsz" : "2.5745",
+        "gszzl" : "7.66",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 2.5889,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-12-04",
+        "minimumPurchaseAmount" : "10",
+        "name" : "东方阿尔法科技智选混合发起C",
+        "purchasePrice" : 2.5095599740487726,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "存储芯片",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 2191.6192706590837,
+        "sharpeRatio" : 2.467003608364009,
+        "tags" : [
+          "📀半导体",
+          "📥持有",
+          "⚖️科技"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "0.7288",
         "establishedDate" : "2021-12-03",
         "fundCompany" : "华夏基金",
         "fundManager" : "时赟凯",
         "fundScale" : "3.89亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "012710",
-        "gsz" : "0.7322",
-        "gszzl" : "-3.69",
+        "gsz" : "0.7327",
+        "gszzl" : "-3.62",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 0.7602,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 0.7288,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-03-26",
         "minimumPurchaseAmount" : "10",
         "name" : "华夏核心成长混合C",
-        "purchasePrice" : 0.7956121690392393,
+        "purchasePrice" : 0.7984235632832789,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -2850,8 +2966,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 7777.834780320968,
-        "sharpeRatio" : 0.6673865173480307,
+        "shares" : 7777.826564215147,
+        "sharpeRatio" : 0.5730303490565625,
         "tags" : [
           "📥持有",
           "🪨锂矿",
@@ -2861,25 +2977,25 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.2723",
+        "dwjz" : "2.2794",
         "establishedDate" : "2022-11-29",
         "fundCompany" : "南方基金",
         "fundManager" : "张其思",
         "fundScale" : "31.11亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "016452",
-        "gsz" : "2.2782",
-        "gszzl" : "0.26",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:18Z",
-        "latestHistoryNetValue" : 2.2723,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "2.3145",
+        "gszzl" : "1.54",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:09:58Z",
+        "latestHistoryNetValue" : 2.2794,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2022-11-29",
         "minimumPurchaseAmount" : "10",
         "name" : "南方纳斯达克100指数发起(QDII)A",
-        "purchasePrice" : 2.3563677516730794,
+        "purchasePrice" : 2.3178184546497635,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -2899,8 +3015,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 2351.555692470184,
-        "sharpeRatio" : 1.142551667870071,
+        "shares" : 2351.4740721242433,
+        "sharpeRatio" : 1.1476357917605462,
         "tags" : [
           "💵美股",
           "📥持有",
@@ -2911,61 +3027,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.3912",
-        "establishedDate" : "2025-09-12",
-        "fundCompany" : "东方阿尔法基金",
-        "fundManager" : "梁少文",
-        "fundScale" : "14.98亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "025500",
-        "gsz" : "2.5745",
-        "gszzl" : "7.66",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:07:59Z",
-        "latestHistoryNetValue" : 2.3912,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-12-04",
-        "minimumPurchaseAmount" : "10",
-        "name" : "东方阿尔法科技智选混合发起C",
-        "purchasePrice" : 2.5095599740487726,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "存储芯片|电子",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 2191.6192706590837,
-        "sharpeRatio" : 2.309812969872171,
-        "tags" : [
-          "📀半导体",
-          "📥持有",
-          "⚖️科技"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "1.3361",
+        "dwjz" : "1.3922",
         "establishedDate" : "2020-12-30",
         "fundCompany" : "易方达基金",
         "fundManager" : "张胜记",
@@ -2975,10 +3037,10 @@
         "gsz" : "1.3700",
         "gszzl" : "2.54",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.3361,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 1.3922,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2020-12-30",
         "minimumPurchaseAmount" : "10",
@@ -3017,7 +3079,7 @@
           }
         ],
         "shares" : 3712.4391886834815,
-        "sharpeRatio" : 2.149606447813291,
+        "sharpeRatio" : 2.297090153076035,
         "tags" : [
           "🧺沪深300",
           "📥持有",
@@ -3027,63 +3089,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.3430",
-        "eastmoneyTime" : "2026-07-09 15:00",
-        "eastmoneyValuation" : "5.90",
-        "establishedDate" : "2015-12-02",
-        "fundCompany" : "前海开源基金",
-        "fundManager" : "吴国清",
-        "fundScale" : "87.24亿",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "002207",
-        "gsz" : "2.3525",
-        "gszzl" : "0.41",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 2.343,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2021-06-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "前海开源金银珠宝混合C",
-        "purchasePrice" : 2.2789974987863073,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "有色金属|贵金属",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 1907.7379428083652,
-        "sharpeRatio" : 0.8507711419998947,
-        "tags" : [
-          "🪙稀有金属",
-          "📥持有",
-          "🪙金银贵金属"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.9623",
+        "dwjz" : "3.0864",
         "establishedDate" : "2025-09-12",
         "fundCompany" : "永赢基金",
         "fundManager" : "张海啸",
@@ -3093,15 +3099,15 @@
         "gsz" : "3.1806",
         "gszzl" : "7.37",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 2.9623,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 3.0864,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2025-09-12",
         "minimumPurchaseAmount" : "10",
         "name" : "永赢先锋半导体智选混合发起C",
-        "purchasePrice" : 3.100870017517106,
+        "purchasePrice" : 3.091520545115746,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3126,8 +3132,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 1458.829288053202,
-        "sharpeRatio" : 3.0596669040145708,
+        "shares" : 1458.8290565059617,
+        "sharpeRatio" : 3.1502908437830963,
         "tags" : [
           "📀半导体",
           "📥持有",
@@ -3136,9 +3142,65 @@
         ]
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "2.3460",
+        "eastmoneyTime" : "2026-07-09 15:00",
+        "eastmoneyValuation" : "5.90",
+        "establishedDate" : "2015-12-02",
+        "fundCompany" : "前海开源基金",
+        "fundManager" : "吴国清",
+        "fundScale" : "87.24亿",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "002207",
+        "gsz" : "2.3525",
+        "gszzl" : "0.41",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 2.346,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2021-06-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "前海开源金银珠宝混合C",
+        "purchasePrice" : 2.8043641466095863,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "有色金属|贵金属",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 1907.7408354646207,
+        "sharpeRatio" : 0.8471654368661383,
+        "tags" : [
+          "🪙稀有金属",
+          "📥持有",
+          "🪙金银贵金属"
+        ]
+      },
+      {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.1001",
+        "dwjz" : "1.0926",
         "eastmoneyTime" : "2026-07-09 15:00",
         "eastmoneyValuation" : "1.090",
         "establishedDate" : "2017-07-21",
@@ -3147,13 +3209,13 @@
         "fundScale" : "2.30亿",
         "fundType" : "指数型-股票",
         "fundcode" : "501302",
-        "gsz" : "1.0924",
-        "gszzl" : "-0.70",
+        "gsz" : "1.0914",
+        "gszzl" : "-0.79",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.1001,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:04Z",
+        "latestHistoryNetValue" : 1.0926,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2017-07-21",
         "minimumPurchaseAmount" : "10",
@@ -3187,7 +3249,7 @@
           }
         ],
         "shares" : 3446.7609061973412,
-        "sharpeRatio" : -0.29147012595208827,
+        "sharpeRatio" : -0.29684208853159827,
         "tags" : [
           "📥持有",
           "🇭🇰港股",
@@ -3197,7 +3259,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.0239",
+        "dwjz" : "4.3112",
         "establishedDate" : "2023-02-22",
         "fundCompany" : "东方基金",
         "fundManager" : "严凯",
@@ -3207,15 +3269,15 @@
         "gsz" : "4.2997",
         "gszzl" : "6.85",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.0239,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:09:59Z",
+        "latestHistoryNetValue" : 4.3112,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-02-22",
         "minimumPurchaseAmount" : "10",
         "name" : "东方人工智能主题混合C",
-        "purchasePrice" : 3.7820218190570754,
+        "purchasePrice" : 3.7799843988892015,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3240,8 +3302,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 743.3907403265488,
-        "sharpeRatio" : 3.055958099313263,
+        "shares" : 743.3893115605863,
+        "sharpeRatio" : 3.2091649029825464,
         "tags" : [
           "📥持有"
         ]
@@ -3249,7 +3311,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.5535",
+        "dwjz" : "1.5341",
         "establishedDate" : "2019-07-15",
         "fundCompany" : "华泰柏瑞基金",
         "fundManager" : "柳军",
@@ -3259,16 +3321,16 @@
         "gsz" : "1.5304",
         "gszzl" : "-1.17",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.5535,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.5341,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2019-07-15",
         "minimumPurchaseAmount" : "10",
         "name" : "华泰柏瑞中证红利低波ETF联接A",
         "purchasePrice" : 1.5029989164020257,
-        "purchaseStatus" : "限大额",
+        "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
 
@@ -3297,65 +3359,16 @@
           }
         ],
         "shares" : 1799.961377534599,
-        "sharpeRatio" : -1.0436132037324577,
+        "sharpeRatio" : -1.1913272496459653,
         "tags" : [
           "📥持有",
           "🏮红利"
         ]
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "2.1393",
-        "establishedDate" : "2010-06-08",
-        "fundCompany" : "汇丰晋信基金",
-        "fundManager" : "陆彬",
-        "fundScale" : "28.28亿",
-        "fundType" : "股票型",
-        "fundcode" : "540008",
-        "gsz" : "2.1525",
-        "gszzl" : "0.62",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 2.1393,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2019-09-07",
-        "minimumPurchaseAmount" : "10",
-        "name" : "汇丰晋信低碳先锋股票A",
-        "purchasePrice" : 2.366698336676881,
-        "purchaseStatus" : "开放申购",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "光伏设备",
-        "sellFee" : "0.50%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.50%"
-          }
-        ],
-        "shares" : 1226.8018931710615,
-        "sharpeRatio" : 0.12797380759119784,
-        "tags" : [
-          "🔋新能源",
-          "📥持有"
-        ]
-      },
-      {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.0759",
+        "dwjz" : "1.1041",
         "establishedDate" : "2026-02-03",
         "fundCompany" : "华泰柏瑞基金",
         "fundManager" : "笪篁",
@@ -3365,15 +3378,15 @@
         "gsz" : "1.1048",
         "gszzl" : "2.69",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.0759,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.1041,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.80%",
         "managerStartDate" : "2026-02-03",
         "minimumPurchaseAmount" : "10",
         "name" : "华泰柏瑞中证A500指数增强C",
-        "purchasePrice" : 1.116069108310433,
+        "purchasePrice" : 1.0731816370369653,
         "purchaseStatus" : "开放申购",
         "refreshStatus" : {
           "success" : {
@@ -3393,8 +3406,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 1863.6211543823774,
-        "sharpeRatio" : 1.0860416665233945,
+        "shares" : 1863.6174259577933,
+        "sharpeRatio" : 1.4246519410071634,
         "tags" : [
           "📥持有",
           "🛒中证500"
@@ -3403,7 +3416,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.2747",
+        "dwjz" : "3.2335",
         "establishedDate" : "2023-04-26",
         "fundCompany" : "天弘基金",
         "fundManager" : "LIU DONG(刘冬)",
@@ -3413,15 +3426,15 @@
         "gsz" : "--",
         "gszzl" : "--",
         "gztime" : "--",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:25Z",
-        "latestHistoryNetValue" : 3.2747,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:03Z",
+        "latestHistoryNetValue" : 3.2335,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-09-14",
         "minimumPurchaseAmount" : "10",
         "name" : "天弘全球高端制造混合(QDII)C",
-        "purchasePrice" : 3.7995931573999466,
+        "purchasePrice" : 3.534125572568385,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3433,8 +3446,8 @@
         "sellFeeTiers" : [
 
         ],
-        "shares" : 591.1869789599046,
-        "sharpeRatio" : 2.735109028628716,
+        "shares" : 622.5019328900572,
+        "sharpeRatio" : 2.658721636919519,
         "tags" : [
           "📥持有",
           "💻科技",
@@ -3445,25 +3458,25 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.4285",
+        "dwjz" : "4.4733",
         "establishedDate" : "2023-02-09",
         "fundCompany" : "嘉实基金",
         "fundManager" : "陈俊杰",
         "fundScale" : "11.50亿",
         "fundType" : "QDII-普通股票",
         "fundcode" : "017731",
-        "gsz" : "4.4022",
-        "gszzl" : "-0.59",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:15Z",
-        "latestHistoryNetValue" : 4.4285,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "4.4783",
+        "gszzl" : "0.11",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 4.4733,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-02-06",
         "minimumPurchaseAmount" : "10",
         "name" : "嘉实全球产业升级股票发起式(QDII)C",
-        "purchasePrice" : 4.953954496485512,
+        "purchasePrice" : 4.447217071873462,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3487,8 +3500,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 427.59173535057016,
-        "sharpeRatio" : 3.11841146928053,
+        "shares" : 449.71944649364,
+        "sharpeRatio" : 3.105383679847517,
         "tags" : [
           "🌍全球",
           "📥持有"
@@ -3497,20 +3510,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.0049",
+        "dwjz" : "3.9887",
         "establishedDate" : "2008-06-19",
         "fundCompany" : "易方达基金",
         "fundManager" : "张坤,彭珂",
         "fundScale" : "95.44亿",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "110011",
-        "gsz" : "3.9536",
-        "gszzl" : "-1.28",
+        "gsz" : "3.9621",
+        "gszzl" : "-1.07",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:15Z",
-        "latestHistoryNetValue" : 4.0049,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 3.9887,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-06-27",
         "minimumPurchaseAmount" : "10",
@@ -3549,7 +3562,7 @@
           }
         ],
         "shares" : 426.7711137067696,
-        "sharpeRatio" : -1.3882942350052734,
+        "sharpeRatio" : -1.3931658430414107,
         "tags" : [
           "大消费",
           "📥持有",
@@ -3560,25 +3573,25 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "7.1744",
+        "dwjz" : "7.1929",
         "establishedDate" : "2024-07-25",
         "fundCompany" : "国海富兰克林基金",
         "fundManager" : "徐成,狄星华",
         "fundScale" : "9.93亿",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "021842",
-        "gsz" : "7.1131",
-        "gszzl" : "-0.85",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:15Z",
-        "latestHistoryNetValue" : 7.1744,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "7.2045",
+        "gszzl" : "0.16",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 7.1929,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-07-25",
         "minimumPurchaseAmount" : "10",
         "name" : "国富全球科技互联混合(QDII)人民币C",
-        "purchasePrice" : 8.328799640855575,
+        "purchasePrice" : 7.688662906173035,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3602,8 +3615,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 192.49832738626225,
-        "sharpeRatio" : 2.0634905113126014,
+        "shares" : 192.49120660651477,
+        "sharpeRatio" : 2.0466689827962776,
         "tags" : [
           "🌍全球",
           "📥持有"
@@ -3612,20 +3625,20 @@
       {
         "custodyFee" : "0.05%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.5886",
+        "dwjz" : "1.5966",
         "establishedDate" : "2022-11-22",
         "fundCompany" : "永赢基金",
         "fundManager" : "单林",
         "fundScale" : "51.82亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "015916",
-        "gsz" : "1.6091",
-        "gszzl" : "1.29",
+        "gsz" : "1.6079",
+        "gszzl" : "1.21",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:15Z",
-        "latestHistoryNetValue" : 1.5886,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 1.5966,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2025-07-31",
         "minimumPurchaseAmount" : "10",
@@ -3656,69 +3669,16 @@
           }
         ],
         "shares" : 769.362961097822,
-        "sharpeRatio" : 0.1892357147990705,
+        "sharpeRatio" : 0.2550199888817746,
         "tags" : [
           "💉医药医疗",
           "📥持有"
         ]
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "4.8140",
-        "establishedDate" : "2024-05-28",
-        "fundCompany" : "财通基金",
-        "fundManager" : "金梓才",
-        "fundScale" : "11.17亿",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "021528",
-        "gsz" : "5.0599",
-        "gszzl" : "5.11",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.814,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-05-28",
-        "minimumPurchaseAmount" : "10",
-        "name" : "财通成长优选混合C",
-        "purchasePrice" : 5.554837867994165,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "光模块|光通信",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 217.82093892812628,
-        "sharpeRatio" : 3.296475720975454,
-        "tags" : [
-          "🔥热门",
-          "📥持有"
-        ]
-      },
-      {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.5516",
+        "dwjz" : "3.8485",
         "establishedDate" : "2022-12-07",
         "fundCompany" : "嘉实基金",
         "fundManager" : "田光远",
@@ -3728,10 +3688,10 @@
         "gsz" : "3.8670",
         "gszzl" : "8.88",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:07:12Z",
-        "latestHistoryNetValue" : 3.5516,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 3.8485,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2022-12-07",
         "minimumPurchaseAmount" : "10",
@@ -3758,7 +3718,7 @@
           }
         ],
         "shares" : 291.86000675751774,
-        "sharpeRatio" : 2.588767543033656,
+        "sharpeRatio" : 2.7639808393559795,
         "tags" : [
           "🥘大盘基金",
           "🔥热门",
@@ -3770,87 +3730,25 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.5118",
-        "establishedDate" : "2018-09-05",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "张坤,杨思亮,何一铖",
-        "fundScale" : "267.93亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "005827",
-        "gsz" : "1.5316",
-        "gszzl" : "1.31",
-        "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.5118,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-05-23",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达蓝筹精选混合",
-        "purchasePrice" : 1.5216893265358382,
-        "purchaseStatus" : "限大额",
-        "refreshStatus" : {
-          "success" : {
-
-          }
-        },
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于等于29天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于等于364天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于等于729天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "shares" : 568.2894562772854,
-        "sharpeRatio" : -1.0555125406910675,
-        "tags" : [
-          "大消费",
-          "📥持有",
-          "🗑️基金"
-        ]
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "天天基金",
-        "dwjz" : "7.7794",
-        "establishedDate" : "2018-11-29",
+        "dwjz" : "5.0510",
+        "establishedDate" : "2024-05-28",
         "fundCompany" : "财通基金",
         "fundManager" : "金梓才",
-        "fundScale" : "8.00亿",
-        "fundType" : "股票型",
-        "fundcode" : "006503",
-        "gsz" : "8.1463",
-        "gszzl" : "4.72",
+        "fundScale" : "11.17亿",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "021528",
+        "gsz" : "5.0599",
+        "gszzl" : "5.11",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 7.7794,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 5.051,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
-        "managerStartDate" : "2022-11-30",
+        "managerStartDate" : "2024-05-28",
         "minimumPurchaseAmount" : "10",
-        "name" : "财通集成电路产业股票C",
-        "purchasePrice" : 9.051537264796876,
+        "name" : "财通成长优选混合C",
+        "purchasePrice" : 5.5091300751674686,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3875,8 +3773,61 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 101.38056919556777,
-        "sharpeRatio" : 3.224464907751416,
+        "shares" : 217.82023361710552,
+        "sharpeRatio" : 3.360307045038436,
+        "tags" : [
+          "🔥热门",
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "8.1709",
+        "establishedDate" : "2018-11-29",
+        "fundCompany" : "财通基金",
+        "fundManager" : "金梓才",
+        "fundScale" : "8.00亿",
+        "fundType" : "股票型",
+        "fundcode" : "006503",
+        "gsz" : "8.1463",
+        "gszzl" : "4.72",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 8.1709,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2022-11-30",
+        "minimumPurchaseAmount" : "10",
+        "name" : "财通集成电路产业股票C",
+        "purchasePrice" : 8.976084358438861,
+        "purchaseStatus" : "限大额",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "光模块|光通信",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "shares" : 101.38050887907086,
+        "sharpeRatio" : 3.290188910663705,
         "tags" : [
           "📥持有",
           "🔥热门"
@@ -3885,25 +3836,25 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.6579",
+        "dwjz" : "1.6546",
         "establishedDate" : "2023-09-01",
         "fundCompany" : "摩根基金(中国)",
         "fundManager" : "张军",
         "fundScale" : "14.18亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "019305",
-        "gsz" : "1.6405",
-        "gszzl" : "-1.05",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.6579,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "1.6579",
+        "gszzl" : "0.20",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 1.6546,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2023-09-01",
         "minimumPurchaseAmount" : "10",
         "name" : "摩根标普500指数(QDII)人民币C",
-        "purchasePrice" : 1.65910523798592,
+        "purchasePrice" : 1.6586806813535064,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3923,8 +3874,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 472.93564147415407,
-        "sharpeRatio" : 1.2259496602470654,
+        "shares" : 472.96023208026105,
+        "sharpeRatio" : 1.207636200364219,
         "tags" : [
           "🇺🇸标普500",
           "💵美股",
@@ -3936,25 +3887,25 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "6.2200",
+        "dwjz" : "6.2388",
         "establishedDate" : "2023-06-28",
         "fundCompany" : "大成基金",
         "fundManager" : "冉凌浩",
         "fundScale" : "6.85亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "008971",
-        "gsz" : "6.2361",
-        "gszzl" : "0.26",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 6.22,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "6.3349",
+        "gszzl" : "1.54",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 6.2388,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.80%",
         "managerStartDate" : "2023-06-28",
         "minimumPurchaseAmount" : "10",
         "name" : "大成纳斯达克100ETF联接(QDII)C",
-        "purchasePrice" : 6.437472315759494,
+        "purchasePrice" : 6.323317945377099,
         "purchaseStatus" : "限大额",
         "refreshStatus" : {
           "success" : {
@@ -3974,8 +3925,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 95.96623794212219,
-        "sharpeRatio" : 1.117352170115999,
+        "shares" : 95.95595306789767,
+        "sharpeRatio" : 1.1215297801011908,
         "tags" : [
           "💵美股",
           "🥘大盘基金",
@@ -3987,7 +3938,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "0.9801",
+        "dwjz" : "1.0201",
         "establishedDate" : "2026-01-27",
         "fundCompany" : "永赢基金",
         "fundManager" : "蔡路平",
@@ -3997,10 +3948,10 @@
         "gsz" : "1.0201",
         "gszzl" : "4.09",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 0.9801,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 1.0201,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2026-01-27",
         "minimumPurchaseAmount" : "10",
@@ -4027,7 +3978,7 @@
           }
         ],
         "shares" : 407.20334659728604,
-        "sharpeRatio" : -0.029365929847477962,
+        "sharpeRatio" : 0.2658029899651036,
         "tags" : [
           "📥持有"
         ]
@@ -4035,25 +3986,25 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.3605",
+        "dwjz" : "4.3511",
         "establishedDate" : "2022-01-11",
         "fundCompany" : "易方达基金",
         "fundManager" : "郑希",
         "fundScale" : "61.61亿",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "012922",
-        "gsz" : "4.3380",
-        "gszzl" : "-0.52",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.3605,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "4.3553",
+        "gszzl" : "0.10",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 4.3511,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2022-01-11",
         "minimumPurchaseAmount" : "10",
         "name" : "易方达全球成长精选混合(QDII)人民币C",
-        "purchasePrice" : 5.157697558441559,
+        "purchasePrice" : 4.568103807309201,
         "purchaseStatus" : "暂停申购",
         "refreshStatus" : {
           "success" : {
@@ -4077,8 +4028,8 @@
             "rate" : "0.00%"
           }
         ],
-        "shares" : 66.21947024423804,
-        "sharpeRatio" : 3.1795830899089177,
+        "shares" : 66.22003631265657,
+        "sharpeRatio" : 3.138896276666178,
         "tags" : [
           "🔥热门",
           "🌍全球",
@@ -4089,20 +4040,20 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.3149",
+        "dwjz" : "1.3126",
         "establishedDate" : "2024-07-30",
         "fundCompany" : "招商基金",
         "fundManager" : "刘重杰",
         "fundScale" : "3.14亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "021633",
-        "gsz" : "1.3071",
-        "gszzl" : "-0.60",
-        "gztime" : "估07-09 15:05",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.3149,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "gsz" : "1.3126",
+        "gszzl" : "0.00",
+        "gztime" : "估07-10 09:10",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 1.3126,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-04-17",
         "minimumPurchaseAmount" : "10",
@@ -4120,7 +4071,7 @@
 
         ],
         "shares" : 156.68111643470988,
-        "sharpeRatio" : -0.599015726595698,
+        "sharpeRatio" : -0.5736484751815918,
         "tags" : [
           "📥持有"
         ]
@@ -4128,7 +4079,56 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.0965",
+        "dwjz" : "2.1506",
+        "establishedDate" : "2010-06-08",
+        "fundCompany" : "汇丰晋信基金",
+        "fundManager" : "陆彬",
+        "fundScale" : "28.28亿",
+        "fundType" : "股票型",
+        "fundcode" : "540008",
+        "gsz" : "2.1525",
+        "gszzl" : "0.62",
+        "gztime" : "2026-07-09 15:00",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:00Z",
+        "latestHistoryNetValue" : 2.1506,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2019-09-07",
+        "minimumPurchaseAmount" : "10",
+        "name" : "汇丰晋信低碳先锋股票A",
+        "purchasePrice" : 1.9581213,
+        "purchaseStatus" : "开放申购",
+        "refreshStatus" : {
+          "success" : {
+
+          }
+        },
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "光伏设备",
+        "sellFee" : "0.50%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.50%"
+          }
+        ],
+        "shares" : 46.49865153910537,
+        "sharpeRatio" : 0.1712553451193373,
+        "tags" : [
+          "🔋新能源",
+          "📥持有"
+        ]
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "天天基金",
+        "dwjz" : "3.0891",
         "eastmoneyTime" : "2026-07-09 15:00",
         "eastmoneyValuation" : "3.159",
         "establishedDate" : "2016-12-02",
@@ -4137,13 +4137,13 @@
         "fundScale" : "14.47亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "161125",
-        "gsz" : "3.0663",
-        "gszzl" : "-0.97",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 3.0965,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "3.0948",
+        "gszzl" : "0.18",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 3.0891,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.80%",
         "managerStartDate" : "2025-04-11",
         "minimumPurchaseAmount" : "10",
@@ -4177,7 +4177,7 @@
           }
         ],
         "shares" : 6.880144032921811,
-        "sharpeRatio" : 1.203357746893956,
+        "sharpeRatio" : 1.181903271447979,
         "tags" : [
           "🥘大盘基金",
           "📥持有",
@@ -4187,20 +4187,20 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.0365",
+        "dwjz" : "3.0262",
         "establishedDate" : "2013-08-22",
         "fundCompany" : "华安基金",
         "fundManager" : "许之彦",
         "fundScale" : "327.62亿",
         "fundType" : "指数型-其他",
         "fundcode" : "000217",
-        "gsz" : "3.0268",
-        "gszzl" : "-0.32",
-        "gztime" : "2026-07-09 15:04",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 3.0365,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "gsz" : "3.0303",
+        "gszzl" : "0.14",
+        "gztime" : "2026-07-10 09:09",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 3.0262,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2018-09-28",
         "minimumPurchaseAmount" : "10",
@@ -4230,7 +4230,7 @@
           }
         ],
         "shares" : 3.7213897579450026,
-        "sharpeRatio" : 0.5979423633440853,
+        "sharpeRatio" : 0.5766373849240873,
         "tags" : [
           "📥持有"
         ]
@@ -4238,20 +4238,20 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.4138",
+        "dwjz" : "1.5019",
         "establishedDate" : "2025-03-11",
         "fundCompany" : "博时基金",
         "fundManager" : "李庆阳",
         "fundScale" : "8.70亿",
         "fundType" : "指数型-股票",
         "fundcode" : "023521",
-        "gsz" : "1.5020",
+        "gsz" : "1.5021",
         "gszzl" : "6.24",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.4138,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 1.5019,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-03-11",
         "minimumPurchaseAmount" : "10",
@@ -4278,7 +4278,7 @@
           }
         ],
         "shares" : 3.557787522987693,
-        "sharpeRatio" : 1.3641371021836695,
+        "sharpeRatio" : 1.542219187815326,
         "tags" : [
           "🚩重点",
           "📀半导体",
@@ -4299,7 +4299,7 @@
         "gszzl" : "9.32",
         "gztime" : "2026-07-09 15:00",
         "jzrq" : "2026-07-09",
-        "lastUpdated" : "2026-07-09T16:23:28Z",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
         "latestHistoryNetValue" : 3.4879,
         "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
@@ -4334,7 +4334,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.7270",
+        "dwjz" : "5.0233",
         "establishedDate" : "2021-11-19",
         "fundCompany" : "万家基金",
         "fundManager" : "耿嘉洲",
@@ -4344,10 +4344,10 @@
         "gsz" : "4.9968",
         "gszzl" : "5.71",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.727,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 5.0233,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2021-11-19",
         "minimumPurchaseAmount" : "10",
@@ -4376,7 +4376,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.173499262139359,
+        "sharpeRatio" : 2.2995052860183427,
         "tags" : [
           "🚫未持"
         ]
@@ -4384,20 +4384,20 @@
       {
         "custodyFee" : "0.15%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.6712",
+        "dwjz" : "1.6760",
         "establishedDate" : "2023-09-27",
         "fundCompany" : "万家基金",
         "fundManager" : "杨坤,贺方舟",
         "fundScale" : "4.38亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "019441",
-        "gsz" : "1.6755",
-        "gszzl" : "0.26",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.6712,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "1.7018",
+        "gszzl" : "1.54",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 1.676,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2026-07-06",
         "minimumPurchaseAmount" : "10",
@@ -4425,7 +4425,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.1716033096944958,
+        "sharpeRatio" : 1.17542864626534,
         "tags" : [
           "💵美股",
           "🚫未持"
@@ -4434,7 +4434,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "2.3368",
+        "dwjz" : "2.4766",
         "establishedDate" : "2025-06-06",
         "fundCompany" : "东方阿尔法基金",
         "fundManager" : "周谧,梁少文",
@@ -4444,10 +4444,10 @@
         "gsz" : "2.4986",
         "gszzl" : "6.92",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 2.3368,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:01Z",
+        "latestHistoryNetValue" : 2.4766,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-06-12",
         "minimumPurchaseAmount" : "10",
@@ -4476,7 +4476,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.1688005500443897,
+        "sharpeRatio" : 2.316081245152842,
         "tags" : [
           "🚫未持"
         ]
@@ -4484,7 +4484,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "6.8694",
+        "dwjz" : "7.2475",
         "establishedDate" : "2017-05-12",
         "fundCompany" : "前海开源基金",
         "fundManager" : "魏淳,梁策",
@@ -4494,10 +4494,10 @@
         "gsz" : "7.2423",
         "gszzl" : "5.43",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 6.8694,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 7.2475,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-12-20",
         "minimumPurchaseAmount" : "10",
@@ -4510,7 +4510,7 @@
         },
         "riskLevel" : "4",
         "salesFee" : "0.15%",
-        "sectorName" : "通信设备|CPO",
+        "sectorName" : "CPO|光模块",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -4534,7 +4534,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 3.1475319067011873,
+        "sharpeRatio" : 3.225970318732847,
         "tags" : [
           "🚫未持"
         ]
@@ -4542,20 +4542,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "5.3180",
+        "dwjz" : "5.3060",
         "establishedDate" : "2018-06-07",
         "fundCompany" : "博时基金",
         "fundManager" : "万琼",
         "fundScale" : "12.41亿",
         "fundType" : "指数型-海外股票",
         "fundcode" : "006075",
-        "gsz" : "5.2640",
-        "gszzl" : "-1.02",
-        "gztime" : "估07-09 15:05",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 5.318,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "5.3160",
+        "gszzl" : "0.19",
+        "gztime" : "估07-10 09:10",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 5.306,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "0.60%",
         "managerStartDate" : "2021-09-23",
         "minimumPurchaseAmount" : "10",
@@ -4571,7 +4571,7 @@
         "sellFeeTiers" : [
 
         ],
-        "sharpeRatio" : 1.1786760409024588,
+        "sharpeRatio" : 1.1584129292858432,
         "tags" : [
           "🇺🇸标普500",
           "💵美股",
@@ -4582,7 +4582,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.6543",
+        "dwjz" : "1.7031",
         "eastmoneyTime" : "2026-07-09 15:00",
         "eastmoneyValuation" : "65.43",
         "establishedDate" : "2015-01-20",
@@ -4594,10 +4594,10 @@
         "gsz" : "1.7061",
         "gszzl" : "3.13",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.6543,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 1.7031,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2021-08-14",
         "minimumPurchaseAmount" : "10",
@@ -4622,7 +4622,7 @@
             "rate" : "0.05%"
           }
         ],
-        "sharpeRatio" : 1.735012690472919,
+        "sharpeRatio" : 1.8740996783009032,
         "tags" : [
           "🚫未持"
         ]
@@ -4630,7 +4630,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.8769",
+        "dwjz" : "1.9322",
         "establishedDate" : "2015-06-30",
         "fundCompany" : "天弘基金",
         "fundManager" : "杨超",
@@ -4640,10 +4640,10 @@
         "gsz" : "1.9356",
         "gszzl" : "3.13",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.8769,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 1.9322,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.60%",
         "managerStartDate" : "2019-08-24",
         "minimumPurchaseAmount" : "10",
@@ -4676,7 +4676,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.9262790589105478,
+        "sharpeRatio" : 2.0631230077251863,
         "tags" : [
           "🚫未持"
         ]
@@ -4684,7 +4684,7 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "天天基金",
-        "dwjz" : "1.0508",
+        "dwjz" : "1.0963",
         "establishedDate" : "2025-09-23",
         "fundCompany" : "平安基金",
         "fundManager" : "翁欣,马浩然",
@@ -4694,10 +4694,10 @@
         "gsz" : "1.0971",
         "gszzl" : "4.41",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 1.0508,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 1.0963,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "0.50%",
         "managerStartDate" : "2025-11-19",
         "minimumPurchaseAmount" : "10",
@@ -4722,7 +4722,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.33823933082806606,
+        "sharpeRatio" : 0.48701673169380505,
         "tags" : [
           "🚫未持"
         ]
@@ -4730,7 +4730,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "6.3236",
+        "dwjz" : "6.4445",
         "eastmoneyTime" : "2026-07-09 15:00",
         "eastmoneyValuation" : "6.538",
         "establishedDate" : "2016-09-20",
@@ -4742,10 +4742,10 @@
         "gsz" : "6.5196",
         "gszzl" : "3.10",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 6.3236,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 6.4445,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2023-12-25",
         "minimumPurchaseAmount" : "10",
@@ -4782,7 +4782,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.3730849381693786,
+        "sharpeRatio" : 2.460190419419971,
         "tags" : [
           "🚫未持"
         ]
@@ -4790,20 +4790,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "6.6073",
+        "dwjz" : "6.6856",
         "establishedDate" : "2024-04-18",
         "fundCompany" : "广发基金",
         "fundManager" : "李耀柱",
         "fundScale" : "33.07亿",
         "fundType" : "QDII-普通股票",
         "fundcode" : "021277",
-        "gsz" : "6.5660",
-        "gszzl" : "-0.63",
-        "gztime" : "2026-07-09 04:00",
-        "jzrq" : "2026-07-07",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 6.6073,
-        "latestHistoryNetValueDate" : "2026-07-06T16:00:00Z",
+        "gsz" : "6.6935",
+        "gszzl" : "0.12",
+        "gztime" : "2026-07-10 04:00",
+        "jzrq" : "2026-07-08",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 6.6856,
+        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-04-18",
         "minimumPurchaseAmount" : "10",
@@ -4831,7 +4831,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.8788169404314472,
+        "sharpeRatio" : 1.920154562173929,
         "tags" : [
           "🚫未持"
         ]
@@ -4839,20 +4839,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "3.4265",
+        "dwjz" : "3.6828",
         "establishedDate" : "2021-12-28",
         "fundCompany" : "德邦基金",
         "fundManager" : "江杨磊,袁之渿",
         "fundScale" : "33.99亿",
         "fundType" : "混合型-偏股",
         "fundcode" : "014320",
-        "gsz" : "3.6429",
-        "gszzl" : "6.32",
+        "gsz" : "3.6408",
+        "gszzl" : "6.25",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:20Z",
-        "latestHistoryNetValue" : 3.4265,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 3.6828,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2026-05-29",
         "minimumPurchaseAmount" : "10",
@@ -4881,7 +4881,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.6199761460890505,
+        "sharpeRatio" : 2.78493094505666,
         "tags" : [
           "🚫未持"
         ]
@@ -4889,7 +4889,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.2090",
+        "dwjz" : "4.3910",
         "establishedDate" : "2024-05-28",
         "fundCompany" : "财通基金",
         "fundManager" : "金梓才",
@@ -4899,10 +4899,10 @@
         "gsz" : "4.4051",
         "gszzl" : "4.66",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.209,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 4.391,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2024-05-28",
         "minimumPurchaseAmount" : "10",
@@ -4931,7 +4931,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 3.3281485952650396,
+        "sharpeRatio" : 3.38827188748378,
         "tags" : [
           "🚫未持"
         ]
@@ -4939,7 +4939,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "4.1433",
+        "dwjz" : "4.3312",
         "establishedDate" : "2019-02-28",
         "fundCompany" : "财通基金",
         "fundManager" : "唐家伟",
@@ -4949,10 +4949,10 @@
         "gsz" : "4.2976",
         "gszzl" : "3.72",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 4.1433,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:02Z",
+        "latestHistoryNetValue" : 4.3312,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2022-11-30",
         "minimumPurchaseAmount" : "10",
@@ -4981,7 +4981,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.584297485579348,
+        "sharpeRatio" : 2.670846630036406,
         "tags" : [
           "🔥热门",
           "🚫未持"
@@ -4990,7 +4990,7 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "天天基金",
-        "dwjz" : "14.5802",
+        "dwjz" : "15.8352",
         "establishedDate" : "2021-11-22",
         "fundCompany" : "银河基金",
         "fundManager" : "郑巍山",
@@ -5000,10 +5000,10 @@
         "gsz" : "15.6921",
         "gszzl" : "7.63",
         "gztime" : "2026-07-09 15:00",
-        "jzrq" : "2026-07-08",
-        "lastUpdated" : "2026-07-09T07:05:19Z",
-        "latestHistoryNetValue" : 14.5802,
-        "latestHistoryNetValueDate" : "2026-07-07T16:00:00Z",
+        "jzrq" : "2026-07-09",
+        "lastUpdated" : "2026-07-10T01:10:03Z",
+        "latestHistoryNetValue" : 15.8352,
+        "latestHistoryNetValueDate" : "2026-07-08T16:00:00Z",
         "managementFee" : "1.20%",
         "managerStartDate" : "2021-11-22",
         "minimumPurchaseAmount" : "10",
@@ -5032,7 +5032,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 2.0705492891132797,
+        "sharpeRatio" : 2.2497942737879693,
         "tags" : [
           "🚫未持"
         ]
@@ -5062,32 +5062,32 @@
 
     ],
     "pinnedTags" : [
-      "纳指100",
-      "中证500",
-      "标普5️⃣0️⃣0️⃣",
-      "🚫未持有",
+      "🇺🇸标普500",
+      "标普500",
+      "🧺沪深300",
       "🌍全球",
       "🛒中证500",
-      "🔥热门",
-      "标普500",
       "📤卖出",
-      "🥘大盘基金",
-      "📥持有",
-      "持有",
-      "🚌等车",
-      "📤已卖",
-      "🧺沪深300",
       "🔬科创50",
+      "纳指100",
+      "📤已卖",
+      "📥持有",
       "🚫未持",
-      "🇺🇸标普500"
+      "中证500",
+      "🚌等车",
+      "🚫未持有",
+      "🥘大盘基金",
+      "持有",
+      "🔥热门",
+      "标普5️⃣0️⃣0️⃣"
     ],
     "thresholdConfig" : {
       "enabledWeekdays" : [
+        4,
+        6,
         3,
         5,
-        4,
-        2,
-        6
+        2
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "isEnabled" : false,
