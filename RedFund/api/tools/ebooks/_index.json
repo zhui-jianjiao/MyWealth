@@ -1,3 +1,19 @@
 {
-  "慢慢变富": "https://raw.githubusercontent.com/zhui-jianjiao/MyWealth/main/RedFund/api/tools/ebooks/慢慢变富.epub"
+  "data": [
+    {
+      "name": "慢慢变富",
+      "description": "慢慢变富是一本关于如何变富的书",
+      "type": "epub",
+      "author": "张居营",
+      "url": "https://raw.githubusercontent.com/zhui-jianjiao/MyWealth/main/RedFund/docs/ebooks/慢慢变富.epub"
+    },
+    {
+      "name": "小狗钱钱",
+      "description": "小狗钱钱是一本关于如何变富的书",
+      "type": "epub",
+      "author": "小狗钱钱",
+      "url": "https://raw.githubusercontent.com/zhui-jianjiao/MyWealth/main/RedFund/docs/ebooks/小狗钱钱.epub"
+    }
+  ],
+  "api": "/tools/ebooks"
 }
