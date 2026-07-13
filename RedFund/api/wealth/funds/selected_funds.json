@@ -12,13 +12,6 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
-        "fundcode" : "015968",
-        "name" : "永赢半导体产业智选混合发起C",
-        "sectorName" : "光刻胶"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
         "fundcode" : "003095",
         "name" : "中欧医疗健康混合A",
         "sectorName" : "医药生物|化学制药"
@@ -26,15 +19,22 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "name" : "永赢医药创新智选混合发起C",
-        "sectorName" : "创新药|精准医疗"
+        "fundcode" : "015968",
+        "name" : "永赢半导体产业智选混合发起C",
+        "sectorName" : "光刻胶"
       },
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-海外股票",
         "fundcode" : "161125",
         "name" : "易方达标普500指数人民币A"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015916",
+        "name" : "永赢医药创新智选混合发起C",
+        "sectorName" : "创新药|精准医疗"
       },
       {
         "dataSource" : "天天基金",
@@ -49,13 +49,6 @@
         "fundcode" : "014544",
         "name" : "汇添富中证沪港深云计算产业ETF联接C",
         "sectorName" : "计算机"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015790",
-        "name" : "永赢高端装备智选混合发起C",
-        "sectorName" : "商业航天|卫星互联网"
       },
       {
         "dataSource" : "天天基金",
@@ -109,12 +102,6 @@
         "fundcode" : "001052",
         "name" : "华夏中证500ETF联接A",
         "sectorName" : "采矿业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "016665",
-        "name" : "天弘全球高端制造混合(QDII)C"
       },
       {
         "dataSource" : "天天基金",
@@ -181,6 +168,12 @@
         "fundcode" : "018123",
         "name" : "永赢数字经济智选混合发起C",
         "sectorName" : "算力|半导体"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "016665",
+        "name" : "天弘全球高端制造混合(QDII)C"
       },
       {
         "dataSource" : "天天基金",
@@ -257,6 +250,13 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015790",
+        "name" : "永赢高端装备智选混合发起C",
+        "sectorName" : "商业航天|卫星互联网"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "012922",
         "name" : "易方达全球成长精选混合(QDII)人民币C"
@@ -271,29 +271,8 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "017193",
-        "name" : "天弘中证工业有色金属主题ETF发起联接C",
-        "sectorName" : "有色金属|工业金属"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "016874",
-        "name" : "广发远见智选混合C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
         "fundcode" : "501302",
         "name" : "南方恒指ETF联接(LOF)A"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "015897",
-        "name" : "天弘中证细分化工产业主题ETF联接C",
-        "sectorName" : "基础化工|材料"
       },
       {
         "dataSource" : "天天基金",
@@ -340,7 +319,21 @@
         "fundType" : "指数型-股票",
         "fundcode" : "008327",
         "name" : "东财通信C",
-        "sectorName" : "通信服务|通信设备"
+        "sectorName" : "通信服务|通信"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "017193",
+        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "sectorName" : "有色金属|工业金属"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "015897",
+        "name" : "天弘中证细分化工产业主题ETF联接C",
+        "sectorName" : "基础化工|材料"
       },
       {
         "dataSource" : "天天基金",
@@ -379,6 +372,13 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "016874",
+        "name" : "广发远见智选混合C",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "025857",
         "name" : "华夏中证电网设备主题ETF发起式联接C",
@@ -403,7 +403,7 @@
         "fundType" : "混合型-灵活",
         "fundcode" : "002207",
         "name" : "前海开源金银珠宝混合C",
-        "sectorName" : "有色金属|贵金属"
+        "sectorName" : "贵金属|有色金属"
       },
       {
         "dataSource" : "天天基金",
@@ -442,12 +442,6 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "指数型-其他",
-        "fundcode" : "000217",
-        "name" : "华安黄金ETF联接C"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "股票型",
         "fundcode" : "006503",
         "name" : "财通集成电路产业股票C",
@@ -462,10 +456,9 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "股票型",
-        "fundcode" : "540008",
-        "name" : "汇丰晋信低碳先锋股票A",
-        "sectorName" : "光伏设备"
+        "fundType" : "指数型-其他",
+        "fundcode" : "000217",
+        "name" : "华安黄金ETF联接C"
       },
       {
         "dataSource" : "天天基金",
@@ -480,6 +473,13 @@
         "fundcode" : "110011",
         "name" : "易方达优质精选混合(QDII)",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "股票型",
+        "fundcode" : "540008",
+        "name" : "汇丰晋信低碳先锋股票A",
+        "sectorName" : "光伏设备"
       },
       {
         "dataSource" : "天天基金",
