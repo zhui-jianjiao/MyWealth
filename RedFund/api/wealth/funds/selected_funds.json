@@ -92,20 +92,6 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "017470",
-        "name" : "嘉实上证科创板芯片ETF发起联接C",
-        "sectorName" : "电子|半导体"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "001052",
-        "name" : "华夏中证500ETF联接A",
-        "sectorName" : "采矿业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
         "fundcode" : "026132",
         "name" : "永赢国证工业软件主题指数C",
         "sectorName" : "信息传输、软件和信息技术服务业"
@@ -115,13 +101,6 @@
         "fundType" : "指数型-海外股票",
         "fundcode" : "019305",
         "name" : "摩根标普500指数(QDII)人民币C"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "003015",
-        "name" : "中金沪深300指数增强A",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
@@ -152,6 +131,13 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
+        "fundcode" : "003015",
+        "name" : "中金沪深300指数增强A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
         "fundcode" : "014344",
         "name" : "鹏华中证500指数增强A",
         "sectorName" : "制造业"
@@ -161,6 +147,13 @@
         "fundType" : "指数型-股票",
         "fundcode" : "026434",
         "name" : "华泰柏瑞中证A500指数增强C"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "017470",
+        "name" : "嘉实上证科创板芯片ETF发起联接C",
+        "sectorName" : "电子|半导体"
       },
       {
         "dataSource" : "天天基金",
@@ -177,20 +170,6 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "001770",
-        "name" : "前海开源嘉鑫混合C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "股票型",
-        "fundcode" : "001938",
-        "name" : "中欧时代先锋股票A",
-        "sectorName" : "新兴产业"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "指数型-海外股票",
         "fundcode" : "018853",
         "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币"
@@ -201,6 +180,13 @@
         "fundcode" : "010736",
         "name" : "易方达沪深300指数增强A",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "001052",
+        "name" : "华夏中证500ETF联接A",
+        "sectorName" : "采矿业"
       },
       {
         "dataSource" : "天天基金",
@@ -236,17 +222,17 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018957",
-        "name" : "中航机遇领航混合发起C",
-        "sectorName" : "通信设备|通信"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "012895",
         "name" : "天弘中证科创创业50ETF联接C",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "股票型",
+        "fundcode" : "001938",
+        "name" : "中欧时代先锋股票A",
+        "sectorName" : "新兴产业"
       },
       {
         "dataSource" : "天天基金",
@@ -283,6 +269,13 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018957",
+        "name" : "中航机遇领航混合发起C",
+        "sectorName" : "通信设备|通信"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "024821",
         "name" : "国富国证港股通科技指数C"
@@ -292,6 +285,13 @@
         "fundType" : "QDII-混合偏股",
         "fundcode" : "024239",
         "name" : "华夏全球科技先锋混合(QDII)C"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "001770",
+        "name" : "前海开源嘉鑫混合C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
@@ -309,17 +309,10 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "005538",
-        "name" : "中航新起航灵活配置混合C",
-        "sectorName" : "固态电池"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "008327",
         "name" : "东财通信C",
-        "sectorName" : "通信服务|通信"
+        "sectorName" : "通信服务|通信设备"
       },
       {
         "dataSource" : "天天基金",
@@ -400,13 +393,6 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "002207",
-        "name" : "前海开源金银珠宝混合C",
-        "sectorName" : "贵金属|有色金属"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
         "fundcode" : "012710",
         "name" : "华夏核心成长混合C",
@@ -414,17 +400,17 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "005538",
+        "name" : "中航新起航灵活配置混合C",
+        "sectorName" : "固态电池"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "011103",
         "name" : "天弘中证光伏产业指数C",
         "sectorName" : "光伏设备|电力设备"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "005827",
-        "name" : "易方达蓝筹精选混合",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
@@ -439,6 +425,20 @@
         "fundcode" : "008989",
         "name" : "大成科技创新混合C",
         "sectorName" : "光模块|一带一路"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "005827",
+        "name" : "易方达蓝筹精选混合",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "002207",
+        "name" : "前海开源金银珠宝混合C",
+        "sectorName" : "贵金属|有色金属"
       },
       {
         "dataSource" : "天天基金",
