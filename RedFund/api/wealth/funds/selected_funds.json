@@ -143,12 +143,6 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "017437",
-        "name" : "华宝纳斯达克精选股票发起式(QDII)C"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "混合型-灵活",
         "fundcode" : "005538",
         "name" : "中航新起航灵活配置混合C",
@@ -159,6 +153,12 @@
         "fundType" : "指数型-海外股票",
         "fundcode" : "018853",
         "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "017437",
+        "name" : "华宝纳斯达克精选股票发起式(QDII)C"
       },
       {
         "dataSource" : "天天基金",
@@ -200,6 +200,13 @@
         "fundcode" : "011452",
         "name" : "华泰柏瑞质量成长C",
         "sectorName" : "通信设备|通信"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "010736",
+        "name" : "易方达沪深300指数增强A",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
@@ -286,16 +293,9 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "010736",
-        "name" : "易方达沪深300指数增强A",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
         "fundcode" : "008327",
         "name" : "东财通信C",
-        "sectorName" : "通信服务|通信"
+        "sectorName" : "通信服务|通信设备"
       },
       {
         "dataSource" : "天天基金",
@@ -350,7 +350,7 @@
         "fundType" : "混合型-灵活",
         "fundcode" : "002207",
         "name" : "前海开源金银珠宝混合C",
-        "sectorName" : "贵金属|有色金属"
+        "sectorName" : "有色金属|贵金属"
       },
       {
         "dataSource" : "天天基金",
