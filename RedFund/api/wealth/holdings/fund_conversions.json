@@ -2,7 +2,17 @@
   "api" : "fund_conversions",
   "data" : {
     "records" : [
-
+      {
+        "amounts" : {
+          "025857" : ""
+        },
+        "createdAt" : "2026-07-15T14:17:03Z",
+        "fromCodes" : [
+          "025857"
+        ],
+        "id" : "4C9E7D05-85AF-4070-AD33-86244611455F",
+        "toCode" : "023639"
+      }
     ]
   },
   "module" : "wealth"
