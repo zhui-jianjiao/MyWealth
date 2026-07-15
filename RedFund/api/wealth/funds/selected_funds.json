@@ -4,17 +4,17 @@
     "funds" : [
       {
         "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012414",
-        "name" : "招商中证白酒指数(LOF)C",
-        "sectorName" : "白酒|食品饮料"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
         "fundcode" : "003095",
         "name" : "中欧医疗健康混合A",
         "sectorName" : "医药生物|化学制药"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012414",
+        "name" : "招商中证白酒指数(LOF)C",
+        "sectorName" : "白酒|食品饮料"
       },
       {
         "dataSource" : "天天基金",
@@ -175,9 +175,10 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "指数型-其他",
-        "fundcode" : "000217",
-        "name" : "华安黄金ETF联接C"
+        "fundType" : "指数型-股票",
+        "fundcode" : "010736",
+        "name" : "易方达沪深300指数增强A",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
@@ -188,10 +189,9 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "010736",
-        "name" : "易方达沪深300指数增强A",
-        "sectorName" : "制造业"
+        "fundType" : "指数型-其他",
+        "fundcode" : "000217",
+        "name" : "华安黄金ETF联接C"
       },
       {
         "dataSource" : "天天基金",
@@ -203,15 +203,15 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "014544",
-        "name" : "汇添富中证沪港深云计算产业ETF联接C",
-        "sectorName" : "计算机"
+        "fundcode" : "026434",
+        "name" : "华泰柏瑞中证A500指数增强C"
       },
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "026434",
-        "name" : "华泰柏瑞中证A500指数增强C"
+        "fundcode" : "011103",
+        "name" : "天弘中证光伏产业指数C",
+        "sectorName" : "光伏设备|电力设备"
       },
       {
         "dataSource" : "天天基金",
@@ -223,9 +223,9 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
-        "fundcode" : "011103",
-        "name" : "天弘中证光伏产业指数C",
-        "sectorName" : "光伏设备|电力设备"
+        "fundcode" : "014544",
+        "name" : "汇添富中证沪港深云计算产业ETF联接C",
+        "sectorName" : "计算机"
       },
       {
         "dataSource" : "天天基金",
@@ -254,13 +254,6 @@
         "fundcode" : "022365",
         "name" : "永赢科技智选混合发起C",
         "sectorName" : "光模块|CPO"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018957",
-        "name" : "中航机遇领航混合发起C",
-        "sectorName" : "通信设备|通信"
       },
       {
         "dataSource" : "天天基金",
@@ -296,6 +289,13 @@
         "fundcode" : "014344",
         "name" : "鹏华中证500指数增强A",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018957",
+        "name" : "中航机遇领航混合发起C",
+        "sectorName" : "通信设备|通信"
       },
       {
         "dataSource" : "天天基金",
@@ -341,17 +341,17 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "指数型-股票",
-        "fundcode" : "026132",
-        "name" : "永赢国证工业软件主题指数C",
-        "sectorName" : "信息传输、软件和信息技术服务业"
-      },
-      {
-        "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
         "fundcode" : "006523",
         "name" : "财通新兴蓝筹混合C",
         "sectorName" : "光通信|光模块"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "指数型-股票",
+        "fundcode" : "026132",
+        "name" : "永赢国证工业软件主题指数C",
+        "sectorName" : "信息传输、软件和信息技术服务业"
       },
       {
         "dataSource" : "天天基金",
@@ -404,24 +404,24 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "002207",
+        "name" : "前海开源金银珠宝混合C",
+        "sectorName" : "有色金属|贵金属"
+      },
+      {
+        "dataSource" : "天天基金",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "021523",
+        "name" : "财通价值动量混合C",
+        "sectorName" : "光模块|光通信"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "指数型-股票",
         "fundcode" : "008327",
         "name" : "东财通信C",
         "sectorName" : "通信服务|通信设备"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "002207",
-        "name" : "前海开源金银珠宝混合C",
-        "sectorName" : "贵金属|有色金属"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "005538",
-        "name" : "中航新起航灵活配置混合C",
-        "sectorName" : "固态电池"
       },
       {
         "dataSource" : "天天基金",
@@ -433,9 +433,9 @@
       {
         "dataSource" : "天天基金",
         "fundType" : "混合型-灵活",
-        "fundcode" : "021523",
-        "name" : "财通价值动量混合C",
-        "sectorName" : "光模块|光通信"
+        "fundcode" : "005538",
+        "name" : "中航新起航灵活配置混合C",
+        "sectorName" : "固态电池"
       },
       {
         "dataSource" : "天天基金",
@@ -453,6 +453,13 @@
       },
       {
         "dataSource" : "天天基金",
+        "fundType" : "股票型",
+        "fundcode" : "006503",
+        "name" : "财通集成电路产业股票C",
+        "sectorName" : "光模块|光通信"
+      },
+      {
+        "dataSource" : "天天基金",
         "fundType" : "混合型-偏股",
         "fundcode" : "015790",
         "name" : "永赢高端装备智选混合发起C",
@@ -464,13 +471,6 @@
         "fundcode" : "012895",
         "name" : "天弘中证科创创业50ETF联接C",
         "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "天天基金",
-        "fundType" : "股票型",
-        "fundcode" : "006503",
-        "name" : "财通集成电路产业股票C",
-        "sectorName" : "光模块|光通信"
       },
       {
         "dataSource" : "天天基金",
@@ -488,16 +488,16 @@
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "016874",
-        "name" : "广发远见智选混合C",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "167002",
+        "name" : "平安鼎越混合(LOF)",
         "sectorName" : "制造业"
       },
       {
         "dataSource" : "天天基金",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "167002",
-        "name" : "平安鼎越混合(LOF)",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "016874",
+        "name" : "广发远见智选混合C",
         "sectorName" : "制造业"
       },
       {
