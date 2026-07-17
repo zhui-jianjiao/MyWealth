@@ -2,8 +2,8 @@
   "api" : "sort_filter_settings",
   "data" : {
     "selectedDataSource" : "tiantian",
-    "sortField" : "rate",
-    "sortOrder" : "asc"
+    "sortField" : "holdingValue",
+    "sortOrder" : "desc"
   },
   "module" : "wealth"
 }
