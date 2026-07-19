@@ -1,17 +1,16 @@
 {
-  "api": "bottom_funds",
-  "module": "wealth",
-  "data": {
-    "bottomFundCodes": [
+  "api" : "bottom_funds",
+  "data" : {
+    "bottomFundCodes" : [
       "011036",
       "024821",
       "023754",
       "018957",
       "018853",
-      "005538",
-      "010416",
       "014194",
+      "005538",
       "012414",
+      "010416",
       "010736",
       "019578",
       "011103",
@@ -26,8 +25,8 @@
       "002207",
       "017811",
       "007466",
-      "017470",
       "540008",
+      "017470",
       "110011",
       "021528",
       "005827",
@@ -41,7 +40,8 @@
       "021633",
       "161125"
     ],
-    "bottomFundSectionTitle": "沉底基金，轻仓",
-    "isBottomFundSectionDefaultExpanded": false
-  }
+    "bottomFundSectionTitle" : "沉底基金，轻仓",
+    "isBottomFundSectionDefaultExpanded" : false
+  },
+  "module" : "wealth"
 }
