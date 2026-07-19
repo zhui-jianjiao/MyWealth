@@ -1,36 +1,36 @@
 {
-  "api" : "notification_settings",
-  "data" : {
-    "notifications" : [
+  "api": "notification_settings",
+  "module": "wealth",
+  "data": {
+    "notifications": [
       {
-        "body" : "快去看看👀，马上暴富了💰💵💸💷💶💴",
-        "id" : "E2F1DB1C-213B-4F6E-A70C-BFFCD4F2BF39",
-        "isEnabled" : true,
-        "time" : "2026-03-17T06:15:00Z",
-        "title" : "📢号外📢"
+        "id": "E2F1DB1C-213B-4F6E-A70C-BFFCD4F2BF39",
+        "title": "📢号外📢",
+        "body": "快去看看👀，马上暴富了💰💵💸💷💶💴",
+        "time": "2026-03-17T06:15:00Z",
+        "isEnabled": true
       },
       {
-        "body" : "可以查看👀收益啦",
-        "id" : "DED9D805-4FCE-4B89-AFD8-17EF5E7333DD",
-        "isEnabled" : true,
-        "time" : "2026-03-17T12:30:00Z",
-        "title" : "通知📢"
+        "id": "DED9D805-4FCE-4B89-AFD8-17EF5E7333DD",
+        "title": "通知📢",
+        "body": "可以查看👀收益啦",
+        "time": "2026-03-17T12:30:00Z",
+        "isEnabled": true
       }
     ],
-    "thresholdConfig" : {
-      "enabledWeekdays" : [
+    "thresholdConfig": {
+      "isEnabled": false,
+      "threshold": 2,
+      "startTime": "2026-",
+      "endTime": "2026-",
+      "scanInterval": 1800,
+      "enabledWeekdays": [
         6,
         3,
         5,
         4,
         2
-      ],
-      "endTime" : "2026-04-12T07:00:00Z",
-      "isEnabled" : false,
-      "scanInterval" : 1800,
-      "startTime" : "2026-04-12T02:30:00Z",
-      "threshold" : 2
+      ]
     }
-  },
-  "module" : "wealth"
+  }
 }
