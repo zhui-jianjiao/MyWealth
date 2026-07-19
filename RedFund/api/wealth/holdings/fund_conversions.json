@@ -1,106 +1,122 @@
 {
-  "api": "fund_conversions",
-  "module": "wealth",
-  "data": {
-    "records": [
+  "api" : "fund_conversions",
+  "data" : {
+    "records" : [
       {
-        "id": "80B2844A-09FA-4C43-A937-BEC5F66963E7",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T11:01:54Z",
+        "fromCodes" : [
           "021528"
         ],
-        "toCode": "022365",
-        "amounts": {},
-        "createdAt": "2026-07-18T11:01:54Z"
+        "id" : "80B2844A-09FA-4C43-A937-BEC5F66963E7",
+        "toCode" : "022365"
       },
       {
-        "id": "2BA1D630-63CC-48F9-BC31-DCD5BCDDD48C",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T10:53:42Z",
+        "fromCodes" : [
           "023521"
         ],
-        "toCode": "011609",
-        "amounts": {},
-        "createdAt": "2026-07-18T10:53:42Z"
+        "id" : "2BA1D630-63CC-48F9-BC31-DCD5BCDDD48C",
+        "toCode" : "011609"
       },
       {
-        "id": "4B6C4418-0A1C-4808-8CD9-8FCDBF190D4C",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T10:38:39Z",
+        "fromCodes" : [
           "011036"
         ],
-        "toCode": "017193",
-        "amounts": {},
-        "createdAt": "2026-07-18T10:38:39Z"
+        "id" : "4B6C4418-0A1C-4808-8CD9-8FCDBF190D4C",
+        "toCode" : "017193"
       },
       {
-        "id": "CC3EF6A5-B56D-4133-8D6A-F9583D757A6B",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T10:07:00Z",
+        "fromCodes" : [
           "002207"
         ],
-        "toCode": "000217",
-        "amounts": {},
-        "createdAt": "2026-07-18T10:07:00Z"
+        "id" : "CC3EF6A5-B56D-4133-8D6A-F9583D757A6B",
+        "toCode" : "000217"
       },
       {
-        "id": "9456DBF6-8188-40EF-886A-9EC49FE6E8D4",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T10:01:04Z",
+        "fromCodes" : [
           "010416"
         ],
-        "toCode": "011452",
-        "amounts": {},
-        "createdAt": "2026-07-18T10:01:04Z"
+        "id" : "9456DBF6-8188-40EF-886A-9EC49FE6E8D4",
+        "toCode" : "011452"
       },
       {
-        "id": "7E644EE0-6E2E-4E1D-BD6E-9F1F289CCB70",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T09:57:09Z",
+        "fromCodes" : [
           "023754"
         ],
-        "toCode": "014344",
-        "amounts": {},
-        "createdAt": "2026-07-18T09:57:09Z"
+        "id" : "7E644EE0-6E2E-4E1D-BD6E-9F1F289CCB70",
+        "toCode" : "014344"
       },
       {
-        "id": "BD56BCBA-DE49-45C5-8954-F8387EF6A434",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T09:49:39Z",
+        "fromCodes" : [
           "024821"
         ],
-        "toCode": "501302",
-        "amounts": {},
-        "createdAt": "2026-07-18T09:49:39Z"
+        "id" : "BD56BCBA-DE49-45C5-8954-F8387EF6A434",
+        "toCode" : "501302"
       },
       {
-        "id": "46B1AEDE-7171-47CA-B7B4-CBF110C7DD0C",
-        "fromCodes": [
+        "amounts" : {
+
+        },
+        "createdAt" : "2026-07-18T05:49:56Z",
+        "fromCodes" : [
           "010736"
         ],
-        "toCode": "003015",
-        "amounts": {},
-        "createdAt": "2026-07-18T05:49:56Z"
+        "id" : "46B1AEDE-7171-47CA-B7B4-CBF110C7DD0C",
+        "toCode" : "003015"
       },
       {
-        "id": "296A6F97-4FAA-4870-B2E3-E0F938B08A40",
-        "fromCodes": [
+        "amounts" : {
+          "006503" : "",
+          "014194" : "",
+          "017470" : ""
+        },
+        "createdAt" : "2026-07-18T05:18:43Z",
+        "fromCodes" : [
           "006503",
           "014194",
           "017470"
         ],
-        "toCode": "015968",
-        "amounts": {
-          "006503": "",
-          "014194": "",
-          "017470": ""
-        },
-        "createdAt": "2026-07-18T05:18:43Z"
+        "id" : "296A6F97-4FAA-4870-B2E3-E0F938B08A40",
+        "toCode" : "015968"
       },
       {
-        "id": "4C9E7D05-85AF-4070-AD33-86244611455F",
-        "fromCodes": [
+        "amounts" : {
+          "025857" : ""
+        },
+        "createdAt" : "2026-07-15T14:17:03Z",
+        "fromCodes" : [
           "025857"
         ],
-        "toCode": "023639",
-        "amounts": {
-          "025857": ""
-        },
-        "createdAt": "2026-07-15T14:17:03Z"
+        "id" : "4C9E7D05-85AF-4070-AD33-86244611455F",
+        "toCode" : "023639"
       }
     ]
-  }
+  },
+  "module" : "wealth"
 }
