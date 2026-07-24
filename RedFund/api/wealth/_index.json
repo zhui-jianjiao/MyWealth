@@ -1,15 +1,15 @@
 {
-  "api" : "wealth_index",
-  "data" : {
-    "files" : {
-      "bottomFunds" : "holdings/bottom_funds.json",
-      "fundConversions" : "holdings/fund_conversions.json",
-      "holdingState" : "holdings/holding_state.json",
-      "notificationSettings" : "settings/notification_settings.json",
-      "selectedFunds" : "funds/selected_funds.json",
-      "sortFilterSettings" : "settings/sort_filter_settings.json",
-      "tagState" : "tags/tag_state.json"
+  "api": "wealth_index",
+  "module": "wealth",
+  "data": {
+    "files": {
+      "selectedFunds": "funds\/selected_funds.json",
+      "holdingState": "holdings\/holding_state.json",
+      "bottomFunds": "holdings\/bottom_funds.json",
+      "tagState": "tags\/tag_state.json",
+      "sortFilterSettings": "settings\/sort_filter_settings.json",
+      "notificationSettings": "settings\/notification_settings.json",
+      "fundConversions": "holdings\/fund_conversions.json"
     }
-  },
-  "module" : "wealth"
+  }
 }
