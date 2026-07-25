@@ -19,13 +19,15 @@
     ],
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        5,
-        3,
+        4,
         2,
+        3,
         6,
-        4
+        5
       ],
       "endTime" : "2026-04-12T07:00:00Z",
+      "holdingRiskConsecutiveTradingDays" : 2,
+      "holdingRiskDailyGainThreshold" : 4,
       "isEnabled" : false,
       "scanInterval" : 1800,
       "startTime" : "2026-04-12T02:30:00Z",
