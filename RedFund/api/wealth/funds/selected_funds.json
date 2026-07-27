@@ -408,13 +408,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012895",
-        "name" : "天弘中证科创创业50ETF联接C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "015916",
         "name" : "永赢医药创新智选混合发起C",
@@ -442,6 +435,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012895",
+        "name" : "天弘中证科创创业50ETF联接C",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "014162",
         "name" : "万家人工智能混合C",
@@ -459,13 +459,6 @@
         "fundcode" : "320007",
         "name" : "诺安成长混合A",
         "sectorName" : "存储芯片|半导体"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012734",
-        "name" : "易方达中证人工智能主题ETF联接C",
-        "sectorName" : "人工智能|TMT"
       },
       {
         "dataSource" : "东方财富",
@@ -493,13 +486,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011609",
-        "name" : "易方达上证科创50联接C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "016665",
         "name" : "天弘全球高端制造混合(QDII)C"
@@ -507,9 +493,23 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "012734",
+        "name" : "易方达中证人工智能主题ETF联接C",
+        "sectorName" : "人工智能|TMT"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "017470",
         "name" : "嘉实上证科创板芯片ETF发起联接C",
         "sectorName" : "电子|半导体"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011609",
+        "name" : "易方达上证科创50联接C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "东方财富",
