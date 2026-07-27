@@ -289,7 +289,7 @@
         "fundType" : "指数型-股票",
         "fundcode" : "008327",
         "name" : "东财通信C",
-        "sectorName" : "通信服务|通信设备"
+        "sectorName" : "通信服务|通信"
       },
       {
         "dataSource" : "新浪财经",
@@ -304,6 +304,13 @@
         "fundcode" : "501302",
         "name" : "南方恒指ETF联接(LOF)A",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "017193",
+        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "sectorName" : "有色金属|工业金属"
       },
       {
         "dataSource" : "新浪财经",
@@ -342,6 +349,13 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
+        "fundcode" : "005827",
+        "name" : "易方达蓝筹精选混合",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
         "fundcode" : "015916",
         "name" : "永赢医药创新智选混合发起C",
         "sectorName" : "创新药|精准医疗"
@@ -365,6 +379,13 @@
         "fundType" : "QDII-混合偏股",
         "fundcode" : "110011",
         "name" : "易方达优质精选混合(QDII)",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "003015",
+        "name" : "中金沪深300指数增强A",
         "sectorName" : "制造业"
       },
       {
@@ -504,13 +525,6 @@
         "name" : "万家纳斯达克100指数发起式(QDII)A"
       },
       {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "003015",
-        "name" : "中金沪深300指数增强A",
-        "sectorName" : "制造业"
-      },
-      {
         "dataSource" : "东方财富",
         "fundType" : "QDII-普通股票",
         "fundcode" : "017437",
@@ -547,13 +561,6 @@
         "name" : "大成纳斯达克100ETF联接(QDII)C"
       },
       {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "017193",
-        "name" : "天弘中证工业有色金属主题ETF发起联接C",
-        "sectorName" : "有色金属|工业金属"
-      },
-      {
         "dataSource" : "东方财富",
         "fundType" : "QDII-普通股票",
         "fundcode" : "021277",
@@ -576,13 +583,6 @@
         "fundType" : "指数型-海外股票",
         "fundcode" : "161125",
         "name" : "易方达标普500指数人民币A"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "005827",
-        "name" : "易方达蓝筹精选混合",
-        "sectorName" : "制造业"
       }
     ],
     "persistentFundCodes" : [
