@@ -20,10 +20,10 @@
     "thresholdConfig" : {
       "enabledWeekdays" : [
         6,
-        2,
         5,
-        3,
-        4
+        4,
+        2,
+        3
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 2,
