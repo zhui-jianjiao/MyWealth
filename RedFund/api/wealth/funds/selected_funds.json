@@ -181,13 +181,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "320007",
-        "name" : "诺安成长混合A",
-        "sectorName" : "存储芯片|半导体"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "012414",
         "name" : "招商中证白酒指数(LOF)C",
@@ -196,9 +189,9 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
-        "fundcode" : "018123",
-        "name" : "永赢数字经济智选混合发起C",
-        "sectorName" : "算力|半导体"
+        "fundcode" : "320007",
+        "name" : "诺安成长混合A",
+        "sectorName" : "存储芯片|半导体"
       },
       {
         "dataSource" : "新浪财经",
@@ -209,17 +202,24 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "005538",
-        "name" : "中航新起航灵活配置混合C",
-        "sectorName" : "固态电池"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "004753",
         "name" : "广发中证传媒ETF联接C",
         "sectorName" : "传媒"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018123",
+        "name" : "永赢数字经济智选混合发起C",
+        "sectorName" : "算力|半导体"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "005538",
+        "name" : "中航新起航灵活配置混合C",
+        "sectorName" : "固态电池"
       },
       {
         "dataSource" : "新浪财经",
@@ -244,16 +244,16 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
-        "fundcode" : "019018",
-        "name" : "易方达信息产业混合C",
-        "sectorName" : "CPO|新兴产业"
+        "fundcode" : "025500",
+        "name" : "东方阿尔法科技智选混合发起C",
+        "sectorName" : "存储芯片|电子"
       },
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
-        "fundcode" : "025500",
-        "name" : "东方阿尔法科技智选混合发起C",
-        "sectorName" : "存储芯片|电子"
+        "fundcode" : "019018",
+        "name" : "易方达信息产业混合C",
+        "sectorName" : "CPO|新兴产业"
       },
       {
         "dataSource" : "新浪财经",
@@ -471,7 +471,7 @@
         "sectorName" : "CPO|光模块"
       },
       {
-        "dataSource" : "新浪财经",
+        "dataSource" : "东方财富",
         "fundType" : "指数型-海外股票",
         "fundcode" : "006075",
         "name" : "博时标普500ETF联接C"
@@ -511,7 +511,7 @@
         "name" : "广发全球精选股票(QDII)人民币C"
       },
       {
-        "dataSource" : "新浪财经",
+        "dataSource" : "东方财富",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "539002",
         "name" : "建信新兴市场混合(QDII)A"
