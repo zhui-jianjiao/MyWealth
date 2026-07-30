@@ -2,7 +2,7 @@
   "api" : "sort_filter_settings",
   "data" : {
     "selectedDataSource" : "eastmoney",
-    "sortField" : "holdingValue",
+    "sortField" : "rate",
     "sortOrder" : "desc"
   },
   "module" : "wealth"
