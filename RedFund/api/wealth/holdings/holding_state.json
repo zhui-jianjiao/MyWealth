@@ -2530,11 +2530,6 @@
         "purchasePrice" : 2.1399,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-07-21T16:00:00Z",
-            "netValue" : 2.1399,
-            "returnRate" : 1.5
-          },
-          {
             "date" : "2026-07-22T16:00:00Z",
             "netValue" : 2.1907,
             "returnRate" : 2.37
@@ -2563,6 +2558,11 @@
             "date" : "2026-07-29T16:00:00Z",
             "netValue" : 2.2145,
             "returnRate" : 1.42
+          },
+          {
+            "date" : "2026-07-30T16:00:00Z",
+            "netValue" : 2.2136,
+            "returnRate" : -0.04
           }
         ],
         "shares" : 1226.8003177718585
