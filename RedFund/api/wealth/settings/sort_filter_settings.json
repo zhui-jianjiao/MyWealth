@@ -2,8 +2,8 @@
   "api" : "sort_filter_settings",
   "data" : {
     "selectedDataSource" : "sina",
-    "sortField" : "rate",
-    "sortOrder" : "asc"
+    "sortField" : "holdingProfitRate",
+    "sortOrder" : "desc"
   },
   "module" : "wealth"
 }
