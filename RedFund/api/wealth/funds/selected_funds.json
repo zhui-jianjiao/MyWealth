@@ -58,9 +58,10 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "021633",
-        "name" : "招商中证香港科技ETF发起式联接(QDII)A"
+        "fundType" : "混合型-灵活",
+        "fundcode" : "004320",
+        "name" : "前海开源沪港深乐享生活",
+        "sectorName" : "CPO|光模块"
       },
       {
         "dataSource" : "新浪财经",
@@ -71,10 +72,9 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "004320",
-        "name" : "前海开源沪港深乐享生活",
-        "sectorName" : "CPO|光模块"
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "021633",
+        "name" : "招商中证香港科技ETF发起式联接(QDII)A"
       },
       {
         "dataSource" : "新浪财经",
@@ -104,13 +104,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "011452",
-        "name" : "华泰柏瑞质量成长C",
-        "sectorName" : "通信设备|光通信"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "110011",
         "name" : "易方达优质精选混合(QDII)",
@@ -119,8 +112,43 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
+        "fundcode" : "018957",
+        "name" : "中航机遇领航混合发起C",
+        "sectorName" : "通信设备|通信"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "011452",
+        "name" : "华泰柏瑞质量成长C",
+        "sectorName" : "通信设备|光通信"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
         "fundcode" : "014143",
         "name" : "银河创新成长混合C",
+        "sectorName" : "半导体|电子"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "501302",
+        "name" : "南方恒指ETF联接(LOF)A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "001556",
+        "name" : "天弘中证500指数增强A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "017811",
+        "name" : "东方人工智能主题混合C",
         "sectorName" : "半导体|电子"
       },
       {
@@ -132,9 +160,9 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "001556",
-        "name" : "天弘中证500指数增强A",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "167002",
+        "name" : "平安鼎越混合(LOF)A",
         "sectorName" : "制造业"
       },
       {
@@ -143,20 +171,6 @@
         "fundcode" : "014544",
         "name" : "汇添富中证沪港深云计算产业ETF联接C",
         "sectorName" : "计算机"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "501302",
-        "name" : "南方恒指ETF联接(LOF)A",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018957",
-        "name" : "中航机遇领航混合发起C",
-        "sectorName" : "通信设备|通信"
       },
       {
         "dataSource" : "新浪财经",
@@ -174,24 +188,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "004753",
-        "name" : "广发中证传媒ETF联接C",
-        "sectorName" : "传媒"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "017811",
-        "name" : "东方人工智能主题混合C",
-        "sectorName" : "半导体|电子"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "010416",
         "name" : "华泰柏瑞质量精选混合C",
         "sectorName" : "通信设备|CPO"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "004753",
+        "name" : "广发中证传媒ETF联接C",
+        "sectorName" : "传媒"
       },
       {
         "dataSource" : "新浪财经",
@@ -205,6 +212,13 @@
         "fundcode" : "023754",
         "name" : "永赢信息产业智选混合发起C",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "007466",
+        "name" : "华泰柏瑞中证红利低波ETF联接A",
+        "sectorName" : "金融业"
       },
       {
         "dataSource" : "新浪财经",
@@ -230,13 +244,6 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "007466",
-        "name" : "华泰柏瑞中证红利低波ETF联接A",
-        "sectorName" : "金融业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
         "fundcode" : "011103",
         "name" : "天弘中证光伏产业指数C",
         "sectorName" : "光伏设备|电力设备"
@@ -247,13 +254,6 @@
         "fundcode" : "022365",
         "name" : "永赢科技智选混合发起C",
         "sectorName" : "云计算|5G"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "167002",
-        "name" : "平安鼎越混合(LOF)A",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -271,10 +271,23 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "008989",
+        "name" : "大成科技创新混合C",
+        "sectorName" : "5G|F5G"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "026434",
         "name" : "华泰柏瑞中证A500指数增强C",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "018853",
+        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币"
       },
       {
         "dataSource" : "新浪财经",
@@ -286,43 +299,9 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "015897",
-        "name" : "天弘中证细分化工产业主题ETF联接C",
-        "sectorName" : "基础化工|材料"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015968",
-        "name" : "永赢半导体产业智选混合发起C",
-        "sectorName" : "光刻胶"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "008989",
-        "name" : "大成科技创新混合C",
-        "sectorName" : "5G|F5G"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "018853",
-        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
         "fundcode" : "012414",
         "name" : "招商中证白酒指数(LOF)C",
         "sectorName" : "白酒|食品饮料"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "016874",
-        "name" : "广发远见智选混合C",
-        "sectorName" : "CPO|光模块"
       },
       {
         "dataSource" : "新浪财经",
@@ -332,23 +311,23 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "015897",
+        "name" : "天弘中证细分化工产业主题ETF联接C",
+        "sectorName" : "基础化工|材料"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "019578",
         "name" : "摩根全球天然资源混合(QDII)C"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "股票型",
-        "fundcode" : "001938",
-        "name" : "中欧时代先锋股票A",
-        "sectorName" : "新兴产业|高端制造"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "003015",
-        "name" : "中金沪深300指数增强A",
-        "sectorName" : "制造业"
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015968",
+        "name" : "永赢半导体产业智选混合发起C",
+        "sectorName" : "光刻胶"
       },
       {
         "dataSource" : "新浪财经",
@@ -364,16 +343,24 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "026132",
-        "name" : "永赢国证工业软件主题指数C",
-        "sectorName" : "信息传输、软件和信息技术服务业"
+        "fundType" : "混合型-偏股",
+        "fundcode" : "016874",
+        "name" : "广发远见智选混合C",
+        "sectorName" : "CPO|光模块"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "022184",
-        "name" : "富国全球科技互联网股票(QDII)C"
+        "fundType" : "指数型-股票",
+        "fundcode" : "003015",
+        "name" : "中金沪深300指数增强A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "股票型",
+        "fundcode" : "001938",
+        "name" : "中欧时代先锋股票A",
+        "sectorName" : "新兴产业|高端制造"
       },
       {
         "dataSource" : "新浪财经",
@@ -384,21 +371,46 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "QDII-普通股票",
-        "fundcode" : "017731",
-        "name" : "嘉实全球产业升级股票发起式(QDII)C"
+        "fundcode" : "021277",
+        "name" : "广发全球精选股票(QDII)人民币C"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "017193",
-        "name" : "天弘中证工业有色金属主题ETF发起联接C",
-        "sectorName" : "有色金属|工业金属"
+        "fundType" : "混合型-偏股",
+        "fundcode" : "012710",
+        "name" : "华夏核心成长混合C",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "022184",
+        "name" : "富国全球科技互联网股票(QDII)C"
       },
       {
         "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "021842",
         "name" : "国富全球科技互联混合(QDII)人民币C"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "017731",
+        "name" : "嘉实全球产业升级股票发起式(QDII)C"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "026132",
+        "name" : "永赢国证工业软件主题指数C",
+        "sectorName" : "信息传输、软件和信息技术服务业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "012922",
+        "name" : "易方达全球成长精选混合(QDII)人民币C"
       },
       {
         "dataSource" : "新浪财经",
@@ -410,34 +422,15 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
-        "fundcode" : "012710",
-        "name" : "华夏核心成长混合C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "016665",
-        "name" : "天弘全球高端制造混合(QDII)C"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "012922",
-        "name" : "易方达全球成长精选混合(QDII)人民币C"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
         "fundcode" : "014162",
         "name" : "万家人工智能混合C",
         "sectorName" : "TMT|算力"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "021277",
-        "name" : "广发全球精选股票(QDII)人民币C"
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "016665",
+        "name" : "天弘全球高端制造混合(QDII)C"
       },
       {
         "dataSource" : "新浪财经",
@@ -449,9 +442,15 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "017470",
-        "name" : "嘉实上证科创板芯片ETF发起联接C",
-        "sectorName" : "电子|半导体"
+        "fundcode" : "017193",
+        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "sectorName" : "有色金属|工业金属"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "539002",
+        "name" : "建信新兴市场混合(QDII)A"
       },
       {
         "dataSource" : "新浪财经",
@@ -462,22 +461,16 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "539002",
-        "name" : "建信新兴市场混合(QDII)A"
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "006075",
+        "name" : "博时标普500ETF联接C"
       },
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "023829",
-        "name" : "万家中证半导体材料设备主题ETF发起式联接C",
-        "sectorName" : "半导体|材料"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "006075",
-        "name" : "博时标普500ETF联接C"
+        "fundcode" : "017470",
+        "name" : "嘉实上证科创板芯片ETF发起联接C",
+        "sectorName" : "电子|半导体"
       },
       {
         "dataSource" : "新浪财经",
@@ -485,6 +478,13 @@
         "fundcode" : "018994",
         "name" : "中欧数字经济混合发起C",
         "sectorName" : "TMT|5G"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "股票型",
+        "fundcode" : "009147",
+        "name" : "建信新能源行业股票A",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -502,6 +502,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "021034",
+        "name" : "易方达储能电池ETF联接C",
+        "sectorName" : "电力设备|电池"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-灵活",
         "fundcode" : "021523",
         "name" : "财通价值动量混合C",
@@ -510,15 +517,15 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "021034",
-        "name" : "易方达储能电池ETF联接C",
-        "sectorName" : "电力设备|电池"
+        "fundcode" : "023829",
+        "name" : "万家中证半导体材料设备主题ETF发起式联接C",
+        "sectorName" : "半导体|材料"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "股票型",
-        "fundcode" : "009147",
-        "name" : "建信新能源行业股票A",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011609",
+        "name" : "易方达上证科创50联接C",
         "sectorName" : "制造业"
       },
       {
@@ -527,13 +534,6 @@
         "fundcode" : "014194",
         "name" : "汇添富中证芯片产业指数增强发起式C",
         "sectorName" : "电子|半导体"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011609",
-        "name" : "易方达上证科创50联接C",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
