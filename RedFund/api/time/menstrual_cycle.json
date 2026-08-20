@@ -4,6 +4,12 @@
     "cycleLength" : 30,
     "history" : [
       {
+        "endDate" : "2026-08-27T05:25:09Z",
+        "id" : "8E8D2676-4924-48BC-BAEA-9DB2D1890B2C",
+        "startDate" : "2026-08-20T05:25:09Z"
+      },
+      {
+        "calculatedCycleLength" : 28,
         "endDate" : "2026-07-31T04:56:00Z",
         "id" : "6D8C4B35-5EEE-4089-A703-EB24633AF1AF",
         "startDate" : "2026-07-23T04:56:00Z"
@@ -39,7 +45,7 @@
         "startDate" : "2026-02-18T06:03:00Z"
       }
     ],
-    "lastPeriodDateInterval" : 1784782560,
+    "lastPeriodDateInterval" : 1787203509.382618,
     "periodLength" : 7
   },
   "module" : "time"
