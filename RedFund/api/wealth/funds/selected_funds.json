@@ -273,17 +273,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "010736",
-        "name" : "易方达沪深300指数增强A",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "015968",
         "name" : "永赢半导体产业智选混合发起C",
         "sectorName" : "光刻胶"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "010736",
+        "name" : "易方达沪深300指数增强A",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -357,13 +357,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014344",
-        "name" : "鹏华中证500指数增强A",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-普通股票",
         "fundcode" : "017731",
         "name" : "嘉实全球产业升级股票发起式(QDII)C"
@@ -378,8 +371,8 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "026434",
-        "name" : "华泰柏瑞中证A500指数增强C",
+        "fundcode" : "014344",
+        "name" : "鹏华中证500指数增强A",
         "sectorName" : "制造业"
       },
       {
@@ -387,6 +380,13 @@
         "fundType" : "股票型",
         "fundcode" : "009147",
         "name" : "建信新能源行业股票A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "026434",
+        "name" : "华泰柏瑞中证A500指数增强C",
         "sectorName" : "制造业"
       },
       {
