@@ -37,6 +37,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "003095",
+        "name" : "中欧医疗健康混合A",
+        "sectorName" : "医药生物|化学制药"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-灵活",
         "fundcode" : "001770",
         "name" : "前海开源嘉鑫混合C",
@@ -48,6 +55,13 @@
         "fundcode" : "017193",
         "name" : "天弘中证工业有色金属主题ETF发起联接C",
         "sectorName" : "有色金属|工业金属"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015916",
+        "name" : "永赢医药创新智选混合发起C",
+        "sectorName" : "创新药|精准医疗"
       },
       {
         "dataSource" : "新浪财经",
@@ -104,13 +118,6 @@
         "fundcode" : "025500",
         "name" : "东方阿尔法科技智选混合发起C",
         "sectorName" : "存储芯片|电子"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "name" : "永赢医药创新智选混合发起C",
-        "sectorName" : "创新药|精准医疗"
       },
       {
         "dataSource" : "新浪财经",
@@ -262,13 +269,6 @@
         "fundcode" : "014194",
         "name" : "汇添富中证芯片产业指数增强发起式C",
         "sectorName" : "电子|半导体"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "003095",
-        "name" : "中欧医疗健康混合A",
-        "sectorName" : "医药生物|化学制药"
       },
       {
         "dataSource" : "新浪财经",
@@ -489,16 +489,16 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "021633",
+        "name" : "招商中证香港科技ETF发起式联接(QDII)A"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "110011",
         "name" : "易方达优质精选混合(QDII)",
         "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "021633",
-        "name" : "招商中证香港科技ETF发起式联接(QDII)A"
       },
       {
         "dataSource" : "新浪财经",
