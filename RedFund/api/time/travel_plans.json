@@ -52,9 +52,35 @@
             "date" : "2026-09-13T08:13:00Z",
             "dayIndex" : 2,
             "stops" : [
-
+              {
+                "arrivalMinute" : 540,
+                "id" : "B0DD3C44-3A28-45EC-A959-217789F5059B",
+                "place" : {
+                  "address" : "中国安徽省黄山市黟县宏村镇",
+                  "id" : "7ED17956-D792-4FE8-9265-E6A6AEDDA75F",
+                  "kind" : "attraction",
+                  "latitude" : 29.936115,
+                  "longitude" : 117.974433,
+                  "name" : "屏山村",
+                  "phoneNumber" : "+86 (559) 518 3118"
+                },
+                "stayMinutes" : 100
+              },
+              {
+                "arrivalMinute" : 670,
+                "id" : "19E3DCB5-4851-4237-9C55-8FEFB54753AA",
+                "place" : {
+                  "address" : "中国安徽省黄山市黟县",
+                  "id" : "2B57C313-82EE-4EC0-ABC0-4455AB16FC85",
+                  "kind" : "attraction",
+                  "latitude" : 29.949891,
+                  "longitude" : 117.911881,
+                  "name" : "碧山"
+                },
+                "stayMinutes" : 100
+              }
             ],
-            "title" : "待添加地点"
+            "title" : "屏山村及周边"
           }
         ],
         "destination" : "黄山",
