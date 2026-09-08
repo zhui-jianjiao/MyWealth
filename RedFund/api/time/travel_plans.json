@@ -1,0 +1,102 @@
+{
+  "api" : "travel_plans",
+  "data" : {
+    "plans" : [
+      {
+        "budget" : "comfort",
+        "createdAt" : "2026-09-08T08:14:17Z",
+        "days" : [
+          {
+            "date" : "2026-09-11T08:13:00Z",
+            "dayIndex" : 0,
+            "stops" : [
+              {
+                "arrivalMinute" : 540,
+                "id" : "284882EE-452D-419B-B916-B003EEECADAE",
+                "place" : {
+                  "address" : "中国安徽省黄山市徽州区和尚棚20-3",
+                  "id" : "1D854F1B-9A14-4C79-B6B1-345EA2B80190",
+                  "kind" : "attraction",
+                  "latitude" : 29.837556,
+                  "longitude" : 118.286,
+                  "name" : "西溪南古村落",
+                  "phoneNumber" : "+86 (559) 277 2020"
+                },
+                "stayMinutes" : 100
+              }
+            ],
+            "title" : "西溪南古村落"
+          },
+          {
+            "date" : "2026-09-12T08:13:00Z",
+            "dayIndex" : 1,
+            "stops" : [
+              {
+                "arrivalMinute" : 540,
+                "id" : "AAA775C5-6088-4BFD-A368-C16854CF1538",
+                "place" : {
+                  "address" : "中国安徽省黄山市黄山区汤口镇汤泉路1号",
+                  "id" : "F1F06FF2-EE02-4D75-AA92-0CBC1D75998C",
+                  "kind" : "attraction",
+                  "latitude" : 30.139322,
+                  "longitude" : 118.160164,
+                  "name" : "黄山风景区",
+                  "phoneNumber" : "+86 (559) 259 0999"
+                },
+                "stayMinutes" : 100
+              }
+            ],
+            "title" : "黄山风景区"
+          },
+          {
+            "date" : "2026-09-13T08:13:00Z",
+            "dayIndex" : 2,
+            "stops" : [
+
+            ],
+            "title" : "待添加地点"
+          }
+        ],
+        "destination" : "黄山",
+        "destinationCenter" : {
+          "address" : "中国安徽省",
+          "id" : "AB7F12A6-AEC7-4561-925C-A3D64A62FDBA",
+          "kind" : "custom",
+          "latitude" : 30.137803,
+          "longitude" : 118.165201,
+          "name" : "黄山"
+        },
+        "foodRecommendations" : [
+
+        ],
+        "id" : "8B020ECA-E767-40E1-BD8B-EFECA406FE1A",
+        "lodgings" : [
+
+        ],
+        "pace" : "relaxed",
+        "startDate" : "2026-09-11T08:13:00Z",
+        "transport" : "mixed",
+        "transportHubs" : [
+          {
+            "address" : "中国上海市徐汇区沪闵路9001号",
+            "id" : "61B81B4B-CCF0-409F-8CB3-DD7E1E6A94E8",
+            "kind" : "transport",
+            "latitude" : 31.153127,
+            "longitude" : 121.429462,
+            "name" : "上海南站"
+          },
+          {
+            "address" : "中国安徽省黄山市屯溪区新潭镇上长林村",
+            "id" : "068CE6F4-F472-470B-AC95-CA7BD40C052C",
+            "kind" : "transport",
+            "latitude" : 29.81511,
+            "longitude" : 118.273139,
+            "name" : "黄山北站"
+          }
+        ],
+        "travelers" : 2
+      }
+    ]
+  },
+  "module" : "time"
+}
