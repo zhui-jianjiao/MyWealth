@@ -381,6 +381,12 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "008971",
+        "name" : "大成纳斯达克100ETF联接(QDII)C"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "008989",
         "name" : "大成科技创新混合C",
@@ -388,9 +394,10 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "008971",
-        "name" : "大成纳斯达克100ETF联接(QDII)C"
+        "fundType" : "混合型-灵活",
+        "fundcode" : "001770",
+        "name" : "前海开源嘉鑫混合C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -398,13 +405,6 @@
         "fundcode" : "014194",
         "name" : "汇添富中证芯片产业指数增强发起式C",
         "sectorName" : "电子|半导体"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "001770",
-        "name" : "前海开源嘉鑫混合C",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
