@@ -65,14 +65,16 @@
             "stops" : [
               {
                 "arrivalMinute" : 540,
-                "id" : "45385B98-E8CA-475D-95EC-5209BDF03B13",
+                "id" : "6E7019B1-88AE-4815-9674-6F1CF17D343B",
                 "place" : {
-                  "address" : "中国安徽省黄山市黟县",
-                  "id" : "878873C1-1454-4FDC-A893-B4AC8478A607",
+                  "address" : "中国安徽省黄山市黟县街",
+                  "id" : "296B3BED-C7A7-4251-973F-67B6141DD03F",
                   "kind" : "attraction",
-                  "latitude" : 29.949891,
-                  "longitude" : 117.911881,
-                  "name" : "碧山"
+                  "latitude" : 30.002582,
+                  "longitude" : 117.989956,
+                  "name" : "宏村",
+                  "phoneNumber" : "+86 (559) 554 1158",
+                  "website" : "http://www.hongcun.com.cn"
                 },
                 "stayMinutes" : 100
               },
@@ -91,21 +93,19 @@
               },
               {
                 "arrivalMinute" : 800,
-                "id" : "6E7019B1-88AE-4815-9674-6F1CF17D343B",
+                "id" : "45385B98-E8CA-475D-95EC-5209BDF03B13",
                 "place" : {
-                  "address" : "中国安徽省黄山市黟县街",
-                  "id" : "296B3BED-C7A7-4251-973F-67B6141DD03F",
+                  "address" : "中国安徽省黄山市黟县",
+                  "id" : "878873C1-1454-4FDC-A893-B4AC8478A607",
                   "kind" : "attraction",
-                  "latitude" : 30.002582,
-                  "longitude" : 117.989956,
-                  "name" : "宏村",
-                  "phoneNumber" : "+86 (559) 554 1158",
-                  "website" : "http://www.hongcun.com.cn"
+                  "latitude" : 29.949891,
+                  "longitude" : 117.911881,
+                  "name" : "碧山"
                 },
                 "stayMinutes" : 100
               }
             ],
-            "title" : "碧山及周边"
+            "title" : "宏村及周边"
           }
         ],
         "departureHubID" : "39BBCF14-74EC-4336-B22E-D701048FC711",
