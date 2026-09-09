@@ -27,7 +27,7 @@
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
-      "holdingRiskDailyGainThreshold" : 5,
+      "holdingRiskDailyGainThreshold" : 4.5,
       "isEnabled" : false,
       "scanInterval" : 1800,
       "startTime" : "2026-04-12T02:30:00Z",
@@ -35,5 +35,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-09T10:03:17Z"
+  "updatedAt" : "2026-09-09T10:03:31Z"
 }
