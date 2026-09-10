@@ -18,17 +18,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "001770",
-        "name" : "前海开源嘉鑫混合C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "015916",
         "name" : "永赢医药创新智选混合发起C",
         "sectorName" : "创新药|精准医疗"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "001770",
+        "name" : "前海开源嘉鑫混合C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-10T05:37:28Z"
+  "updatedAt" : "2026-09-10T05:37:31Z"
 }
