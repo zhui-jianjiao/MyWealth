@@ -36,6 +36,20 @@
               },
               {
                 "arrivalMinute" : 670,
+                "id" : "937D92D3-9EE4-464E-ACFB-9C5677744D73",
+                "place" : {
+                  "address" : "中国安徽省黄山市歙县徽州路93号",
+                  "id" : "1632F565-534E-4E0B-8233-65C15B91E4E6",
+                  "kind" : "attraction",
+                  "latitude" : 29.86602,
+                  "longitude" : 118.436772,
+                  "name" : "徽州古城",
+                  "phoneNumber" : "+86 (559) 652 6108"
+                },
+                "stayMinutes" : 100
+              },
+              {
+                "arrivalMinute" : 800,
                 "id" : "C2B2DD11-5494-475F-8667-B173AB8F08D5",
                 "place" : {
                   "address" : "中国安徽省黄山市歙县",
@@ -200,10 +214,10 @@
           }
         ],
         "travelers" : 2,
-        "updatedAt" : "2026-09-11T00:38:09Z"
+        "updatedAt" : "2026-09-11T00:39:14Z"
       }
     ]
   },
   "module" : "time",
-  "updatedAt" : "2026-09-11T00:38:18Z"
+  "updatedAt" : "2026-09-11T00:39:20Z"
 }
