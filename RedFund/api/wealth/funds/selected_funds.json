@@ -355,13 +355,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011036",
-        "name" : "嘉实中证稀土产业ETF联接C",
-        "sectorName" : "稀土永磁"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "指数型-海外股票",
         "fundcode" : "016452",
         "name" : "南方纳斯达克100指数发起(QDII)A"
@@ -371,6 +364,13 @@
         "fundType" : "QDII-普通股票",
         "fundcode" : "017437",
         "name" : "华宝纳斯达克精选股票发起式(QDII)C"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011036",
+        "name" : "嘉实中证稀土产业ETF联接C",
+        "sectorName" : "稀土永磁"
       },
       {
         "dataSource" : "新浪财经",
@@ -427,13 +427,6 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "025833",
-        "name" : "天弘电网设备特高压指数C",
-        "sectorName" : "电力设备|电网设备"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
         "fundcode" : "017193",
         "name" : "天弘中证工业有色金属主题ETF发起联接C",
         "sectorName" : "有色金属|工业金属"
@@ -451,6 +444,13 @@
         "fundcode" : "008327",
         "name" : "东财通信C",
         "sectorName" : "通信服务|通信设备"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "025833",
+        "name" : "天弘电网设备特高压指数C",
+        "sectorName" : "电力设备|电网设备"
       },
       {
         "dataSource" : "新浪财经",
@@ -494,16 +494,16 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "股票型",
-        "fundcode" : "009147",
-        "name" : "建信新能源行业股票A",
+        "fundType" : "指数型-股票",
+        "fundcode" : "003015",
+        "name" : "中金沪深300指数增强A",
         "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "003015",
-        "name" : "中金沪深300指数增强A",
+        "fundType" : "股票型",
+        "fundcode" : "009147",
+        "name" : "建信新能源行业股票A",
         "sectorName" : "制造业"
       },
       {
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-15T06:55:04Z"
+  "updatedAt" : "2026-09-15T06:55:20Z"
 }
