@@ -403,6 +403,20 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
+        "fundcode" : "003095",
+        "name" : "中欧医疗健康混合A",
+        "sectorName" : "医药生物|化学制药"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015916",
+        "name" : "永赢医药创新智选混合发起C",
+        "sectorName" : "创新药|精准医疗"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
         "fundcode" : "012710",
         "name" : "华夏核心成长混合C",
         "sectorName" : "制造业"
@@ -454,13 +468,6 @@
         "fundcode" : "024424",
         "name" : "东方阿尔法科技优选混合发起C",
         "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "003095",
-        "name" : "中欧医疗健康混合A",
-        "sectorName" : "医药生物|化学制药"
       },
       {
         "dataSource" : "新浪财经",
@@ -557,13 +564,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "name" : "永赢医药创新智选混合发起C",
-        "sectorName" : "创新药|精准医疗"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "股票型",
         "fundcode" : "540008",
         "name" : "汇丰晋信低碳先锋股票A",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-15T09:16:19Z"
+  "updatedAt" : "2026-09-15T09:18:04Z"
 }
