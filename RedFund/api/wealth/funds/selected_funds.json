@@ -416,13 +416,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "name" : "永赢医药创新智选混合发起C",
-        "sectorName" : "创新药|精准医疗"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "012414",
         "name" : "招商中证白酒指数(LOF)C",
@@ -564,6 +557,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015916",
+        "name" : "永赢医药创新智选混合发起C",
+        "sectorName" : "创新药|精准医疗"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "股票型",
         "fundcode" : "540008",
         "name" : "汇丰晋信低碳先锋股票A",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-16T03:36:31Z"
+  "updatedAt" : "2026-09-16T05:07:12Z"
 }
