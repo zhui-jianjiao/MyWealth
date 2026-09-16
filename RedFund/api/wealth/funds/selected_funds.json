@@ -346,6 +346,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "003095",
+        "name" : "中欧医疗健康混合A",
+        "sectorName" : "医药生物|化学制药"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "004753",
         "name" : "广发中证传媒ETF联接C",
@@ -454,13 +461,6 @@
         "fundcode" : "024424",
         "name" : "东方阿尔法科技优选混合发起C",
         "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "003095",
-        "name" : "中欧医疗健康混合A",
-        "sectorName" : "医药生物|化学制药"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-16T03:36:03Z"
+  "updatedAt" : "2026-09-16T03:36:27Z"
 }
