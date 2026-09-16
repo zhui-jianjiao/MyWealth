@@ -11,20 +11,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "021034",
-        "name" : "易方达储能电池ETF联接C",
-        "sectorName" : "电力设备|电池"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "005538",
-        "name" : "中航新起航灵活配置混合C",
-        "sectorName" : "固态电池"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "018125",
         "name" : "永赢先进制造智选混合发起C",
@@ -54,9 +40,23 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "021034",
+        "name" : "易方达储能电池ETF联接C",
+        "sectorName" : "电力设备|电池"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "015897",
         "name" : "天弘中证细分化工产业主题ETF联接C",
         "sectorName" : "基础化工|材料"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "005538",
+        "name" : "中航新起航灵活配置混合C",
+        "sectorName" : "固态电池"
       },
       {
         "dataSource" : "新浪财经",
@@ -112,13 +112,6 @@
         "fundcode" : "026434",
         "name" : "华泰柏瑞中证A500指数增强C",
         "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "025833",
-        "name" : "天弘电网设备特高压指数C",
-        "sectorName" : "电力设备|电网设备"
       },
       {
         "dataSource" : "新浪财经",
@@ -179,6 +172,13 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "025833",
+        "name" : "天弘电网设备特高压指数C",
+        "sectorName" : "电力设备|电网设备"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "014544",
         "name" : "汇添富中证沪港深云计算产业ETF联接C",
         "sectorName" : "计算机"
@@ -198,13 +198,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011103",
-        "name" : "天弘中证光伏产业指数C",
-        "sectorName" : "光伏设备|电力设备"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-普通股票",
         "fundcode" : "022184",
         "name" : "富国全球科技互联网股票(QDII)C"
@@ -215,6 +208,13 @@
         "fundcode" : "026132",
         "name" : "永赢国证工业软件主题指数C",
         "sectorName" : "信息传输、软件和信息技术服务业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011103",
+        "name" : "天弘中证光伏产业指数C",
+        "sectorName" : "光伏设备|电力设备"
       },
       {
         "dataSource" : "新浪财经",
@@ -264,13 +264,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "股票型",
-        "fundcode" : "009147",
-        "name" : "建信新能源行业股票A",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "016874",
         "name" : "广发远见智选混合C",
@@ -282,6 +275,13 @@
         "fundcode" : "320007",
         "name" : "诺安成长混合A",
         "sectorName" : "TMT"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "股票型",
+        "fundcode" : "009147",
+        "name" : "建信新能源行业股票A",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-16T02:11:38Z"
+  "updatedAt" : "2026-09-16T02:13:17Z"
 }
