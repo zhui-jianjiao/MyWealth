@@ -4,13 +4,6 @@
     "funds" : [
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "017193",
-        "name" : "天弘中证工业有色金属主题ETF发起联接C",
-        "sectorName" : "有色金属|工业金属"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "018125",
         "name" : "永赢先进制造智选混合发起C",
@@ -32,17 +25,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "012710",
-        "name" : "华夏核心成长混合C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "007466",
         "name" : "华泰柏瑞中证红利低波ETF联接A",
         "sectorName" : "金融业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "017193",
+        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "sectorName" : "有色金属|工业金属"
       },
       {
         "dataSource" : "新浪财经",
@@ -67,17 +60,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "004753",
-        "name" : "广发中证传媒ETF联接C",
-        "sectorName" : "传媒"
+        "fundType" : "混合型-偏股",
+        "fundcode" : "012710",
+        "name" : "华夏核心成长混合C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "011036",
-        "name" : "嘉实中证稀土产业ETF联接C",
-        "sectorName" : "稀土永磁"
+        "fundcode" : "004753",
+        "name" : "广发中证传媒ETF联接C",
+        "sectorName" : "传媒"
       },
       {
         "dataSource" : "新浪财经",
@@ -91,6 +84,13 @@
         "fundType" : "指数型-股票",
         "fundcode" : "024821",
         "name" : "国富国证港股通科技指数C"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011036",
+        "name" : "嘉实中证稀土产业ETF联接C",
+        "sectorName" : "稀土永磁"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-16T02:28:39Z"
+  "updatedAt" : "2026-09-16T02:28:45Z"
 }
