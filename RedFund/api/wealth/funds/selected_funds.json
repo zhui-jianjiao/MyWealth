@@ -212,6 +212,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "014344",
+        "name" : "鹏华中证500指数增强A",
+        "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-灵活",
         "fundcode" : "001770",
         "name" : "前海开源嘉鑫混合C",
@@ -223,13 +230,6 @@
         "fundcode" : "008989",
         "name" : "大成科技创新混合C",
         "sectorName" : "5G|F5G"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014344",
-        "name" : "鹏华中证500指数增强A",
-        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-16T05:11:45Z"
+  "updatedAt" : "2026-09-16T05:12:06Z"
 }
