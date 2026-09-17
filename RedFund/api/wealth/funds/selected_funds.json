@@ -370,6 +370,12 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "024821",
+        "name" : "国富国证港股通科技指数C"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "012734",
         "name" : "易方达中证人工智能主题ETF联接C",
         "sectorName" : "人工智能|TMT"
@@ -392,12 +398,6 @@
         "fundcode" : "022365",
         "name" : "永赢科技智选混合发起C",
         "sectorName" : "云计算|5G"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "024821",
-        "name" : "国富国证港股通科技指数C"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-17T06:48:46Z"
+  "updatedAt" : "2026-09-17T06:48:51Z"
 }
