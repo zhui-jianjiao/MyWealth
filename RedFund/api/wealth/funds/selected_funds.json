@@ -308,13 +308,6 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "023521",
-        "name" : "博时上证科创板人工智能ETF发起式联接C",
-        "sectorName" : "人工智能"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
         "fundcode" : "007466",
         "name" : "华泰柏瑞中证红利低波ETF联接A",
         "sectorName" : "金融业"
@@ -325,6 +318,13 @@
         "fundcode" : "003015",
         "name" : "中金沪深300指数增强A",
         "sectorName" : "制造业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "023521",
+        "name" : "博时上证科创板人工智能ETF发起式联接C",
+        "sectorName" : "人工智能"
       },
       {
         "dataSource" : "新浪财经",
@@ -368,16 +368,16 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "161125",
+        "name" : "易方达标普500指数人民币A"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "012734",
         "name" : "易方达中证人工智能主题ETF联接C",
         "sectorName" : "人工智能|TMT"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "161125",
-        "name" : "易方达标普500指数人民币A"
       },
       {
         "dataSource" : "新浪财经",
@@ -435,16 +435,16 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "011609",
-        "name" : "易方达上证科创50联接C",
-        "sectorName" : "制造业"
+        "fundcode" : "019869",
+        "name" : "华夏云计算与大数据ETF联接C",
+        "sectorName" : "云计算|计算机"
       },
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "019869",
-        "name" : "华夏云计算与大数据ETF联接C",
-        "sectorName" : "云计算|计算机"
+        "fundcode" : "011609",
+        "name" : "易方达上证科创50联接C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-17T06:50:33Z"
+  "updatedAt" : "2026-09-17T06:50:51Z"
 }
