@@ -497,13 +497,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "320007",
-        "name" : "诺安成长混合A",
-        "sectorName" : "TMT"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-普通股票",
         "fundcode" : "022184",
         "name" : "富国全球科技互联网股票(QDII)C"
@@ -521,6 +514,13 @@
         "fundcode" : "026132",
         "name" : "永赢国证工业软件主题指数C",
         "sectorName" : "信息传输、软件和信息技术服务业"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "320007",
+        "name" : "诺安成长混合A",
+        "sectorName" : "TMT"
       },
       {
         "dataSource" : "新浪财经",
@@ -596,5 +596,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-21T05:12:40Z"
+  "updatedAt" : "2026-09-21T05:13:10Z"
 }
