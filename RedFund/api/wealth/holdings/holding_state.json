@@ -1437,11 +1437,6 @@
         "purchasePrice" : 2.2826772738147305,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-08T16:00:00Z",
-            "netValue" : 2.3508,
-            "returnRate" : 0.06
-          },
-          {
             "date" : "2026-09-09T16:00:00Z",
             "netValue" : 2.3139,
             "returnRate" : -1.57
@@ -1470,6 +1465,11 @@
             "date" : "2026-09-16T16:00:00Z",
             "netValue" : 2.3381,
             "returnRate" : 2.62
+          },
+          {
+            "date" : "2026-09-17T16:00:00Z",
+            "netValue" : 2.3511,
+            "returnRate" : 0.56
           }
         ],
         "shares" : 8849.25794448484
@@ -1521,11 +1521,6 @@
         "purchasePrice" : 4.281480713038366,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-08T16:00:00Z",
-            "netValue" : 3.9999,
-            "returnRate" : 0.29
-          },
-          {
             "date" : "2026-09-09T16:00:00Z",
             "netValue" : 3.9468,
             "returnRate" : -1.33
@@ -1554,6 +1549,11 @@
             "date" : "2026-09-16T16:00:00Z",
             "netValue" : 3.994,
             "returnRate" : 0.88
+          },
+          {
+            "date" : "2026-09-17T16:00:00Z",
+            "netValue" : 4.1078,
+            "returnRate" : 2.85
           }
         ],
         "shares" : 724.0485728592889
@@ -1689,11 +1689,6 @@
         "purchasePrice" : 1.153232591471802,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-08T16:00:00Z",
-            "netValue" : 1.2068,
-            "returnRate" : 0.51
-          },
-          {
             "date" : "2026-09-09T16:00:00Z",
             "netValue" : 1.2089,
             "returnRate" : 0.17
@@ -1722,6 +1717,11 @@
             "date" : "2026-09-16T16:00:00Z",
             "netValue" : 1.1914,
             "returnRate" : 0.38
+          },
+          {
+            "date" : "2026-09-17T16:00:00Z",
+            "netValue" : 1.1798,
+            "returnRate" : -0.97
           }
         ],
         "shares" : 610.2064797716971
@@ -2023,11 +2023,6 @@
         "purchasePrice" : 5.794687399633912,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-08T16:00:00Z",
-            "netValue" : 5.1873,
-            "returnRate" : 0.24
-          },
-          {
             "date" : "2026-09-09T16:00:00Z",
             "netValue" : 5.1056,
             "returnRate" : -1.58
@@ -2056,6 +2051,11 @@
             "date" : "2026-09-16T16:00:00Z",
             "netValue" : 4.936,
             "returnRate" : -0.11
+          },
+          {
+            "date" : "2026-09-17T16:00:00Z",
+            "netValue" : 5.0856,
+            "returnRate" : 3.03
           }
         ],
         "shares" : 2579.9493517017827
@@ -2233,11 +2233,6 @@
         "purchasePrice" : 3.662482198878595,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-08T16:00:00Z",
-            "netValue" : 2.6833,
-            "returnRate" : 0.78
-          },
-          {
             "date" : "2026-09-09T16:00:00Z",
             "netValue" : 2.6368,
             "returnRate" : -1.73
@@ -2266,6 +2261,11 @@
             "date" : "2026-09-16T16:00:00Z",
             "netValue" : 2.6425,
             "returnRate" : 1.2
+          },
+          {
+            "date" : "2026-09-17T16:00:00Z",
+            "netValue" : 2.7239,
+            "returnRate" : 3.08
           }
         ],
         "shares" : 2880.5600756859035
@@ -2654,5 +2654,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-21T06:59:51Z"
+  "updatedAt" : "2026-09-21T10:36:23Z"
 }
