@@ -1437,11 +1437,6 @@
         "purchasePrice" : 2.2851887833277957,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-09T16:00:00Z",
-            "netValue" : 2.3139,
-            "returnRate" : -1.57
-          },
-          {
             "date" : "2026-09-10T16:00:00Z",
             "netValue" : 2.3431,
             "returnRate" : 1.26
@@ -1470,6 +1465,11 @@
             "date" : "2026-09-17T16:00:00Z",
             "netValue" : 2.3511,
             "returnRate" : 0.56
+          },
+          {
+            "date" : "2026-09-20T16:00:00Z",
+            "netValue" : 2.4341,
+            "returnRate" : 3.53
           }
         ],
         "shares" : 9102.092637488835
@@ -1521,11 +1521,6 @@
         "purchasePrice" : 4.285596976499215,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-09T16:00:00Z",
-            "netValue" : 3.9468,
-            "returnRate" : -1.33
-          },
-          {
             "date" : "2026-09-10T16:00:00Z",
             "netValue" : 3.9541,
             "returnRate" : 0.18
@@ -1554,6 +1549,11 @@
             "date" : "2026-09-17T16:00:00Z",
             "netValue" : 4.1078,
             "returnRate" : 2.85
+          },
+          {
+            "date" : "2026-09-20T16:00:00Z",
+            "netValue" : 4.1911,
+            "returnRate" : 2.03
           }
         ],
         "shares" : 723.3531330639271
@@ -2233,11 +2233,6 @@
         "purchasePrice" : 3.6624810740266827,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-09T16:00:00Z",
-            "netValue" : 2.6368,
-            "returnRate" : -1.73
-          },
-          {
             "date" : "2026-09-10T16:00:00Z",
             "netValue" : 2.6362,
             "returnRate" : -0.02
@@ -2266,6 +2261,11 @@
             "date" : "2026-09-17T16:00:00Z",
             "netValue" : 2.7239,
             "returnRate" : 3.08
+          },
+          {
+            "date" : "2026-09-20T16:00:00Z",
+            "netValue" : 2.795,
+            "returnRate" : 2.61
           }
         ],
         "shares" : 2880.560960387679
@@ -2654,5 +2654,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-22T09:36:37Z"
+  "updatedAt" : "2026-09-22T09:37:22Z"
 }
