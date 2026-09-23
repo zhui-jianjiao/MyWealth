@@ -19,10 +19,10 @@
     ],
     "thresholdConfig" : {
       "enabledWeekdays" : [
+        4,
         3,
         2,
         5,
-        4,
         6
       ],
       "endTime" : "2026-04-12T07:00:00Z",
@@ -35,5 +35,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-23T06:09:25Z"
+  "updatedAt" : "2026-09-23T06:09:47Z"
 }
