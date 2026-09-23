@@ -318,16 +318,16 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "021842",
-        "name" : "国富全球科技互联混合(QDII)人民币C"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "011452",
         "name" : "华泰柏瑞质量成长C",
         "sectorName" : "通信设备|光通信"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "021842",
+        "name" : "国富全球科技互联混合(QDII)人民币C"
       },
       {
         "dataSource" : "新浪财经",
@@ -571,6 +571,12 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "QDII-混合灵活",
+        "fundcode" : "001668",
+        "name" : "汇添富全球移动互联混合(QDII)人民币A"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-灵活",
         "fundcode" : "021523",
         "name" : "财通价值动量混合C",
@@ -596,5 +602,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-23T06:40:47Z"
+  "updatedAt" : "2026-09-23T06:44:18Z"
 }
