@@ -585,6 +585,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "005538",
+        "name" : "中航新起航灵活配置混合C",
+        "sectorName" : "固态电池"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "QDII-混合偏股",
         "fundcode" : "539002",
         "name" : "建信新兴市场混合(QDII)A"
@@ -594,13 +601,6 @@
         "fundType" : "QDII-混合偏股",
         "fundcode" : "018147",
         "name" : "建信新兴市场混合(QDII)C"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "005538",
-        "name" : "中航新起航灵活配置混合C",
-        "sectorName" : "固态电池"
       }
     ],
     "persistentFundCodes" : [
@@ -608,5 +608,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-23T07:36:58Z"
+  "updatedAt" : "2026-09-23T07:37:20Z"
 }
