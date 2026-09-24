@@ -187,6 +187,13 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "017470",
+        "name" : "嘉实上证科创板芯片ETF发起联接C",
+        "sectorName" : "电子|半导体"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "015897",
         "name" : "天弘中证细分化工产业主题ETF联接C",
         "sectorName" : "基础化工|材料"
@@ -530,22 +537,15 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "018147",
-        "name" : "建信新兴市场混合(QDII)C"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "QDII-普通股票",
         "fundcode" : "017437",
         "name" : "华宝纳斯达克精选股票发起式(QDII)C"
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "017470",
-        "name" : "嘉实上证科创板芯片ETF发起联接C",
-        "sectorName" : "电子|半导体"
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "018147",
+        "name" : "建信新兴市场混合(QDII)C"
       },
       {
         "dataSource" : "新浪财经",
@@ -584,6 +584,12 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "008971",
+        "name" : "大成纳斯达克100ETF联接(QDII)C"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "014194",
         "name" : "汇添富中证芯片产业指数增强发起式C",
@@ -595,12 +601,6 @@
         "fundcode" : "007466",
         "name" : "华泰柏瑞中证红利低波ETF联接A",
         "sectorName" : "金融业"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "008971",
-        "name" : "大成纳斯达克100ETF联接(QDII)C"
       }
     ],
     "persistentFundCodes" : [
@@ -608,5 +608,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-24T06:39:13Z"
+  "updatedAt" : "2026-09-24T06:39:15Z"
 }
