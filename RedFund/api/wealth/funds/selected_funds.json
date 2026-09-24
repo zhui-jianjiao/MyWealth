@@ -116,13 +116,6 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012414",
-        "name" : "招商中证白酒指数(LOF)C",
-        "sectorName" : "白酒|食品饮料"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "023754",
         "name" : "永赢信息产业智选混合发起C",
@@ -578,6 +571,13 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
+        "fundcode" : "012414",
+        "name" : "招商中证白酒指数(LOF)C",
+        "sectorName" : "白酒|食品饮料"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
         "fundcode" : "026434",
         "name" : "华泰柏瑞中证A500指数增强C",
         "sectorName" : "制造业"
@@ -608,5 +608,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-24T05:47:30Z"
+  "updatedAt" : "2026-09-24T05:48:07Z"
 }
