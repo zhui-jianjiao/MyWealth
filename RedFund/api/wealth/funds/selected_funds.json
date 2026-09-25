@@ -504,6 +504,12 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "000043",
+        "name" : "嘉实美国成长股票人民币"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
         "fundcode" : "000962",
         "name" : "天弘中证500ETF联接A",
@@ -614,5 +620,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-25T12:54:48Z"
+  "updatedAt" : "2026-09-25T12:55:02Z"
 }
