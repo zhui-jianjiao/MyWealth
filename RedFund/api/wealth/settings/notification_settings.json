@@ -19,11 +19,11 @@
     ],
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        2,
-        4,
         3,
+        2,
+        5,
         6,
-        5
+        4
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
@@ -35,5 +35,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-28T02:29:48Z"
+  "updatedAt" : "2026-09-28T02:51:37Z"
 }
