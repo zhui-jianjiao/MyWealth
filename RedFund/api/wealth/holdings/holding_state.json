@@ -2101,48 +2101,6 @@
         ],
         "shares" : 752.2600190750472
       },
-      "023521" : {
-        "comment" : "",
-        "purchasePrice" : 1.1885,
-        "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-15T16:00:00Z",
-            "netValue" : 1.1463,
-            "returnRate" : 2.94
-          },
-          {
-            "date" : "2026-09-16T16:00:00Z",
-            "netValue" : 1.143,
-            "returnRate" : -0.29
-          },
-          {
-            "date" : "2026-09-17T16:00:00Z",
-            "netValue" : 1.1789,
-            "returnRate" : 3.14
-          },
-          {
-            "date" : "2026-09-20T16:00:00Z",
-            "netValue" : 1.1904,
-            "returnRate" : 0.98
-          },
-          {
-            "date" : "2026-09-21T16:00:00Z",
-            "netValue" : 1.2239,
-            "returnRate" : 2.81
-          },
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.216,
-            "returnRate" : -0.65
-          },
-          {
-            "date" : "2026-09-23T16:00:00Z",
-            "netValue" : 1.1885,
-            "returnRate" : -2.26
-          }
-        ],
-        "shares" : 0.025241901556583932
-      },
       "023754" : {
         "comment" : "回血一些转到大盘基金",
         "purchasePrice" : 0.9109599338979772,
@@ -2653,5 +2611,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-28T06:47:21Z"
+  "updatedAt" : "2026-09-28T06:47:30Z"
 }
