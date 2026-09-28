@@ -347,17 +347,17 @@
       },
       {
         "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
-        "fundcode" : "026434",
-        "name" : "华泰柏瑞中证A500指数增强C",
-        "sectorName" : "制造业"
-      },
-      {
-        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "018125",
         "name" : "永赢先进制造智选混合发起C",
         "sectorName" : "人形机器人"
+      },
+      {
+        "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "026434",
+        "name" : "华泰柏瑞中证A500指数增强C",
+        "sectorName" : "制造业"
       },
       {
         "dataSource" : "新浪财经",
@@ -626,5 +626,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-28T06:39:22Z"
+  "updatedAt" : "2026-09-28T06:39:24Z"
 }
