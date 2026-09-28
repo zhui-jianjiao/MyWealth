@@ -158,6 +158,13 @@
       },
       {
         "dataSource" : "新浪财经",
+        "fundType" : "指数型-股票",
+        "fundcode" : "025833",
+        "name" : "天弘电网设备特高压指数C",
+        "sectorName" : "电力设备|电网设备"
+      },
+      {
+        "dataSource" : "新浪财经",
         "fundType" : "混合型-偏股",
         "fundcode" : "018123",
         "name" : "永赢数字经济智选混合发起C",
@@ -557,13 +564,6 @@
       {
         "dataSource" : "新浪财经",
         "fundType" : "指数型-股票",
-        "fundcode" : "025833",
-        "name" : "天弘电网设备特高压指数C",
-        "sectorName" : "电力设备|电网设备"
-      },
-      {
-        "dataSource" : "新浪财经",
-        "fundType" : "指数型-股票",
         "fundcode" : "011609",
         "name" : "易方达上证科创50联接C",
         "sectorName" : "制造业"
@@ -626,5 +626,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-28T03:33:21Z"
+  "updatedAt" : "2026-09-28T03:34:42Z"
 }
