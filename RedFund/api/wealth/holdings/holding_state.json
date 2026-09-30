@@ -2099,48 +2099,6 @@
         ],
         "shares" : 24615.93493090782
       },
-      "024195" : {
-        "comment" : "和015790重复",
-        "purchasePrice" : 1.5467694470577966,
-        "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-17T16:00:00Z",
-            "netValue" : 1.304,
-            "returnRate" : 2.38
-          },
-          {
-            "date" : "2026-09-20T16:00:00Z",
-            "netValue" : 1.3075,
-            "returnRate" : 0.27
-          },
-          {
-            "date" : "2026-09-21T16:00:00Z",
-            "netValue" : 1.3055,
-            "returnRate" : -0.15
-          },
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.2955,
-            "returnRate" : -0.77
-          },
-          {
-            "date" : "2026-09-23T16:00:00Z",
-            "netValue" : 1.2794,
-            "returnRate" : -1.24
-          },
-          {
-            "date" : "2026-09-27T16:00:00Z",
-            "netValue" : 1.2324,
-            "returnRate" : -3.67
-          },
-          {
-            "date" : "2026-09-28T16:00:00Z",
-            "netValue" : 1.2265,
-            "returnRate" : -0.48
-          }
-        ],
-        "shares" : 3223.479756135688
-      },
       "024239" : {
         "comment" : "太拉了，卖出，美股少",
         "purchasePrice" : 3.662481128091263,
@@ -2441,5 +2399,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-09-30T06:45:27Z"
+  "updatedAt" : "2026-09-30T06:54:38Z"
 }
