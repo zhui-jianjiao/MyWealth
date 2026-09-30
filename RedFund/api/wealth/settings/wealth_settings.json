@@ -1,0 +1,59 @@
+{
+  "api" : "wealth_settings",
+  "data" : {
+    "notifications" : [
+      {
+        "body" : "快去看看👀，马上暴富了💰💵💸💷💶💴",
+        "id" : "E2F1DB1C-213B-4F6E-A70C-BFFCD4F2BF39",
+        "isEnabled" : true,
+        "time" : "2026-03-17T06:15:00Z",
+        "title" : "📢号外📢"
+      },
+      {
+        "body" : "可以查看👀收益啦",
+        "id" : "DED9D805-4FCE-4B89-AFD8-17EF5E7333DD",
+        "isEnabled" : true,
+        "time" : "2026-03-17T12:30:00Z",
+        "title" : "通知📢"
+      }
+    ],
+    "portfolioTargetAllocations" : {
+      "⚗️化工新材料" : 0,
+      "⚙️高端制造" : 8,
+      "恒生科技" : 5,
+      "🌏️全球科技" : 3,
+      "🍻传统消费" : 8,
+      "💯纳指100" : 5,
+      "📻半导体与存储" : 8,
+      "🔆光与通信" : 8,
+      "🔋电力与储能" : 10,
+      "🔬科创/AI" : 10,
+      "🛢️油气与大宗" : 3,
+      "🥇黄金" : 3,
+      "🥘A股宽基" : 15,
+      "🧮云计算/应用" : 5,
+      "🪨工业金属" : 10
+    },
+    "selectedDataSource" : "sina",
+    "sortField" : "holdingValue",
+    "sortOrder" : "desc",
+    "thresholdConfig" : {
+      "enabledWeekdays" : [
+        2,
+        5,
+        3,
+        4,
+        6
+      ],
+      "endTime" : "2026-04-12T07:00:00Z",
+      "holdingRiskConsecutiveTradingDays" : 3,
+      "holdingRiskDailyGainThreshold" : 4,
+      "isEnabled" : false,
+      "scanInterval" : 1800,
+      "startTime" : "2026-04-12T02:30:00Z",
+      "threshold" : 2
+    }
+  },
+  "module" : "wealth",
+  "updatedAt" : "2026-09-30T09:55:09Z"
+}
