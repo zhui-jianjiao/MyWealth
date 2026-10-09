@@ -2357,40 +2357,6 @@
         "sharpeRatio" : 0.35620279450767345
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-11-19",
-        "fundCompany" : "万家基金",
-        "fundManager" : "耿嘉洲",
-        "fundScale" : "9.22亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "014162",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2021-11-19",
-        "minimumPurchaseAmount" : "10",
-        "name" : "万家人工智能混合C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "TMT|算力",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.4393083554449155
-      },
-      {
         "custodyFee" : "0.18%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2024-10-30",
@@ -2669,6 +2635,40 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
+        "establishedDate" : "2021-11-19",
+        "fundCompany" : "万家基金",
+        "fundManager" : "耿嘉洲",
+        "fundScale" : "9.22亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "014162",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2021-11-19",
+        "minimumPurchaseAmount" : "10",
+        "name" : "万家人工智能混合C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "TMT|算力",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.25581908803540937
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
         "establishedDate" : "2021-02-19",
         "fundCompany" : "华泰柏瑞基金",
         "fundManager" : "陈文凯",
@@ -2805,5 +2805,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-09T03:09:55Z"
+  "updatedAt" : "2026-10-09T03:10:17Z"
 }
