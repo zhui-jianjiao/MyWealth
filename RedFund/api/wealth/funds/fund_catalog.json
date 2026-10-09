@@ -103,35 +103,6 @@
         "sharpeRatio" : 0.4630669773528385
       },
       {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2024-07-30",
-        "fundCompany" : "招商基金",
-        "fundManager" : "刘重杰",
-        "fundScale" : "2.56亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "021633",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-04-17",
-        "minimumPurchaseAmount" : "10",
-        "name" : "招商中证香港科技ETF发起式联接(QDII)A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.12%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -1.303079744419935
-      },
-      {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2017-07-21",
@@ -2834,5 +2805,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-09T03:09:44Z"
+  "updatedAt" : "2026-10-09T03:09:48Z"
 }
