@@ -2188,40 +2188,6 @@
         "sharpeRatio" : 1.35415351692316
       },
       {
-        "custodyFee" : "0.18%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2024-10-30",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "任桀",
-        "fundScale" : "201.65亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "022365",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-10-30",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢科技智选混合发起C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "云计算|5G",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 1.1407607079341977
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2023-08-16",
@@ -2763,5 +2729,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-09T09:59:23Z"
+  "updatedAt" : "2026-10-09T10:03:29Z"
 }
