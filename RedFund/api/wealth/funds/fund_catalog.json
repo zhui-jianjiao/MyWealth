@@ -1757,48 +1757,6 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2016-09-29",
-        "fundCompany" : "中欧基金",
-        "fundManager" : "葛兰,赵磊",
-        "fundScale" : "120.35亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "003096",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-07-04",
-        "minimumPurchaseAmount" : "10",
-        "name" : "中欧医疗健康混合C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "医药生物|化学制药",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于365天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于730天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.12061162406402882
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
         "establishedDate" : "2020-12-30",
         "fundCompany" : "易方达基金",
         "fundManager" : "张胜记",
@@ -2805,5 +2763,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-09T03:10:17Z"
+  "updatedAt" : "2026-10-09T03:10:44Z"
 }
