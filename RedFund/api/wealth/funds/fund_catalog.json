@@ -1339,35 +1339,6 @@
         "sharpeRatio" : 0.3490481163278543
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-08-16",
-        "fundCompany" : "景顺长城基金",
-        "fundManager" : "汪洋,张晓南",
-        "fundScale" : "8.88亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "019118",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2023-08-16",
-        "minimumPurchaseAmount" : "10",
-        "name" : "景顺长城纳斯达克科技ETF联接(QDII)E人民币",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 1.1694698517619126
-      },
-      {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2015-06-30",
@@ -1442,6 +1413,35 @@
           }
         ],
         "sharpeRatio" : 0.9518027540986128
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-08-16",
+        "fundCompany" : "景顺长城基金",
+        "fundManager" : "汪洋,张晓南",
+        "fundScale" : "8.88亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "019118",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2023-08-16",
+        "minimumPurchaseAmount" : "10",
+        "name" : "景顺长城纳斯达克科技ETF联接(QDII)E人民币",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 1.1925087523367084
       },
       {
         "custodyFee" : "0.20%",
@@ -2763,5 +2763,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-09T03:10:44Z"
+  "updatedAt" : "2026-10-09T03:10:54Z"
 }
