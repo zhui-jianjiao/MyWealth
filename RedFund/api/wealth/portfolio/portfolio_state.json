@@ -2,35 +2,35 @@
   "api" : "portfolio_state",
   "data" : {
     "bottomFundCodes" : [
-      "004753",
       "161125",
-      "501302",
-      "110011",
-      "011103",
-      "320007",
-      "015916",
-      "003015",
-      "005827",
-      "003095",
       "022184",
-      "001938",
-      "009147",
-      "010736",
-      "005538",
       "024239",
-      "012895",
-      "023754",
       "017731",
       "012922",
-      "015897",
-      "016874",
-      "018994",
-      "019018",
       "016665",
+      "003095",
+      "018994",
+      "001938",
+      "005538",
       "018957",
+      "003015",
       "012710",
+      "011452",
       "010416",
-      "011452"
+      "501302",
+      "011103",
+      "012895",
+      "015897",
+      "004753",
+      "016874",
+      "009147",
+      "110011",
+      "019018",
+      "010736",
+      "005827",
+      "023754",
+      "015916",
+      "320007"
     ],
     "bottomFundSectionTitle" : "沉底基金，轻仓",
     "fundConversionRecords" : [
@@ -200,11 +200,6 @@
         "purchasePrice" : 3.024906588224085,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 3.2306,
-            "returnRate" : 0.2
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 3.2025,
             "returnRate" : -0.87
@@ -233,6 +228,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.1251,
             "returnRate" : 1.34
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 3.1217,
+            "returnRate" : -0.11
           }
         ],
         "shares" : 66.94091010555184
@@ -240,11 +240,6 @@
       "000217" : {
         "purchasePrice" : 3.934998146002317,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 3.1401,
-            "returnRate" : 0.2
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 3.1128,
@@ -274,6 +269,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.037,
             "returnRate" : 1.33
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 3.0336,
+            "returnRate" : -0.11
           }
         ],
         "shares" : 2.861500712888359
@@ -284,11 +284,6 @@
       "002207" : {
         "purchasePrice" : 2.7348313354047806,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 2.736,
-            "returnRate" : -0.62
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.62,
@@ -318,6 +313,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 2.616,
             "returnRate" : 4.64
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 2.507,
+            "returnRate" : -4.17
           }
         ],
         "shares" : 3236.0313725490196
@@ -325,11 +325,6 @@
       "003015" : {
         "purchasePrice" : 2.1513141992891955,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 2.1202,
-            "returnRate" : -0.57
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.0862,
@@ -359,6 +354,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 2.0355,
             "returnRate" : 0.11
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 2.0208,
+            "returnRate" : -0.72
           }
         ],
         "shares" : 18639.76912960888
@@ -367,11 +367,6 @@
         "comment" : "反弹后转换到大盘",
         "purchasePrice" : 0.9819040271837729,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.8068,
-            "returnRate" : -2.41
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.7966,
@@ -401,6 +396,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.803,
             "returnRate" : 4.78
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.8104,
+            "returnRate" : 0.92
           }
         ],
         "shares" : 5636.996943453897
@@ -409,11 +409,6 @@
         "comment" : "锂电设备/新能源制造链，转大盘",
         "purchasePrice" : 0.9807714142796016,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.8097,
-            "returnRate" : 2.42
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.7995,
@@ -443,6 +438,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.7802,
             "returnRate" : -1.87
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.7653,
+            "returnRate" : -1.91
           }
         ],
         "shares" : 10501.835443037975
@@ -450,11 +450,6 @@
       "005827" : {
         "purchasePrice" : 1.8476460147071254,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.4922,
-            "returnRate" : -0.42
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.4753,
@@ -484,6 +479,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.4359,
             "returnRate" : 0.18
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.4271,
+            "returnRate" : -0.61
           }
         ],
         "shares" : 568.2906745350991
@@ -491,11 +491,6 @@
       "007466" : {
         "purchasePrice" : 1.614440624831877,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.62,
-            "returnRate" : -0.43
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.623,
@@ -525,6 +520,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.6548,
             "returnRate" : -0.26
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.6842,
+            "returnRate" : 1.78
           }
         ],
         "shares" : 1925.1188010235164
@@ -533,11 +533,6 @@
         "comment" : "光通信+PCB",
         "purchasePrice" : 4.352160348594377,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 4.5932,
-            "returnRate" : -0.65
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 4.4539,
@@ -567,6 +562,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.837,
             "returnRate" : -1.72
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 3.6512,
+            "returnRate" : -4.84
           }
         ],
         "shares" : 4374.560787069572
@@ -617,11 +617,6 @@
         "purchasePrice" : 2.0686607446771843,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.5705,
-            "returnRate" : 0.08
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.5333,
             "returnRate" : -2.37
@@ -650,6 +645,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.4129,
             "returnRate" : -0.77
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.382,
+            "returnRate" : -2.19
           }
         ],
         "shares" : 4146.3831235113985
@@ -658,11 +658,6 @@
         "comment" : "已转换1/4",
         "purchasePrice" : 2.568819394244565,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 2.1499,
-            "returnRate" : -0.49
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.0775,
@@ -692,6 +687,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.7867,
             "returnRate" : -1.67
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.6993,
+            "returnRate" : -4.89
           }
         ],
         "shares" : 748.4177378555572
@@ -700,11 +700,6 @@
         "comment" : "慢慢转，手续费太贵太长了",
         "purchasePrice" : 1.336614029295832,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.2757,
-            "returnRate" : -0.51
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.2476,
@@ -734,6 +729,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.1768,
             "returnRate" : -0.92
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.148,
+            "returnRate" : -2.45
           }
         ],
         "shares" : 7481.591380024866
@@ -742,11 +742,6 @@
         "comment" : "再观察下",
         "purchasePrice" : 1.3394358062116634,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.1473,
-            "returnRate" : -0.95
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.1286,
@@ -776,6 +771,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.0805,
             "returnRate" : 0.68
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.0605,
+            "returnRate" : -1.85
           }
         ],
         "shares" : 7989.759531864314
@@ -784,11 +784,6 @@
         "comment" : "反弹卖出，然后转大盘",
         "purchasePrice" : 0.867346341582822,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.6936,
-            "returnRate" : -0.2
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.6754,
@@ -818,6 +813,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.6517,
             "returnRate" : -0.02
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.6481,
+            "returnRate" : -0.55
           }
         ],
         "shares" : 10797.658963902733
@@ -826,11 +826,6 @@
         "comment" : "两个华泰合并到此",
         "purchasePrice" : 3.501983526395482,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 3.0845,
-            "returnRate" : -0.33
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.9813,
@@ -860,6 +855,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 2.5648,
             "returnRate" : -1.48
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 2.4383,
+            "returnRate" : -4.93
           }
         ],
         "shares" : 777.0110794326753
@@ -867,11 +867,6 @@
       "011609" : {
         "purchasePrice" : 1.3494,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.2788,
-            "returnRate" : -0.23
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.2507,
@@ -901,6 +896,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.1308,
             "returnRate" : 0.08
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.1085,
+            "returnRate" : -1.97
           }
         ],
         "shares" : 47598.31
@@ -909,11 +909,6 @@
         "comment" : "小仓位保留",
         "purchasePrice" : 0.6166024100616324,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.5289,
-            "returnRate" : -0.08
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.5181,
@@ -943,6 +938,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.5282,
             "returnRate" : 0.23
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.531,
+            "returnRate" : 0.53
           }
         ],
         "shares" : 19929.373936069605
@@ -951,11 +951,6 @@
         "comment" : "周期资源锂矿，观察一下",
         "purchasePrice" : 0.7984225524119684,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.5975,
-            "returnRate" : -2.23
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.5811,
@@ -985,6 +980,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.5689,
             "returnRate" : 0.04
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.543,
+            "returnRate" : -4.55
           }
         ],
         "shares" : 7777.836411609498
@@ -993,11 +993,6 @@
         "comment" : "AI 全产业链宽指数",
         "purchasePrice" : 2.0792680484410746,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 2.0585,
-            "returnRate" : -0.73
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.0197,
@@ -1027,6 +1022,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.854,
             "returnRate" : 0.15
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.8011,
+            "returnRate" : -2.85
           }
         ],
         "shares" : 25619.3616017611
@@ -1034,11 +1034,6 @@
       "012895" : {
         "purchasePrice" : 1.4189680149100266,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.1748,
-            "returnRate" : -0.54
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.1453,
@@ -1068,6 +1063,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.0385,
             "returnRate" : -0.27
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.0112,
+            "returnRate" : -2.63
           }
         ],
         "shares" : 14055.855939264882
@@ -1160,11 +1160,6 @@
         "purchasePrice" : 1.577280681922952,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.5895,
-            "returnRate" : -0.28
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.555,
             "returnRate" : -2.17
@@ -1193,6 +1188,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.482,
             "returnRate" : 0.28
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.4497,
+            "returnRate" : -2.18
           }
         ],
         "shares" : 53423.09771858104
@@ -1200,11 +1200,6 @@
       "014345" : {
         "purchasePrice" : 1.4829006440776917,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.56,
-            "returnRate" : -0.28
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.5262,
@@ -1234,6 +1229,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.4543,
             "returnRate" : 0.28
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.4225,
+            "returnRate" : -2.19
           }
         ],
         "shares" : 10288.477559795754
@@ -1242,11 +1242,6 @@
         "comment" : "软件云、互联网、云计算应用层，硬件（光模块/半导体）仓位很低",
         "purchasePrice" : 1.7873659170562546,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.748,
-            "returnRate" : -1.8
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.7231,
@@ -1276,6 +1271,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.6254,
             "returnRate" : 1.15
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.5971,
+            "returnRate" : -1.74
           }
         ],
         "shares" : 6879.279661016949
@@ -1283,11 +1283,6 @@
       "015790" : {
         "purchasePrice" : 1.2926901320516808,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.0263,
-            "returnRate" : -1.18
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.0186,
@@ -1317,6 +1312,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.9439,
             "returnRate" : -2.77
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.9126,
+            "returnRate" : -3.32
           }
         ],
         "shares" : 40679.27703334372
@@ -1324,11 +1324,6 @@
       "015897" : {
         "purchasePrice" : 0.9199237213023772,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.846,
-            "returnRate" : 0.3
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.8278,
@@ -1358,6 +1353,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.8247,
             "returnRate" : 0.88
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.7954,
+            "returnRate" : -3.55
           }
         ],
         "shares" : 8968.12399654193
@@ -1533,11 +1533,6 @@
         "purchasePrice" : 2.156359426558068,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.7276,
-            "returnRate" : -0.12
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.6756,
             "returnRate" : -3.01
@@ -1566,6 +1561,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.4708,
             "returnRate" : -1.3
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.4021,
+            "returnRate" : -4.67
           }
         ],
         "shares" : 973.8682587586931
@@ -1573,11 +1573,6 @@
       "017193" : {
         "purchasePrice" : 1.7457711521574837,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.6977,
-            "returnRate" : -0.82
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.6483,
@@ -1607,6 +1602,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.634,
             "returnRate" : 1.83
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.5907,
+            "returnRate" : -2.65
           }
         ],
         "shares" : 48856.437967022786
@@ -1740,11 +1740,6 @@
         "purchasePrice" : 2.0089564612364454,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.8771,
-            "returnRate" : -0.02
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.8571,
             "returnRate" : -1.07
@@ -1773,6 +1768,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.7567,
             "returnRate" : 1.05
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.6902,
+            "returnRate" : -3.79
           }
         ],
         "shares" : 12144.922237380628
@@ -1865,11 +1865,6 @@
         "purchasePrice" : 5.273051476167399,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 4.7178,
-            "returnRate" : 0.12
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 4.5719,
             "returnRate" : -3.09
@@ -1898,6 +1893,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.9413,
             "returnRate" : -1.12
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 3.8005,
+            "returnRate" : -3.57
           }
         ],
         "shares" : 875.5708190726243
@@ -1906,11 +1906,6 @@
         "comment" : "AI算力硬件+光模块+高速通信硬件 PCB",
         "purchasePrice" : 4.272856178466072,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 3.7061,
-            "returnRate" : 0.02
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 3.6192,
@@ -1940,6 +1935,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.215,
             "returnRate" : -1.71
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 3.1134,
+            "returnRate" : -3.16
           }
         ],
         "shares" : 2843.531233565126
@@ -1947,11 +1947,6 @@
       "019018" : {
         "purchasePrice" : 10.162601195666289,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 8.085,
-            "returnRate" : 0.02
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 7.836,
@@ -1981,6 +1976,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 6.939,
             "returnRate" : -1.62
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 6.698,
+            "returnRate" : -3.47
           }
         ],
         "shares" : 583.839696723531
@@ -2071,11 +2071,6 @@
         "purchasePrice" : 1.4105056356562984,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.3794,
-            "returnRate" : -0.72
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.3495,
             "returnRate" : -2.17
@@ -2104,6 +2099,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.3108,
             "returnRate" : -0.37
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.3047,
+            "returnRate" : -0.47
           }
         ],
         "shares" : 2871.296574519231
@@ -2197,11 +2197,6 @@
         "purchasePrice" : 0.9109600775434945,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 0.6202,
-            "returnRate" : 0.05
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 0.6008,
             "returnRate" : -3.13
@@ -2230,6 +2225,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 0.5447,
             "returnRate" : -1.75
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 0.5306,
+            "returnRate" : -2.59
           }
         ],
         "shares" : 24615.941524538808
@@ -2323,11 +2323,6 @@
         "purchasePrice" : 1.7150443484956883,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.683,
-            "returnRate" : 0.13
-          },
-          {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.6181,
             "returnRate" : -3.86
@@ -2356,6 +2351,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.3942,
             "returnRate" : -1.53
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.3385,
+            "returnRate" : -4
           }
         ],
         "shares" : 12605.207567350759
@@ -2363,11 +2363,6 @@
       "025833" : {
         "purchasePrice" : 1.26821385795989,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.1638,
-            "returnRate" : -1.07
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.1427,
@@ -2397,6 +2392,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.0805,
             "returnRate" : -0.55
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.0674,
+            "returnRate" : -1.21
           }
         ],
         "shares" : 76437.77064220182
@@ -2405,11 +2405,6 @@
         "comment" : "两个消费基金持仓基本一致，后面看消息情况转换或卖出",
         "purchasePrice" : 5.155015268693912,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 4.0426,
-            "returnRate" : -0.8
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 4.0112,
@@ -2439,6 +2434,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 3.9987,
             "returnRate" : 1.06
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 4.0145,
+            "returnRate" : 0.4
           }
         ],
         "shares" : 426.7688620362511
@@ -2447,11 +2447,6 @@
         "comment" : "免手续费周期太长，逐渐卖出，芯片设计（存储、模拟、算力芯片）为核心",
         "purchasePrice" : 2.366869975906771,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 2.508,
-            "returnRate" : -0.52
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 2.471,
@@ -2481,6 +2476,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 2.369,
             "returnRate" : 1.54
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 2.367,
+            "returnRate" : -0.08
           }
         ],
         "shares" : 3316.6207184628233
@@ -2488,11 +2488,6 @@
       "501302" : {
         "purchasePrice" : 1.1895226236252618,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-09-22T16:00:00Z",
-            "netValue" : 1.123,
-            "returnRate" : -0.96
-          },
           {
             "date" : "2026-09-23T16:00:00Z",
             "netValue" : 1.1204,
@@ -2522,6 +2517,11 @@
             "date" : "2026-10-08T16:00:00Z",
             "netValue" : 1.0941,
             "returnRate" : 1.74
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.0961,
+            "returnRate" : 0.18
           }
         ],
         "shares" : 3446.7608421810332
@@ -2533,5 +2533,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-12T15:54:12Z"
+  "updatedAt" : "2026-10-13T01:18:30Z"
 }
