@@ -532,7 +532,41 @@
       "007467" : {
         "purchasePrice" : 1.6424,
         "recentHistoryNetValues" : [
-
+          {
+            "date" : "2026-09-29T16:00:00Z",
+            "netValue" : 1.6043,
+            "returnRate" : 1.4
+          },
+          {
+            "date" : "2026-10-07T16:00:00Z",
+            "netValue" : 1.6215,
+            "returnRate" : 1.07
+          },
+          {
+            "date" : "2026-10-08T16:00:00Z",
+            "netValue" : 1.6173,
+            "returnRate" : -0.26
+          },
+          {
+            "date" : "2026-10-11T16:00:00Z",
+            "netValue" : 1.646,
+            "returnRate" : 1.77
+          },
+          {
+            "date" : "2026-10-12T16:00:00Z",
+            "netValue" : 1.6376,
+            "returnRate" : -0.51
+          },
+          {
+            "date" : "2026-10-13T16:00:00Z",
+            "netValue" : 1.6465,
+            "returnRate" : 0.54
+          },
+          {
+            "date" : "2026-10-14T16:00:00Z",
+            "netValue" : 1.6269,
+            "returnRate" : -1.19
+          }
         ],
         "shares" : 3348.67
       },
@@ -2538,5 +2572,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-16T05:26:27Z"
+  "updatedAt" : "2026-10-16T05:26:36Z"
 }
