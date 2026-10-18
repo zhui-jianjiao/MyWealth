@@ -12,7 +12,13 @@
         "passwordSalt" : "6DD0B6C3-2E5D-471C-B8E1-AE3F89AFDE85",
         "phoneOrEmail" : "zh80231221@163.com",
         "relationships" : [
-
+          {
+            "createdAt" : "2026-10-18T16:55:38Z",
+            "id" : "C36ED602-3973-4104-A080-67D7945027A8",
+            "kind" : "couple",
+            "peerAccountID" : "RF-AFC0503B",
+            "peerNickname" : "妲妲"
+          }
         ]
       },
       {
@@ -29,8 +35,8 @@
         ]
       }
     ],
-    "updatedAt" : "2026-10-18T16:53:59Z"
+    "updatedAt" : "2026-10-18T16:55:38Z"
   },
   "module" : "account",
-  "updatedAt" : "2026-10-18T16:53:59Z"
+  "updatedAt" : "2026-10-18T16:55:38Z"
 }
