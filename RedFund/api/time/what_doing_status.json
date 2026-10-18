@@ -1,0 +1,22 @@
+{
+  "api" : "what_doing_status",
+  "data" : {
+    "recordsByAccountID" : {
+      "RF-8AA44331" : {
+        "accountID" : "RF-8AA44331",
+        "accountName" : "超级加倍",
+        "batteryLevel" : 65,
+        "batteryState" : "未充电",
+        "createdAt" : "2026-10-18T17:18:52Z",
+        "id" : "A25FA185-63A8-4DC7-A165-128E225BACDF",
+        "latitude" : 31.138371778501124,
+        "locationAccuracy" : 18.386297901515572,
+        "locationName" : "上海市 · 闵行区 · 江南星城叠翠江南(东门)",
+        "longitude" : 121.38187742100735
+      }
+    },
+    "updatedAt" : "2026-10-18T17:18:52Z"
+  },
+  "module" : "time",
+  "updatedAt" : "2026-10-18T17:18:52Z"
+}
