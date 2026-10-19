@@ -39,10 +39,10 @@
     "sortOrder" : "asc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        4,
-        2,
-        6,
         5,
+        4,
+        6,
+        2,
         3
       ],
       "endTime" : "2026-04-12T07:00:00Z",
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-19T16:21:39Z"
+  "updatedAt" : "2026-10-19T16:22:22Z"
 }
