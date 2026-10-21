@@ -33,202 +33,6 @@
         "sharpeRatio" : 0.8814141524635571
       },
       {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2025-09-23",
-        "fundCompany" : "平安基金",
-        "fundManager" : "马浩然",
-        "fundScale" : "44.63亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "025491",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2026-07-24",
-        "minimumPurchaseAmount" : "10",
-        "name" : "平安中证卫星产业指数C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "商业航天",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.21458169756733986
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-07-15",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "张璐",
-        "fundScale" : "109.36亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015790",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2022-07-15",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢高端装备智选混合发起C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "商业航天|卫星互联网",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.26389977451591945
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-11-22",
-        "fundCompany" : "广发基金",
-        "fundManager" : "唐晓斌",
-        "fundScale" : "128.30亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "016874",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2022-11-22",
-        "minimumPurchaseAmount" : "10",
-        "name" : "广发远见智选混合C",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "CPO|光模块",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.7871938760408455
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-11-22",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "单林",
-        "fundScale" : "44.68亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-07-31",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢医药创新智选混合发起C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "创新药|精准医疗",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.5538919399960995
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-03-01",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "张湛",
-        "fundScale" : "77.00亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012734",
-        "managementFee" : "0.15%",
-        "managerStartDate" : "2022-03-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达中证人工智能主题ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "人工智能|TMT",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.06595369824495052
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-07-06",
-        "fundCompany" : "诺安基金",
-        "fundManager" : "刘慧影",
-        "fundScale" : "3.70亿",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "012847",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-09-29",
-        "minimumPurchaseAmount" : "10",
-        "name" : "诺安积极回报混合C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "软件开发|Web3.0",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.6232969805515126
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2025-09-12",
@@ -305,6 +109,70 @@
         "sharpeRatio" : 1.7879008393667866
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2025-09-23",
+        "fundCompany" : "平安基金",
+        "fundManager" : "马浩然",
+        "fundScale" : "44.63亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "025491",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2026-07-24",
+        "minimumPurchaseAmount" : "10",
+        "name" : "平安中证卫星产业指数C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "商业航天",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.21458169756733986
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-11-22",
+        "fundCompany" : "广发基金",
+        "fundManager" : "唐晓斌",
+        "fundScale" : "128.30亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "016874",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2022-11-22",
+        "minimumPurchaseAmount" : "10",
+        "name" : "广发远见智选混合C",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "CPO|光模块",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.7871938760408455
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2016-09-20",
@@ -349,6 +217,40 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
+        "establishedDate" : "2023-08-10",
+        "fundCompany" : "中航基金",
+        "fundManager" : "韩浩,王森",
+        "fundScale" : "165.97亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018957",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-04-20",
+        "minimumPurchaseAmount" : "10",
+        "name" : "中航机遇领航混合发起C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "通信设备|通信",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.4915196139831738
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
         "establishedDate" : "2019-02-28",
         "fundCompany" : "财通基金",
         "fundManager" : "唐家伟",
@@ -383,20 +285,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2023-08-10",
-        "fundCompany" : "中航基金",
-        "fundManager" : "韩浩,王森",
-        "fundScale" : "165.97亿",
+        "establishedDate" : "2022-07-15",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "张璐",
+        "fundScale" : "109.36亿",
         "fundType" : "混合型-偏股",
-        "fundcode" : "018957",
+        "fundcode" : "015790",
         "managementFee" : "1.20%",
-        "managerStartDate" : "2026-04-20",
+        "managerStartDate" : "2022-07-15",
         "minimumPurchaseAmount" : "10",
-        "name" : "中航机遇领航混合发起C",
+        "name" : "永赢高端装备智选混合发起C",
         "purchaseStatus" : "限大额",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "通信设备|通信",
+        "sectorName" : "商业航天|卫星互联网",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -412,7 +314,75 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.4915196139831738
+        "sharpeRatio" : 0.26389977451591945
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-02-19",
+        "fundCompany" : "华泰柏瑞基金",
+        "fundManager" : "陈文凯",
+        "fundScale" : "226.75亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "011452",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-07-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华泰柏瑞质量成长C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "通信设备|CPO",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.8474452869505824
+      },
+      {
+        "custodyFee" : "0.05%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-11-22",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "单林",
+        "fundScale" : "44.68亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015916",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-07-31",
+        "minimumPurchaseAmount" : "10",
+        "name" : "永赢医药创新智选混合发起C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "创新药|精准医疗",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.5538919399960995
       },
       {
         "custodyFee" : "0.20%",
@@ -480,6 +450,70 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
+        "establishedDate" : "2021-11-19",
+        "fundCompany" : "万家基金",
+        "fundManager" : "耿嘉洲",
+        "fundScale" : "9.22亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "014162",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2021-11-19",
+        "minimumPurchaseAmount" : "10",
+        "name" : "万家人工智能混合C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "TMT|算力",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.25581908803540937
+      },
+      {
+        "custodyFee" : "0.05%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-03-01",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "张湛",
+        "fundScale" : "77.00亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012734",
+        "managementFee" : "0.15%",
+        "managerStartDate" : "2022-03-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达中证人工智能主题ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "人工智能|TMT",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.06595369824495052
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
         "establishedDate" : "2025-03-26",
         "fundCompany" : "永赢基金",
         "fundManager" : "王文龙,杜沛",
@@ -512,22 +546,22 @@
         "sharpeRatio" : -1.3752438635084567
       },
       {
-        "custodyFee" : "0.20%",
+        "custodyFee" : "0.15%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2021-02-19",
-        "fundCompany" : "华泰柏瑞基金",
-        "fundManager" : "陈文凯",
-        "fundScale" : "226.75亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "011452",
+        "establishedDate" : "2021-07-06",
+        "fundCompany" : "诺安基金",
+        "fundManager" : "刘慧影",
+        "fundScale" : "3.70亿",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "012847",
         "managementFee" : "1.20%",
-        "managerStartDate" : "2024-07-11",
+        "managerStartDate" : "2023-09-29",
         "minimumPurchaseAmount" : "10",
-        "name" : "华泰柏瑞质量成长C",
-        "purchaseStatus" : "限大额",
+        "name" : "诺安积极回报混合C",
+        "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "通信设备|CPO",
+        "sectorName" : "软件开发|Web3.0",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -543,7 +577,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.8474452869505824
+        "sharpeRatio" : -0.6232969805515126
       },
       {
         "custodyFee" : "0.20%",
@@ -578,40 +612,6 @@
           }
         ],
         "sharpeRatio" : 0.8241428767153688
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2015-12-02",
-        "fundCompany" : "前海开源基金",
-        "fundManager" : "吴国清",
-        "fundScale" : "50.59亿",
-        "fundType" : "混合型-灵活",
-        "fundcode" : "002207",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2021-06-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "前海开源金银珠宝混合C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "有色金属|贵金属",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.27889872710837693
       },
       {
         "custodyFee" : "0.20%",
@@ -651,236 +651,6 @@
         "sharpeRatio" : 0.6968389376630792
       },
       {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2018-01-02",
-        "fundCompany" : "广发基金",
-        "fundManager" : "罗国庆",
-        "fundScale" : "7.66亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "004753",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2018-01-02",
-        "minimumPurchaseAmount" : "10",
-        "name" : "广发中证传媒ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "传媒",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "大于等于1天，小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.7872595425394512
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-03-01",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "林伟斌,成曦",
-        "fundScale" : "140.55亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011609",
-        "managementFee" : "0.15%",
-        "managerStartDate" : "2021-03-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达上证科创50联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.017213261094370835
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-01-11",
-        "fundCompany" : "鹏华基金",
-        "fundManager" : "苏俊杰",
-        "fundScale" : "9.64亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014344",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2022-01-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "鹏华中证500指数增强A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.12%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.06834461174231339
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-11-19",
-        "fundCompany" : "万家基金",
-        "fundManager" : "耿嘉洲",
-        "fundScale" : "9.22亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "014162",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2021-11-19",
-        "minimumPurchaseAmount" : "10",
-        "name" : "万家人工智能混合C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "TMT|算力",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.25581908803540937
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-01-11",
-        "fundCompany" : "鹏华基金",
-        "fundManager" : "苏俊杰",
-        "fundScale" : "13.24亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014345",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2022-01-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "鹏华中证500指数增强C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.08563715925592769
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-09-12",
-        "fundCompany" : "中欧基金",
-        "fundManager" : "冯炉丹",
-        "fundScale" : "63.16亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018994",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-09-12",
-        "minimumPurchaseAmount" : "10",
-        "name" : "中欧数字经济混合发起C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "TMT|5G",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.16651438728626827
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-10-18",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "郑希",
-        "fundScale" : "81.19亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "019018",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-10-18",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达信息产业混合C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "新兴产业|高端装备",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于等于29天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.5862699718318057
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2021-11-22",
@@ -913,74 +683,6 @@
           }
         ],
         "sharpeRatio" : 0.7979214591884777
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2015-06-30",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "杨超",
-        "fundScale" : "22.31亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "001556",
-        "managementFee" : "0.60%",
-        "managerStartDate" : "2019-08-24",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证500指数增强A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于180天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于180天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.5222204790422391
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-12-28",
-        "fundCompany" : "汇添富基金",
-        "fundManager" : "何丽竹",
-        "fundScale" : "4.76亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014544",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2026-07-15",
-        "minimumPurchaseAmount" : "10",
-        "name" : "汇添富中证沪港深云计算产业ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "计算机",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.21070379983871834
       },
       {
         "custodyFee" : "0.15%",
@@ -1042,6 +744,212 @@
         "sharpeRatio" : -0.08277848237170973
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2015-06-30",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "杨超",
+        "fundScale" : "22.31亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "001556",
+        "managementFee" : "0.60%",
+        "managerStartDate" : "2019-08-24",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证500指数增强A",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于180天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于180天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.5222204790422391
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-10-18",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "郑希",
+        "fundScale" : "81.19亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "019018",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-10-18",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达信息产业混合C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "新兴产业|高端装备",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于等于29天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.5862699718318057
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-09-12",
+        "fundCompany" : "中欧基金",
+        "fundManager" : "冯炉丹",
+        "fundScale" : "63.16亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018994",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-09-12",
+        "minimumPurchaseAmount" : "10",
+        "name" : "中欧数字经济混合发起C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "TMT|5G",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.16651438728626827
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-06-28",
+        "fundCompany" : "大成基金",
+        "fundManager" : "冉凌浩",
+        "fundScale" : "11.10亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "008971",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2023-06-28",
+        "minimumPurchaseAmount" : "10",
+        "name" : "大成纳斯达克100ETF联接(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.5627794086910429
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-12-28",
+        "fundCompany" : "德邦基金",
+        "fundManager" : "江杨磊,袁之渿",
+        "fundScale" : "41.04亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "014320",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-05-29",
+        "minimumPurchaseAmount" : "10",
+        "name" : "德邦半导体产业混合发起式C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "半导体|电子",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 1.1064382843734277
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2010-05-25",
+        "fundCompany" : "工银瑞信基金",
+        "fundManager" : "林念,吕焱",
+        "fundScale" : "13.96亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "486002",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-07-10",
+        "minimumPurchaseAmount" : "10",
+        "name" : "工银全球精选股票(QDII)",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.16%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于365天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天，小于730天",
+            "rate" : "0.30%"
+          },
+          {
+            "holdingPeriod" : "大于等于730天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.268310831489281
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2015-11-03",
@@ -1084,6 +992,129 @@
         "sharpeRatio" : 0.6356096189735698
       },
       {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2018-06-07",
+        "fundCompany" : "博时基金",
+        "fundManager" : "万琼",
+        "fundScale" : "12.86亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "006075",
+        "managementFee" : "0.60%",
+        "managerStartDate" : "2021-09-23",
+        "minimumPurchaseAmount" : "10",
+        "name" : "博时标普500ETF联接C",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.7391357291982941
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-12-02",
+        "fundCompany" : "汇添富基金",
+        "fundManager" : "马磊",
+        "fundScale" : "18.84亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "014194",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-07-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "汇添富中证芯片产业指数增强发起式C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "电子|半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.4734737647685979
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2015-12-02",
+        "fundCompany" : "前海开源基金",
+        "fundManager" : "吴国清",
+        "fundScale" : "50.59亿",
+        "fundType" : "混合型-灵活",
+        "fundcode" : "002207",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2021-06-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "前海开源金银珠宝混合C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "有色金属|贵金属",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.27889872710837693
+      },
+      {
+        "custodyFee" : "0.05%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-03-01",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "林伟斌,成曦",
+        "fundScale" : "140.55亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "011609",
+        "managementFee" : "0.15%",
+        "managerStartDate" : "2021-03-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达上证科创50联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.017213261094370835
+      },
+      {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2021-08-03",
@@ -1114,51 +1145,22 @@
         "sharpeRatio" : -0.2931466703255631
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-06-28",
-        "fundCompany" : "大成基金",
-        "fundManager" : "冉凌浩",
-        "fundScale" : "11.10亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "008971",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2023-06-28",
-        "minimumPurchaseAmount" : "10",
-        "name" : "大成纳斯达克100ETF联接(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.5627794086910429
-      },
-      {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2023-05-30",
+        "establishedDate" : "2021-01-28",
         "fundCompany" : "天弘基金",
-        "fundManager" : "贺雨轩",
-        "fundScale" : "55.26亿",
+        "fundManager" : "祁世超",
+        "fundScale" : "50.21亿",
         "fundType" : "指数型-股票",
-        "fundcode" : "017193",
+        "fundcode" : "011103",
         "managementFee" : "0.50%",
-        "managerStartDate" : "2023-05-30",
+        "managerStartDate" : "2025-03-07",
         "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "name" : "天弘中证光伏产业指数C",
         "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "有色金属|工业金属",
+        "sectorName" : "光伏设备|电力设备",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1170,54 +1172,25 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.2655592545830979
+        "sharpeRatio" : -0.7206235660060645
       },
       {
-        "custodyFee" : "0.05%",
+        "custodyFee" : "0.15%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2025-10-29",
-        "fundCompany" : "国海富兰克林基金",
-        "fundManager" : "张志强",
-        "fundScale" : "1.26亿",
+        "establishedDate" : "2022-01-11",
+        "fundCompany" : "鹏华基金",
+        "fundManager" : "苏俊杰",
+        "fundScale" : "9.64亿",
         "fundType" : "指数型-股票",
-        "fundcode" : "024821",
-        "managementFee" : "0.40%",
-        "managerStartDate" : "2025-10-29",
+        "fundcode" : "014344",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2022-01-11",
         "minimumPurchaseAmount" : "10",
-        "name" : "国富国证港股通科技指数C",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -1.6970262763673218
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-04-10",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "王文龙",
-        "fundScale" : "81.82亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018123",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-04-10",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢数字经济智选混合发起C",
+        "name" : "鹏华中证500指数增强A",
         "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "算力|半导体",
+        "salesFee" : "0.12%",
+        "sectorName" : "制造业",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1233,7 +1206,100 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.006378673806675839
+        "sharpeRatio" : -0.06834461174231339
+      },
+      {
+        "custodyFee" : "0.15%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-01-11",
+        "fundCompany" : "鹏华基金",
+        "fundManager" : "苏俊杰",
+        "fundScale" : "13.24亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "014345",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2022-01-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "鹏华中证500指数增强C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.08563715925592769
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-12-28",
+        "fundCompany" : "汇添富基金",
+        "fundManager" : "何丽竹",
+        "fundScale" : "4.76亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "014544",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2026-07-15",
+        "minimumPurchaseAmount" : "10",
+        "name" : "汇添富中证沪港深云计算产业ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "计算机",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.21070379983871834
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2024-09-18",
+        "fundCompany" : "富国基金",
+        "fundManager" : "赵年珅",
+        "fundScale" : "116.40亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "022184",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-11-13",
+        "minimumPurchaseAmount" : "10",
+        "name" : "富国全球科技互联网股票(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.6283016226672665
       },
       {
         "custodyFee" : "0.20%",
@@ -1274,297 +1340,6 @@
         "sharpeRatio" : 0.6549244532114888
       },
       {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-01-28",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "祁世超",
-        "fundScale" : "50.21亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "011103",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-03-07",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证光伏产业指数C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "光伏设备|电力设备",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.7206235660060645
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2010-05-25",
-        "fundCompany" : "工银瑞信基金",
-        "fundManager" : "林念,吕焱",
-        "fundScale" : "13.96亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "486002",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-07-10",
-        "minimumPurchaseAmount" : "10",
-        "name" : "工银全球精选股票(QDII)",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.16%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于365天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于730天",
-            "rate" : "0.30%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.268310831489281
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2018-06-07",
-        "fundCompany" : "博时基金",
-        "fundManager" : "万琼",
-        "fundScale" : "12.86亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "006075",
-        "managementFee" : "0.60%",
-        "managerStartDate" : "2021-09-23",
-        "minimumPurchaseAmount" : "10",
-        "name" : "博时标普500ETF联接C",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.7391357291982941
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2025-11-25",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "刘笑明,张戈",
-        "fundScale" : "49.91亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "025833",
-        "managementFee" : "0.15%",
-        "managerStartDate" : "2025-12-12",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘电网设备特高压指数C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "电力设备|电网设备",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.24099078753244368
-      },
-      {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-09-22",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "张海啸",
-        "fundScale" : "52.13亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015968",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-06-17",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢半导体产业智选混合发起C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "光刻胶|半导体",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.7837283596158844
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-07-16",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "张戈",
-        "fundScale" : "38.86亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012895",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-10-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证科创创业50ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.06971683824685362
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2024-09-18",
-        "fundCompany" : "富国基金",
-        "fundManager" : "赵年珅",
-        "fundScale" : "116.40亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "022184",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-11-13",
-        "minimumPurchaseAmount" : "10",
-        "name" : "富国全球科技互联网股票(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.6283016226672665
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-12-02",
-        "fundCompany" : "汇添富基金",
-        "fundManager" : "马磊",
-        "fundScale" : "18.84亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "014194",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-07-11",
-        "minimumPurchaseAmount" : "10",
-        "name" : "汇添富中证芯片产业指数增强发起式C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "电子|半导体",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.4734737647685979
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2017-07-21",
-        "fundCompany" : "南方基金",
-        "fundManager" : "罗文杰",
-        "fundScale" : "1.78亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "501302",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2017-07-21",
-        "minimumPurchaseAmount" : "10",
-        "name" : "南方恒指ETF联接(LOF)A",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.12%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于180天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于180天，小于365天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.9242773158671616
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2013-06-14",
@@ -1602,6 +1377,70 @@
         "sharpeRatio" : 0.6642462568606339
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-05-30",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "贺雨轩",
+        "fundScale" : "55.26亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "017193",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2023-05-30",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证工业有色金属主题ETF发起联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "有色金属|工业金属",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.2655592545830979
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-04-10",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "王文龙",
+        "fundScale" : "81.82亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018123",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-04-10",
+        "minimumPurchaseAmount" : "10",
+        "name" : "永赢数字经济智选混合发起C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "算力|半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.006378673806675839
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2023-03-02",
@@ -1632,7 +1471,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.012857171429794872
+        "sharpeRatio" : -0.019845818675064467
       },
       {
         "custodyFee" : "0.20%",
@@ -1666,106 +1505,6 @@
           }
         ],
         "sharpeRatio" : 1.339072413626927
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2013-08-22",
-        "fundCompany" : "华安基金",
-        "fundManager" : "许之彦",
-        "fundScale" : "97.22亿",
-        "fundType" : "指数型-其他",
-        "fundcode" : "000216",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2018-09-28",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华安黄金ETF联接A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.06%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于365天",
-            "rate" : "0.10%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.18302762806219836
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2013-08-22",
-        "fundCompany" : "华安基金",
-        "fundManager" : "许之彦",
-        "fundScale" : "274.38亿",
-        "fundType" : "指数型-其他",
-        "fundcode" : "000217",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2018-09-28",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华安黄金ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.10%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.17073220452725227
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-12-28",
-        "fundCompany" : "德邦基金",
-        "fundManager" : "江杨磊,袁之渿",
-        "fundScale" : "41.04亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "014320",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-05-29",
-        "minimumPurchaseAmount" : "10",
-        "name" : "德邦半导体产业混合发起式C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "半导体|电子",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 1.1064382843734277
       },
       {
         "custodyFee" : "0.20%",
@@ -1838,6 +1577,40 @@
         "sharpeRatio" : 1.2992750618403752
       },
       {
+        "custodyFee" : "0.05%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-09-22",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "张海啸",
+        "fundScale" : "52.13亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "015968",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-06-17",
+        "minimumPurchaseAmount" : "10",
+        "name" : "永赢半导体产业智选混合发起C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "光刻胶|半导体",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.7837283596158844
+      },
+      {
         "custodyFee" : "0.15%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2023-09-01",
@@ -1867,22 +1640,22 @@
         "sharpeRatio" : 0.6761173806786474
       },
       {
-        "custodyFee" : "0.10%",
+        "custodyFee" : "0.05%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2022-06-17",
+        "establishedDate" : "2025-11-25",
         "fundCompany" : "天弘基金",
-        "fundManager" : "祁世超",
-        "fundScale" : "16.29亿",
+        "fundManager" : "刘笑明,张戈",
+        "fundScale" : "49.91亿",
         "fundType" : "指数型-股票",
-        "fundcode" : "015897",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2025-10-01",
+        "fundcode" : "025833",
+        "managementFee" : "0.15%",
+        "managerStartDate" : "2025-12-12",
         "minimumPurchaseAmount" : "10",
-        "name" : "天弘中证细分化工产业主题ETF联接C",
+        "name" : "天弘电网设备特高压指数C",
         "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "基础化工|材料",
+        "sectorName" : "电力设备|电网设备",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1894,7 +1667,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.0726188144479523
+        "sharpeRatio" : 0.24099078753244368
       },
       {
         "custodyFee" : "0.20%",
@@ -1928,40 +1701,6 @@
           }
         ],
         "sharpeRatio" : 0.7634438047508614
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-05-04",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "张璐",
-        "fundScale" : "100.27亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "018125",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-05-04",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢先进制造智选混合发起C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "人形机器人",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.5794551550648196
       },
       {
         "custodyFee" : "0.20%",
@@ -2034,6 +1773,72 @@
         "sharpeRatio" : 0.3135131328850598
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2013-08-22",
+        "fundCompany" : "华安基金",
+        "fundManager" : "许之彦",
+        "fundScale" : "97.22亿",
+        "fundType" : "指数型-其他",
+        "fundcode" : "000216",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2018-09-28",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华安黄金ETF联接A",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.06%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于365天",
+            "rate" : "0.10%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.18302762806219836
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2013-08-22",
+        "fundCompany" : "华安基金",
+        "fundManager" : "许之彦",
+        "fundScale" : "274.38亿",
+        "fundType" : "指数型-其他",
+        "fundcode" : "000217",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2018-09-28",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华安黄金ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.10%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.17073220452725227
+      },
+      {
         "custodyFee" : "0.15%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2023-09-27",
@@ -2069,49 +1874,19 @@
       {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2025-04-29",
-        "fundCompany" : "万家基金",
-        "fundManager" : "贺方舟",
-        "fundScale" : "8.26亿",
+        "establishedDate" : "2017-07-21",
+        "fundCompany" : "南方基金",
+        "fundManager" : "罗文杰",
+        "fundScale" : "1.78亿",
         "fundType" : "指数型-股票",
-        "fundcode" : "023829",
+        "fundcode" : "501302",
         "managementFee" : "0.50%",
-        "managerStartDate" : "2025-04-29",
+        "managerStartDate" : "2017-07-21",
         "minimumPurchaseAmount" : "10",
-        "name" : "万家中证半导体材料设备主题ETF发起式联接C",
-        "purchaseStatus" : "开放申购",
+        "name" : "南方恒指ETF联接(LOF)A",
+        "purchaseStatus" : "暂停申购",
         "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "半导体|材料",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 1.681208217527762
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2016-07-22",
-        "fundCompany" : "中金基金",
-        "fundManager" : "耿帅军,王阳峰",
-        "fundScale" : "11.70亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "003015",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2022-01-14",
-        "minimumPurchaseAmount" : "10",
-        "name" : "中金沪深300指数增强A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.10%",
+        "salesFee" : "0.12%",
         "sectorName" : "制造业",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
@@ -2120,15 +1895,53 @@
             "rate" : "1.50%"
           },
           {
+            "holdingPeriod" : "大于等于7天，小于180天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于180天，小于365天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.9242773158671616
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2018-01-02",
+        "fundCompany" : "广发基金",
+        "fundManager" : "罗国庆",
+        "fundScale" : "7.66亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "004753",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2018-01-02",
+        "minimumPurchaseAmount" : "10",
+        "name" : "广发中证传媒ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "传媒",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "大于等于1天，小于7天",
+            "rate" : "1.50%"
+          },
+          {
             "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.10%"
+            "rate" : "0.50%"
           },
           {
             "holdingPeriod" : "大于等于30天",
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.13453936050185272
+        "sharpeRatio" : -0.7872595425394512
       },
       {
         "custodyFee" : "0.20%",
@@ -2195,48 +2008,6 @@
           }
         ],
         "sharpeRatio" : 1.2840741169585157
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2020-12-30",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "张胜记",
-        "fundScale" : "34.57亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "010736",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2020-12-30",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达沪深300指数增强A",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于等于6天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于等于29天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于等于364天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于等于729天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.24548251305682678
       },
       {
         "custodyFee" : "0.15%",
@@ -2370,48 +2141,6 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2018-09-05",
-        "fundCompany" : "易方达基金",
-        "fundManager" : "张坤,杨思亮,何一铖",
-        "fundScale" : "204.16亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "005827",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-05-23",
-        "minimumPurchaseAmount" : "10",
-        "name" : "易方达蓝筹精选混合",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.15%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于等于29天",
-            "rate" : "0.75%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天，小于等于364天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于365天，小于等于729天",
-            "rate" : "0.25%"
-          },
-          {
-            "holdingPeriod" : "大于等于730天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -2.4651579114702566
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
         "establishedDate" : "2023-04-26",
         "fundCompany" : "天弘基金",
         "fundManager" : "LIU DONG(刘冬)",
@@ -2441,6 +2170,142 @@
           }
         ],
         "sharpeRatio" : 0.8590282228560459
+      },
+      {
+        "custodyFee" : "0.15%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2016-07-22",
+        "fundCompany" : "中金基金",
+        "fundManager" : "耿帅军,王阳峰",
+        "fundScale" : "11.70亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "003015",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2022-01-14",
+        "minimumPurchaseAmount" : "10",
+        "name" : "中金沪深300指数增强A",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.10%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.10%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.13453936050185272
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2020-12-30",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "张胜记",
+        "fundScale" : "34.57亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "010736",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2020-12-30",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达沪深300指数增强A",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于等于6天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于等于29天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于等于364天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天，小于等于729天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于730天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.24548251305682678
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2025-04-29",
+        "fundCompany" : "万家基金",
+        "fundManager" : "贺方舟",
+        "fundScale" : "8.26亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "023829",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-04-29",
+        "minimumPurchaseAmount" : "10",
+        "name" : "万家中证半导体材料设备主题ETF发起式联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "半导体|材料",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 1.681208217527762
+      },
+      {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-06-17",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "祁世超",
+        "fundScale" : "16.29亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "015897",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-10-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证细分化工产业主题ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "基础化工|材料",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.0726188144479523
       },
       {
         "custodyFee" : "0.10%",
@@ -2515,6 +2380,175 @@
         "sharpeRatio" : 0.08461219536106537
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-07-16",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "张戈",
+        "fundScale" : "38.86亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012895",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2025-10-11",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘中证科创创业50ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.06971683824685362
+      },
+      {
+        "custodyFee" : "0.05%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2025-10-29",
+        "fundCompany" : "国海富兰克林基金",
+        "fundManager" : "张志强",
+        "fundScale" : "1.26亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "024821",
+        "managementFee" : "0.40%",
+        "managerStartDate" : "2025-10-29",
+        "minimumPurchaseAmount" : "10",
+        "name" : "国富国证港股通科技指数C",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -1.6970262763673218
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-05-04",
+        "fundCompany" : "永赢基金",
+        "fundManager" : "张璐",
+        "fundScale" : "100.27亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "018125",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-05-04",
+        "minimumPurchaseAmount" : "10",
+        "name" : "永赢先进制造智选混合发起C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "人形机器人",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.5794551550648196
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2018-09-05",
+        "fundCompany" : "易方达基金",
+        "fundManager" : "张坤,杨思亮,何一铖",
+        "fundScale" : "204.16亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "005827",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-05-23",
+        "minimumPurchaseAmount" : "10",
+        "name" : "易方达蓝筹精选混合",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.15%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于等于29天",
+            "rate" : "0.75%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天，小于等于364天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于365天，小于等于729天",
+            "rate" : "0.25%"
+          },
+          {
+            "holdingPeriod" : "大于等于730天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -2.4651579114702566
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-12-03",
+        "fundCompany" : "华夏基金",
+        "fundManager" : "时赟凯",
+        "fundScale" : "4.49亿",
+        "fundType" : "混合型-偏股",
+        "fundcode" : "012710",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-03-26",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华夏核心成长混合C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "制造业",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.7694813981965178
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2008-06-19",
@@ -2559,20 +2593,20 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2021-12-03",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "时赟凯",
-        "fundScale" : "4.49亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "012710",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-03-26",
+        "establishedDate" : "2021-05-18",
+        "fundCompany" : "招商基金",
+        "fundManager" : "侯昊",
+        "fundScale" : "115.62亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012414",
+        "managementFee" : "1.00%",
+        "managerStartDate" : "2021-05-18",
         "minimumPurchaseAmount" : "10",
-        "name" : "华夏核心成长混合C",
-        "purchaseStatus" : "开放申购",
+        "name" : "招商中证白酒指数(LOF)C",
+        "purchaseStatus" : "限大额",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "制造业",
+        "sectorName" : "白酒|食品饮料",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -2580,15 +2614,11 @@
             "rate" : "1.50%"
           },
           {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
+            "holdingPeriod" : "大于等于7天",
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.7694813981965178
+        "sharpeRatio" : -1.581251081231639
       },
       {
         "custodyFee" : "0.10%",
@@ -2623,36 +2653,6 @@
           }
         ],
         "sharpeRatio" : -0.45439730796289485
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-05-18",
-        "fundCompany" : "招商基金",
-        "fundManager" : "侯昊",
-        "fundScale" : "115.62亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "012414",
-        "managementFee" : "1.00%",
-        "managerStartDate" : "2021-05-18",
-        "minimumPurchaseAmount" : "10",
-        "name" : "招商中证白酒指数(LOF)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "白酒|食品饮料",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -1.581251081231639
       },
       {
         "custodyFee" : "0.20%",
@@ -2725,5 +2725,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-21T04:21:19Z"
+  "updatedAt" : "2026-10-21T08:41:41Z"
 }
