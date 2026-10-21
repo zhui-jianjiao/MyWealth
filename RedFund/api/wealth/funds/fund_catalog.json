@@ -565,6 +565,35 @@
       },
       {
         "custodyFee" : "0.20%",
+        "dataSource" : "新浪持仓参考（覆盖32.6%）",
+        "establishedDate" : "2018-06-07",
+        "fundCompany" : "博时基金",
+        "fundManager" : "万琼",
+        "fundScale" : "12.86亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "006075",
+        "managementFee" : "0.60%",
+        "managerStartDate" : "2021-09-23",
+        "minimumPurchaseAmount" : "10",
+        "name" : "博时标普500ETF联接C",
+        "purchaseStatus" : "暂停申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.648324420505935
+      },
+      {
+        "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2010-05-25",
         "fundCompany" : "工银瑞信基金",
@@ -1355,35 +1384,6 @@
           }
         ],
         "sharpeRatio" : -1.0201327014403734
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2018-06-07",
-        "fundCompany" : "博时基金",
-        "fundManager" : "万琼",
-        "fundScale" : "12.86亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "006075",
-        "managementFee" : "0.60%",
-        "managerStartDate" : "2021-09-23",
-        "minimumPurchaseAmount" : "10",
-        "name" : "博时标普500ETF联接C",
-        "purchaseStatus" : "暂停申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.7391357291982941
       },
       {
         "custodyFee" : "0.10%",
@@ -2725,5 +2725,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-21T16:11:52Z"
+  "updatedAt" : "2026-10-21T16:30:18Z"
 }
