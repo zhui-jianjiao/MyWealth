@@ -39,11 +39,11 @@
     "sortOrder" : "asc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        5,
+        3,
+        4,
         2,
         6,
-        3,
-        4
+        5
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-22T07:05:49Z"
+  "updatedAt" : "2026-10-22T08:59:00Z"
 }
