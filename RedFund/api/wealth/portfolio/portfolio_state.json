@@ -1446,11 +1446,6 @@
         "purchasePrice" : 2.242608607586599,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-10-11T16:00:00Z",
-            "netValue" : 2.3598,
-            "returnRate" : -0.7
-          },
-          {
             "date" : "2026-10-12T16:00:00Z",
             "netValue" : 2.3522,
             "returnRate" : -0.32
@@ -1479,6 +1474,11 @@
             "date" : "2026-10-19T16:00:00Z",
             "netValue" : 2.2691,
             "returnRate" : -0.14
+          },
+          {
+            "date" : "2026-10-20T16:00:00Z",
+            "netValue" : 2.2932,
+            "returnRate" : 1.06
           }
         ],
         "shares" : 2635.7697816745517
@@ -1487,11 +1487,6 @@
         "comment" : "美股票少",
         "purchasePrice" : 2.888458669220149,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-10-11T16:00:00Z",
-            "netValue" : 2.5467,
-            "returnRate" : -4.09
-          },
           {
             "date" : "2026-10-12T16:00:00Z",
             "netValue" : 2.4965,
@@ -1521,6 +1516,11 @@
             "date" : "2026-10-19T16:00:00Z",
             "netValue" : 2.2222,
             "returnRate" : -1.1
+          },
+          {
+            "date" : "2026-10-20T16:00:00Z",
+            "netValue" : 2.2722,
+            "returnRate" : 2.25
           }
         ],
         "shares" : 3150.469174778567
@@ -1528,11 +1528,6 @@
       "016702" : {
         "purchasePrice" : 2.1480433368104688,
         "recentHistoryNetValues" : [
-          {
-            "date" : "2026-10-08T16:00:00Z",
-            "netValue" : 2.1876,
-            "returnRate" : 0.29
-          },
           {
             "date" : "2026-10-11T16:00:00Z",
             "netValue" : 2.1609,
@@ -1562,6 +1557,11 @@
             "date" : "2026-10-19T16:00:00Z",
             "netValue" : 2.0414,
             "returnRate" : 0
+          },
+          {
+            "date" : "2026-10-20T16:00:00Z",
+            "netValue" : 2.0657,
+            "returnRate" : 1.19
           }
         ],
         "shares" : 931.0799115299548
@@ -2568,5 +2568,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-22T11:29:28Z"
+  "updatedAt" : "2026-10-22T11:57:36Z"
 }
