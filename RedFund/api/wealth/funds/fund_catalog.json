@@ -950,39 +950,6 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2023-04-26",
-        "fundCompany" : "天弘基金",
-        "fundManager" : "LIU DONG(刘冬)",
-        "fundScale" : "41.44亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "016665",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-09-14",
-        "minimumPurchaseAmount" : "10",
-        "name" : "天弘全球高端制造混合(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.6180119791816626
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
         "establishedDate" : "2009-03-10",
         "fundCompany" : "诺安基金",
         "fundManager" : "刘慧影",
@@ -1016,7 +983,40 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.4595859940225174
+        "sharpeRatio" : 0.7038100712692028
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-04-26",
+        "fundCompany" : "天弘基金",
+        "fundManager" : "LIU DONG(刘冬)",
+        "fundScale" : "41.44亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "016665",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-09-14",
+        "minimumPurchaseAmount" : "10",
+        "name" : "天弘全球高端制造混合(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.6180119791816626
       },
       {
         "custodyFee" : "0.20%",
@@ -2725,5 +2725,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-23T15:57:18Z"
+  "updatedAt" : "2026-10-23T15:57:36Z"
 }
