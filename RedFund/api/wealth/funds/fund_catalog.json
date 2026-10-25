@@ -1534,6 +1534,36 @@
         "sharpeRatio" : 1.2314886478555092
       },
       {
+        "custodyFee" : "0.10%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2021-07-07",
+        "fundCompany" : "广发基金",
+        "fundManager" : "罗国庆",
+        "fundScale" : "13.84亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "012738",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2021-07-07",
+        "minimumPurchaseAmount" : "10",
+        "name" : "广发创新药ETF联接C",
+        "purchaseStatus" : "开放申购",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sectorName" : "创新药|医药生物",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.3871786341621997
+      },
+      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2022-11-22",
@@ -2725,5 +2755,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-25T09:38:50Z"
+  "updatedAt" : "2026-10-25T09:45:12Z"
 }
