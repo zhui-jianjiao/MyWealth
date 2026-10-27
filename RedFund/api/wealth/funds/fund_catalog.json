@@ -2516,40 +2516,6 @@
         "sharpeRatio" : 1.1925087523367084
       },
       {
-        "custodyFee" : "0.05%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-11-22",
-        "fundCompany" : "永赢基金",
-        "fundManager" : "单林",
-        "fundScale" : "45.97亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "015916",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-07-31",
-        "minimumPurchaseAmount" : "10",
-        "name" : "永赢医药创新智选混合发起C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "创新药|精准医疗",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.35315564521380277
-      },
-      {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2017-01-25",
@@ -2725,5 +2691,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-27T03:35:31Z"
+  "updatedAt" : "2026-10-27T03:35:53Z"
 }
