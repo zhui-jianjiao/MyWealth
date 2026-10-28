@@ -1821,40 +1821,6 @@
         "sharpeRatio" : -0.22535324736460913
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2021-12-03",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "时赟凯",
-        "fundScale" : "2.96亿",
-        "fundType" : "混合型-偏股",
-        "fundcode" : "012710",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-03-26",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华夏核心成长混合C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "制造业",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.7841894742231957
-      },
-      {
         "custodyFee" : "0.10%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2013-08-22",
@@ -2691,5 +2657,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-28T02:41:19Z"
+  "updatedAt" : "2026-10-28T04:23:57Z"
 }
