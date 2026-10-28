@@ -1183,39 +1183,6 @@
         "sharpeRatio" : 0.8823731118646755
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2025-05-13",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "李湘杰",
-        "fundScale" : "43.65亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "024239",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-05-13",
-        "minimumPurchaseAmount" : "10",
-        "name" : "华夏全球科技先锋混合(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.2116768604736437
-      },
-      {
         "custodyFee" : "0.15%",
         "dataSource" : "新浪财经",
         "establishedDate" : "2016-07-22",
@@ -1252,6 +1219,39 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
+        "establishedDate" : "2025-05-13",
+        "fundCompany" : "华夏基金",
+        "fundManager" : "李湘杰",
+        "fundScale" : "43.65亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "024239",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-05-13",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华夏全球科技先锋混合(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.2116768604736437
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
         "establishedDate" : "2024-09-18",
         "fundCompany" : "富国基金",
         "fundManager" : "赵年珅",
@@ -1280,7 +1280,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.45271479992522673
+        "sharpeRatio" : 0.5936847950585512
       },
       {
         "custodyFee" : "0.20%",
@@ -1513,7 +1513,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.6857411767959081
+        "sharpeRatio" : 0.8028482866953068
       },
       {
         "custodyFee" : "0.20%",
@@ -2186,7 +2186,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.1697673688036834
+        "sharpeRatio" : 1.249010268141034
       },
       {
         "custodyFee" : "0.20%",
@@ -2271,39 +2271,6 @@
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2023-03-15",
-        "fundCompany" : "银华基金",
-        "fundManager" : "马君",
-        "fundScale" : "46.89亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "016702",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-03-15",
-        "minimumPurchaseAmount" : "10",
-        "name" : "银华海外数字经济量化选股混合发起式(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.7188101316957061
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
         "establishedDate" : "2022-01-11",
         "fundCompany" : "易方达基金",
         "fundManager" : "郑希",
@@ -2365,7 +2332,40 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.26782228091018
+        "sharpeRatio" : 1.2749413349094474
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-03-15",
+        "fundCompany" : "银华基金",
+        "fundManager" : "马君",
+        "fundScale" : "46.89亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "016702",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-03-15",
+        "minimumPurchaseAmount" : "10",
+        "name" : "银华海外数字经济量化选股混合发起式(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.7188101316957061
       },
       {
         "custodyFee" : "0.20%",
@@ -2394,7 +2394,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.481862516589672
+        "sharpeRatio" : 0.5764112866103636
       },
       {
         "custodyFee" : "0.10%",
@@ -2523,7 +2523,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.6680931243371062
+        "sharpeRatio" : 0.7296319500305067
       },
       {
         "custodyFee" : "0.15%",
@@ -2552,7 +2552,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.5510086335092315
+        "sharpeRatio" : 0.648847562017682
       },
       {
         "custodyFee" : "0.10%",
@@ -2652,10 +2652,10 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 1.2072947092833148
+        "sharpeRatio" : 1.2182494608019168
       }
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-28T10:20:53Z"
+  "updatedAt" : "2026-10-28T14:10:38Z"
 }
