@@ -1817,11 +1817,6 @@
         "purchasePrice" : 1.1885032628844778,
         "recentHistoryNetValues" : [
           {
-            "date" : "2026-10-15T16:00:00Z",
-            "netValue" : 1.2327,
-            "returnRate" : 2.32
-          },
-          {
             "date" : "2026-10-18T16:00:00Z",
             "netValue" : 1.2281,
             "returnRate" : -0.37
@@ -1850,6 +1845,11 @@
             "date" : "2026-10-25T16:00:00Z",
             "netValue" : 1.258,
             "returnRate" : 1.46
+          },
+          {
+            "date" : "2026-10-26T16:00:00Z",
+            "netValue" : 1.2305,
+            "returnRate" : -2.19
           }
         ],
         "shares" : 4294.241471086378
@@ -2525,5 +2525,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-28T09:34:27Z"
+  "updatedAt" : "2026-10-28T09:39:39Z"
 }
