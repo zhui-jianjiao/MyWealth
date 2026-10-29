@@ -35,15 +35,15 @@
       "🪨工业金属" : 10
     },
     "selectedDataSource" : "sina",
-    "sortField" : "rate",
+    "sortField" : "nav",
     "sortOrder" : "desc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        3,
         6,
+        5,
         2,
-        4,
-        5
+        3,
+        4
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-29T02:01:19Z"
+  "updatedAt" : "2026-10-29T06:06:43Z"
 }
