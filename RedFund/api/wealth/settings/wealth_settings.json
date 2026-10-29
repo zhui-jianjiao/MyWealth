@@ -36,12 +36,12 @@
     },
     "selectedDataSource" : "sina",
     "sortField" : "nav",
-    "sortOrder" : "desc",
+    "sortOrder" : "asc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        6,
         5,
         2,
+        6,
         3,
         4
       ],
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-29T06:06:43Z"
+  "updatedAt" : "2026-10-29T06:09:17Z"
 }
