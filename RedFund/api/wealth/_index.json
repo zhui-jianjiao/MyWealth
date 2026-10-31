@@ -1,13 +1,1 @@
-{
-  "api" : "wealth_index",
-  "data" : {
-    "files" : {
-      "portfolioState" : "portfolio/portfolio_state.json",
-      "selectedFunds" : "funds/fund_catalog.json",
-      "settings" : "settings/wealth_settings.json",
-      "tagState" : "tags/tag_state.json"
-    }
-  },
-  "module" : "wealth",
-  "updatedAt" : "2026-10-31T03:15:17Z"
-}
+{"api":"wealth_index","contentRevision":"99e5e10ea9ec918f05cfe57a7e34e17a9973e5b555252343c1d843d4300b4f53","data":{"files":{"portfolioState":"portfolio\/portfolio_state.json","selectedFunds":"funds\/fund_catalog.json","settings":"settings\/wealth_settings.json","tagState":"tags\/tag_state.json"}},"module":"wealth","updatedAt":"2026-10-31T03:55:48Z"}
