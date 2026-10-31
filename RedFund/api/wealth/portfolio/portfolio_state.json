@@ -691,48 +691,6 @@
         ],
         "shares" : 4146.377906488709
       },
-      "010416" : {
-        "comment" : "已转换1/4",
-        "purchasePrice" : 2.568813279744643,
-        "recentHistoryNetValues" : [
-          {
-            "date" : "2026-10-21T16:00:00Z",
-            "netValue" : 1.4351,
-            "returnRate" : -7.24
-          },
-          {
-            "date" : "2026-10-22T16:00:00Z",
-            "netValue" : 1.4553,
-            "returnRate" : 1.41
-          },
-          {
-            "date" : "2026-10-25T16:00:00Z",
-            "netValue" : 1.373,
-            "returnRate" : -5.66
-          },
-          {
-            "date" : "2026-10-26T16:00:00Z",
-            "netValue" : 1.3345,
-            "returnRate" : -2.8
-          },
-          {
-            "date" : "2026-10-27T16:00:00Z",
-            "netValue" : 1.4109,
-            "returnRate" : 5.72
-          },
-          {
-            "date" : "2026-10-28T16:00:00Z",
-            "netValue" : 1.2881,
-            "returnRate" : -8.7
-          },
-          {
-            "date" : "2026-10-29T16:00:00Z",
-            "netValue" : 1.2043,
-            "returnRate" : -6.51
-          }
-        ],
-        "shares" : 748.4195193008011
-      },
       "010736" : {
         "comment" : "慢慢转，手续费太贵太长了",
         "purchasePrice" : 1.336614547025561,
@@ -2480,5 +2438,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-31T02:46:40Z"
+  "updatedAt" : "2026-10-31T02:47:16Z"
 }
