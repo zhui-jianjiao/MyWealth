@@ -858,48 +858,6 @@
         ],
         "shares" : 10797.657273918741
       },
-      "011452" : {
-        "comment" : "两个华泰合并到此",
-        "purchasePrice" : 3.5019862643579858,
-        "recentHistoryNetValues" : [
-          {
-            "date" : "2026-10-21T16:00:00Z",
-            "netValue" : 2.0512,
-            "returnRate" : -7.5
-          },
-          {
-            "date" : "2026-10-22T16:00:00Z",
-            "netValue" : 2.0791,
-            "returnRate" : 1.36
-          },
-          {
-            "date" : "2026-10-25T16:00:00Z",
-            "netValue" : 1.9563,
-            "returnRate" : -5.91
-          },
-          {
-            "date" : "2026-10-26T16:00:00Z",
-            "netValue" : 1.8997,
-            "returnRate" : -2.89
-          },
-          {
-            "date" : "2026-10-27T16:00:00Z",
-            "netValue" : 2.0139,
-            "returnRate" : 6.01
-          },
-          {
-            "date" : "2026-10-28T16:00:00Z",
-            "netValue" : 1.829,
-            "returnRate" : -9.18
-          },
-          {
-            "date" : "2026-10-29T16:00:00Z",
-            "netValue" : 1.7087,
-            "returnRate" : -6.58
-          }
-        ],
-        "shares" : 777.0076164187496
-      },
       "011609" : {
         "purchasePrice" : 1.3394979436095207,
         "recentHistoryNetValues" : [
@@ -2522,5 +2480,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-10-31T02:46:13Z"
+  "updatedAt" : "2026-10-31T02:46:40Z"
 }
