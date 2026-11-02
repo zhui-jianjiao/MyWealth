@@ -36,13 +36,13 @@
     },
     "selectedDataSource" : "sina",
     "sortField" : "rate",
-    "sortOrder" : "asc",
+    "sortOrder" : "desc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
         3,
+        5,
         2,
         6,
-        5,
         4
       ],
       "endTime" : "2026-04-12T07:00:00Z",
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-11-01T13:12:21Z"
+  "updatedAt" : "2026-11-02T03:19:00Z"
 }
