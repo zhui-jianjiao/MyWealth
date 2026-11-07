@@ -34,16 +34,16 @@
       "🧮云计算/应用" : 5,
       "🪨工业金属" : 10
     },
-    "selectedDataSource" : "ths",
-    "sortField" : "holdingValue",
+    "selectedDataSource" : "sina",
+    "sortField" : "rate",
     "sortOrder" : "desc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
         3,
-        6,
         2,
         4,
-        5
+        5,
+        6
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
@@ -55,5 +55,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-11-06T09:46:20Z"
+  "updatedAt" : "2026-11-06T16:47:29Z"
 }
