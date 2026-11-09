@@ -30,7 +30,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.11882405141807224
+        "sharpeRatio" : 0.0991823343544879
       },
       {
         "custodyFee" : "0.15%",
@@ -310,7 +310,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.30404802315604745
+        "sharpeRatio" : 0.3040699272559859
       },
       {
         "custodyFee" : "0.20%",
@@ -475,7 +475,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.29619500733608356
+        "sharpeRatio" : 0.2967741266020702
       },
       {
         "custodyFee" : "0.20%",
@@ -509,7 +509,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.30401994197504967
+        "sharpeRatio" : 0.30350374259446083
       },
       {
         "custodyFee" : "0.20%",
@@ -718,7 +718,7 @@
         "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sectorName" : "贵金属|有色金属",
+        "sectorName" : "有色金属|贵金属",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -1167,7 +1167,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.8112148819465104
+        "sharpeRatio" : -0.8091711054180429
       },
       {
         "custodyFee" : "0.10%",
@@ -1472,5 +1472,5 @@
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-11-08T11:29:45Z"
+  "updatedAt" : "2026-11-09T02:01:56Z"
 }
