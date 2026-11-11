@@ -1,7 +1,7 @@
 {
   "api" : "wealth_settings",
   "data" : {
-    "fallbackDataSource" : "ths",
+    "fallbackDataSource" : "sina",
     "notifications" : [
       {
         "body" : "快去看看👀，马上暴富了💰💵💸💷💶💴",
@@ -36,16 +36,16 @@
       "🪨工业金属" : 10
     },
     "quoteDisplayMode" : "latestTradingDay",
-    "selectedDataSource" : "sina",
-    "sortField" : "nav",
+    "selectedDataSource" : "ths",
+    "sortField" : "holdingValue",
     "sortOrder" : "desc",
     "thresholdConfig" : {
       "enabledWeekdays" : [
-        6,
-        4,
+        3,
         2,
         5,
-        3
+        6,
+        4
       ],
       "endTime" : "2026-04-12T07:00:00Z",
       "holdingRiskConsecutiveTradingDays" : 3,
@@ -57,5 +57,5 @@
     }
   },
   "module" : "wealth",
-  "updatedAt" : "2026-11-10T16:41:58Z"
+  "updatedAt" : "2026-11-11T05:14:24Z"
 }
