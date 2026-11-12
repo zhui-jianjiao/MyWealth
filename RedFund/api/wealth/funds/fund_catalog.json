@@ -30,7 +30,40 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.3005949165479407
+        "sharpeRatio" : 0.4391971332426919
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-03-17",
+        "fundCompany" : "建信基金",
+        "fundManager" : "李博涵,程星烨,房乐",
+        "fundScale" : "83.38亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "018147",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-06-18",
+        "minimumPurchaseAmount" : "10",
+        "name" : "建信新兴市场混合(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.7810551552821509
       },
       {
         "custodyFee" : "0.20%",
@@ -64,7 +97,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.17937231660452876
+        "sharpeRatio" : -0.06614387448147306
       },
       {
         "custodyFee" : "0.20%",
@@ -98,7 +131,73 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.2828478957014195
+        "sharpeRatio" : 0.3572147062551473
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2025-05-13",
+        "fundCompany" : "华夏基金",
+        "fundManager" : "李湘杰",
+        "fundScale" : "43.65亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "024239",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-05-13",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华夏全球科技先锋混合(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.30655320625592986
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-03-02",
+        "fundCompany" : "华宝基金",
+        "fundManager" : "周晶,赵启元",
+        "fundScale" : "67.00亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "017437",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2024-11-06",
+        "minimumPurchaseAmount" : "10",
+        "name" : "华宝纳斯达克精选股票发起式(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : -0.5409546991852258
       },
       {
         "custodyFee" : "0.10%",
@@ -128,7 +227,73 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.4094744792767254
+        "sharpeRatio" : -0.3569674645876701
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2024-07-25",
+        "fundCompany" : "国海富兰克林基金",
+        "fundManager" : "狄星华",
+        "fundScale" : "31.80亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "021842",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2026-09-19",
+        "minimumPurchaseAmount" : "10",
+        "name" : "国富全球科技互联混合(QDII)人民币C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.8771918123901836
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2024-09-18",
+        "fundCompany" : "富国基金",
+        "fundManager" : "赵年珅",
+        "fundScale" : "57.20亿",
+        "fundType" : "QDII-普通股票",
+        "fundcode" : "022184",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2025-11-13",
+        "minimumPurchaseAmount" : "10",
+        "name" : "富国全球科技互联网股票(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.21421059958874566
       },
       {
         "custodyFee" : "0.20%",
@@ -162,7 +327,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -1.4529005572251492
+        "sharpeRatio" : -1.3947569187471491
       },
       {
         "custodyFee" : "0.05%",
@@ -192,7 +357,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.1182639264310433
+        "sharpeRatio" : -0.045310190955017364
       },
       {
         "custodyFee" : "0.10%",
@@ -226,7 +391,40 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.24258328481713096
+        "sharpeRatio" : -0.19778639786630223
+      },
+      {
+        "custodyFee" : "0.20%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-03-15",
+        "fundCompany" : "银华基金",
+        "fundManager" : "马君",
+        "fundScale" : "46.89亿",
+        "fundType" : "QDII-混合偏股",
+        "fundcode" : "016702",
+        "managementFee" : "1.20%",
+        "managerStartDate" : "2023-03-15",
+        "minimumPurchaseAmount" : "10",
+        "name" : "银华海外数字经济量化选股混合发起式(QDII)C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天，小于30天",
+            "rate" : "0.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于30天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.29526985248501
       },
       {
         "custodyFee" : "0.20%",
@@ -256,7 +454,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.2891752377757987
+        "sharpeRatio" : 0.355724516506567
       },
       {
         "custodyFee" : "0.05%",
@@ -286,7 +484,36 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.13972510724470283
+        "sharpeRatio" : -0.10189009490934149
+      },
+      {
+        "custodyFee" : "0.15%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2022-11-29",
+        "fundCompany" : "南方基金",
+        "fundManager" : "张其思",
+        "fundScale" : "67.32亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "016452",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2022-11-29",
+        "minimumPurchaseAmount" : "10",
+        "name" : "南方纳斯达克100指数发起(QDII)A",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.12%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.06488899149042943
       },
       {
         "custodyFee" : "0.20%",
@@ -315,7 +542,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.04190761113387609
+        "sharpeRatio" : -0.01983645837933013
       },
       {
         "custodyFee" : "0.05%",
@@ -349,7 +576,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.6449444799253895
+        "sharpeRatio" : 0.7196963844904064
       },
       {
         "custodyFee" : "0.20%",
@@ -382,7 +609,65 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.2160197025081862
+        "sharpeRatio" : 0.2359619287796887
+      },
+      {
+        "custodyFee" : "0.15%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-09-05",
+        "fundCompany" : "博时基金",
+        "fundManager" : "王祥",
+        "fundScale" : "1.79亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "018853",
+        "managementFee" : "0.80%",
+        "managerStartDate" : "2023-09-05",
+        "minimumPurchaseAmount" : "10",
+        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 1.0546942558884662
+      },
+      {
+        "custodyFee" : "0.15%",
+        "dataSource" : "新浪财经",
+        "establishedDate" : "2023-09-01",
+        "fundCompany" : "摩根基金(中国)",
+        "fundManager" : "张军",
+        "fundScale" : "19.88亿",
+        "fundType" : "指数型-海外股票",
+        "fundcode" : "019305",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2023-09-01",
+        "minimumPurchaseAmount" : "10",
+        "name" : "摩根标普500指数(QDII)人民币C",
+        "purchaseStatus" : "限大额",
+        "riskLevel" : "4",
+        "salesFee" : "0.00%",
+        "sellFee" : "0.00%-1.50%",
+        "sellFeeTiers" : [
+          {
+            "holdingPeriod" : "小于7天",
+            "rate" : "1.50%"
+          },
+          {
+            "holdingPeriod" : "大于等于7天",
+            "rate" : "0.00%"
+          }
+        ],
+        "sharpeRatio" : 0.2522764515195716
       },
       {
         "custodyFee" : "0.10%",
@@ -412,7 +697,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.3902592543837895
+        "sharpeRatio" : -0.3704592860534223
       },
       {
         "custodyFee" : "0.15%",
@@ -446,7 +731,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.17470220017263904
+        "sharpeRatio" : -0.1762876410040191
       },
       {
         "custodyFee" : "0.15%",
@@ -476,7 +761,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.19232566522169128
+        "sharpeRatio" : -0.19391255290247372
       },
       {
         "custodyFee" : "0.10%",
@@ -506,7 +791,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.8312296723324473
+        "sharpeRatio" : -0.9932681636493784
       },
       {
         "custodyFee" : "0.10%",
@@ -540,40 +825,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.39553294452174953
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2024-09-18",
-        "fundCompany" : "富国基金",
-        "fundManager" : "赵年珅",
-        "fundScale" : "57.20亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "022184",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2025-11-13",
-        "minimumPurchaseAmount" : "10",
-        "name" : "富国全球科技互联网股票(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.14399393124838955
+        "sharpeRatio" : -0.5104543930439894
       },
       {
         "custodyFee" : "0.20%",
@@ -607,7 +859,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.05120907219828797
+        "sharpeRatio" : 0.0420088596842726
       },
       {
         "custodyFee" : "0.05%",
@@ -637,7 +889,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.10211933021070037
+        "sharpeRatio" : 0.13024917848123896
       },
       {
         "custodyFee" : "0.20%",
@@ -670,21 +922,21 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.6113595284627625
+        "sharpeRatio" : 0.6300189458213291
       },
       {
         "custodyFee" : "0.20%",
         "dataSource" : "新浪财经",
-        "establishedDate" : "2025-05-13",
-        "fundCompany" : "华夏基金",
-        "fundManager" : "李湘杰",
-        "fundScale" : "43.65亿",
+        "establishedDate" : "2023-09-22",
+        "fundCompany" : "摩根基金(中国)",
+        "fundManager" : "张军",
+        "fundScale" : "2.43亿",
         "fundType" : "QDII-混合偏股",
-        "fundcode" : "024239",
+        "fundcode" : "019578",
         "managementFee" : "1.20%",
-        "managerStartDate" : "2025-05-13",
+        "managerStartDate" : "2023-09-22",
         "minimumPurchaseAmount" : "10",
-        "name" : "华夏全球科技先锋混合(QDII)C",
+        "name" : "摩根全球天然资源混合(QDII)C",
         "purchaseStatus" : "限大额",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
@@ -703,7 +955,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.2826426022179107
+        "sharpeRatio" : 1.0527482767876315
       },
       {
         "custodyFee" : "0.10%",
@@ -733,7 +985,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.5130004363868618
+        "sharpeRatio" : -0.5661170553498219
       },
       {
         "custodyFee" : "0.20%",
@@ -767,7 +1019,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.37949158987775
+        "sharpeRatio" : 0.3515888475299503
       },
       {
         "custodyFee" : "0.20%",
@@ -800,36 +1052,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.8007980196120201
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-09-01",
-        "fundCompany" : "摩根基金(中国)",
-        "fundManager" : "张军",
-        "fundScale" : "19.88亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "019305",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2023-09-01",
-        "minimumPurchaseAmount" : "10",
-        "name" : "摩根标普500指数(QDII)人民币C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.29699141952903607
+        "sharpeRatio" : 0.7919812713930097
       },
       {
         "custodyFee" : "0.15%",
@@ -863,7 +1086,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.4301960455256366
+        "sharpeRatio" : -0.4645295385804621
       },
       {
         "custodyFee" : "0.20%",
@@ -905,7 +1128,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.17672133268218254
+        "sharpeRatio" : -0.1280854781649073
       },
       {
         "custodyFee" : "0.10%",
@@ -935,57 +1158,25 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.055935597596061114
+        "sharpeRatio" : -0.17001275027896612
       },
       {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-03-02",
-        "fundCompany" : "华宝基金",
-        "fundManager" : "周晶,赵启元",
-        "fundScale" : "67.00亿",
-        "fundType" : "QDII-普通股票",
-        "fundcode" : "017437",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-11-06",
+        "custodyFee" : "0.10%",
+        "dataSource" : "同花顺",
+        "establishedDate" : "2023-05-16",
+        "fundCompany" : "博时基金",
+        "fundManager" : "王祥",
+        "fundScale" : "12.00亿",
+        "fundType" : "指数型-股票",
+        "fundcode" : "018133",
+        "managementFee" : "0.50%",
+        "managerStartDate" : "2023-05-16",
         "minimumPurchaseAmount" : "10",
-        "name" : "华宝纳斯达克精选股票发起式(QDII)C",
-        "purchaseStatus" : "限大额",
+        "name" : "博时中证有色金属矿业主题ETF联接C",
+        "purchaseStatus" : "开放申购",
         "riskLevel" : "4",
         "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.4464745690312901
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2022-11-29",
-        "fundCompany" : "南方基金",
-        "fundManager" : "张其思",
-        "fundScale" : "67.32亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "016452",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2022-11-29",
-        "minimumPurchaseAmount" : "10",
-        "name" : "南方纳斯达克100指数发起(QDII)A",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.12%",
+        "sectorName" : "有色金属|材料",
         "sellFee" : "0.00%-1.50%",
         "sellFeeTiers" : [
           {
@@ -997,7 +1188,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.12611213063304283
+        "sharpeRatio" : -0.16917640724423672
       },
       {
         "custodyFee" : "0.10%",
@@ -1031,7 +1222,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.30018518063350763
+        "sharpeRatio" : -0.34496938600687055
       },
       {
         "custodyFee" : "0.20%",
@@ -1065,198 +1256,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.29571967662858806
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-03-17",
-        "fundCompany" : "建信基金",
-        "fundManager" : "李博涵,程星烨,房乐",
-        "fundScale" : "83.38亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "018147",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2024-06-18",
-        "minimumPurchaseAmount" : "10",
-        "name" : "建信新兴市场混合(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.6930156798297643
-      },
-      {
-        "custodyFee" : "0.15%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-09-05",
-        "fundCompany" : "博时基金",
-        "fundManager" : "王祥",
-        "fundScale" : "1.79亿",
-        "fundType" : "指数型-海外股票",
-        "fundcode" : "018853",
-        "managementFee" : "0.80%",
-        "managerStartDate" : "2023-09-05",
-        "minimumPurchaseAmount" : "10",
-        "name" : "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.9609376416074128
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-09-22",
-        "fundCompany" : "摩根基金(中国)",
-        "fundManager" : "张军",
-        "fundScale" : "2.43亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "019578",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-09-22",
-        "minimumPurchaseAmount" : "10",
-        "name" : "摩根全球天然资源混合(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 1.1104097453178896
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2023-03-15",
-        "fundCompany" : "银华基金",
-        "fundManager" : "马君",
-        "fundScale" : "46.89亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "016702",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2023-03-15",
-        "minimumPurchaseAmount" : "10",
-        "name" : "银华海外数字经济量化选股混合发起式(QDII)C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.17352034545907805
-      },
-      {
-        "custodyFee" : "0.10%",
-        "dataSource" : "同花顺",
-        "establishedDate" : "2023-05-16",
-        "fundCompany" : "博时基金",
-        "fundManager" : "王祥",
-        "fundScale" : "12.00亿",
-        "fundType" : "指数型-股票",
-        "fundcode" : "018133",
-        "managementFee" : "0.50%",
-        "managerStartDate" : "2023-05-16",
-        "minimumPurchaseAmount" : "10",
-        "name" : "博时中证有色金属矿业主题ETF联接C",
-        "purchaseStatus" : "开放申购",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sectorName" : "有色金属|材料",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : -0.16917640724423672
-      },
-      {
-        "custodyFee" : "0.20%",
-        "dataSource" : "新浪财经",
-        "establishedDate" : "2024-07-25",
-        "fundCompany" : "国海富兰克林基金",
-        "fundManager" : "狄星华",
-        "fundScale" : "31.80亿",
-        "fundType" : "QDII-混合偏股",
-        "fundcode" : "021842",
-        "managementFee" : "1.20%",
-        "managerStartDate" : "2026-09-19",
-        "minimumPurchaseAmount" : "10",
-        "name" : "国富全球科技互联混合(QDII)人民币C",
-        "purchaseStatus" : "限大额",
-        "riskLevel" : "4",
-        "salesFee" : "0.00%",
-        "sellFee" : "0.00%-1.50%",
-        "sellFeeTiers" : [
-          {
-            "holdingPeriod" : "小于7天",
-            "rate" : "1.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于7天，小于30天",
-            "rate" : "0.50%"
-          },
-          {
-            "holdingPeriod" : "大于等于30天",
-            "rate" : "0.00%"
-          }
-        ],
-        "sharpeRatio" : 0.8936777843701473
+        "sharpeRatio" : 0.21968671340823034
       },
       {
         "custodyFee" : "0.10%",
@@ -1294,7 +1294,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.19596463993592436
+        "sharpeRatio" : 0.21575457317890764
       },
       {
         "custodyFee" : "0.10%",
@@ -1328,7 +1328,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : 0.1798349878300874
+        "sharpeRatio" : 0.1987492219329013
       },
       {
         "custodyFee" : "0.10%",
@@ -1366,7 +1366,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -0.6980027011807501
+        "sharpeRatio" : -0.7489862592213574
       },
       {
         "custodyFee" : "0.05%",
@@ -1395,7 +1395,7 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -1.2666150836561454
+        "sharpeRatio" : -1.3175465401272082
       },
       {
         "custodyFee" : "0.20%",
@@ -1425,10 +1425,10 @@
             "rate" : "0.00%"
           }
         ],
-        "sharpeRatio" : -1.0753134813327956
+        "sharpeRatio" : -1.1694742654928998
       }
     ]
   },
   "module" : "wealth",
-  "updatedAt" : "2026-11-11T07:01:18Z"
+  "updatedAt" : "2026-11-11T16:31:31Z"
 }
